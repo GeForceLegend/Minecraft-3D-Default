@@ -1,0 +1,8 @@
+{
+    "__comment": "Designed by GeForceLegend",
+    "ambientocclusion": false,
+    "textures": {
+    	"particle": "item/iron_bars",
+		"texture": "null"
+    }
+}

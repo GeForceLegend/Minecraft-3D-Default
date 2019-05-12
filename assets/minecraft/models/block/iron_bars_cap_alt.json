@@ -1,0 +1,32 @@
+{
+	"__comment": "Designed by GeForceLegend",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "item/iron_bars",
+		"texture": "block/iron_bars_caps"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 7, 0, 7 ],
+			"to": [ 8, 16, 8 ],
+			"faces": {
+				"down": { "uv": [ 4, 15, 5, 16 ], "texture": "#texture", "rotation": 180 },
+				"up": { "uv": [ 5, 16, 6, 15 ], "texture": "#texture", "rotation": 180 },
+				"north": { "uv": [ 1, 0, 2, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 1, 0, 0, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 4, 0, 3, 16 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 8, 0, 7 ],
+			"to": [ 9, 16, 8 ],
+			"faces": {
+				"down": { "uv": [ 5, 16, 6, 15 ], "texture": "#texture", "rotation": 180 },
+				"up": { "uv": [ 4, 15, 5, 16 ], "texture": "#texture", "rotation": 180 },
+				"north": { "uv": [ 0, 16, 1, 0 ], "texture": "#texture" },
+				"south": { "uv": [ 2, 16, 1, 0 ], "texture": "#texture" },
+				"east": { "uv": [ 2, 0, 3, 16 ], "texture": "#texture", "rotation": 180 }
+			}
+		}
+	]
+}
