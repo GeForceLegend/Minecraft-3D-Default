@@ -1,6 +1,6 @@
 {
-	 "ambientocclusion": false,
-	 "__comment": "Designed by GeForceLegend",
+	"ambientocclusion": false,
+	"__comment": "Designed by GeForceLegend",
 	"textures": {
 		"particle": "block/redstone_dust_dot",
         "line": "block/redstone_dust_line0",

@@ -1,4 +1,5 @@
 {
+    "__comment": "Designed by GeForceLegend",
     "parent": "block/redstone_dust_side",
     "textures": {
         "line": "block/redstone_dust_line0"
