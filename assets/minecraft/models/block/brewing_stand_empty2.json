@@ -1,0 +1,75 @@
+{
+	"__comment": "Designed by GeForceLegend",
+	"textures": {
+		"particle": "item/brewing_stand",
+		"texture": "block/brewing_stand_empty"
+	},
+	"elements": [
+		{
+			"name": "Voxels",
+			"from": [7, 0, 7.5],
+			"to": [8, 14, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [5, 2, 6, 16], "texture": "#texture"},
+				"east": {"uv": [6, 2, 7, 16], "texture": "#texture"},
+				"south": {"uv": [5, 2, 4, 16], "texture": "#texture"},
+				"west": {"uv": [8, 2, 7, 16], "texture": "#texture"},
+				"up": {"uv": [9, 5, 10, 4], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [8, 0, 9, 1], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [5, 3, 7.5],
+			"to": [7, 14, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 4, 16], "texture": "#texture"},
+				"south": {"uv": [2, 5, 0, 16], "texture": "#texture"},
+				"west": {"uv": [10, 5, 9, 16], "texture": "#texture"},
+				"up": {"uv": [14, 15, 16, 14], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [14, 15, 16, 16], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [3, 12, 7.5],
+			"to": [5, 14, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [12, 14, 14, 16], "texture": "#texture"},
+				"south": {"uv": [12, 14, 10, 16], "texture": "#texture"},
+				"west": {"uv": [6, 0, 5, 2], "texture": "#texture"},
+				"up": {"uv": [12, 14, 14, 13], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [10, 13, 12, 14], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [3, 7, 7.5],
+			"to": [4, 12, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [1, 0, 2, 5], "texture": "#texture"},
+				"east": {"uv": [2, 0, 3, 5], "texture": "#texture"},
+				"south": {"uv": [1, 0, 0, 5], "texture": "#texture"},
+				"west": {"uv": [4, 0, 3, 5], "texture": "#texture"},
+				"down": {"uv": [9, 3, 10, 4], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Voxels",
+			"from": [3, 14, 7.5],
+			"to": [4, 16, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 10.5, 8]},
+			"faces": {
+				"north": {"uv": [7, 0, 8, 2], "texture": "#texture"},
+				"east": {"uv": [8, 3, 9, 5], "texture": "#texture"},
+				"south": {"uv": [7, 0, 6, 2], "texture": "#texture"},
+				"west": {"uv": [9, 1, 8, 3], "texture": "#texture"},
+				"up": {"uv": [9, 1, 10, 0], "rotation": 180, "texture": "#texture"}
+			}
+		}
+	]
+}
