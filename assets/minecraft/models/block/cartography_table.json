@@ -5,9 +5,9 @@
 		"down": "block/dark_oak_planks",
 		"up": "block/cartography_table_top",
 		"north": "block/cartography_table_side3",
+		"particle": "block/cartography_table_side3",
 		"south": "block/cartography_table_side1",
-		"west": "block/cartography_table_side2",
-		"particle": "block/cartography_table_side3"
+		"west": "block/cartography_table_side2"
 	},
 	"elements": [
 		{
@@ -30,8 +30,7 @@
 				"east": {"uv": [5, 2, 6, 6], "rotation": 90, "texture": "#up"},
 				"south": {"uv": [2, 5, 6, 6], "texture": "#up"},
 				"west": {"uv": [2, 2, 3, 6], "rotation": 270, "texture": "#up"},
-				"up": {"uv": [2, 2, 6, 6], "texture": "#up"},
-				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
+				"up": {"uv": [2, 2, 6, 6], "texture": "#up"}
 			}
 		}
 	]

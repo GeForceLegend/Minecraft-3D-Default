@@ -45,8 +45,7 @@
 			"to": [15, 15, 16],
 			"faces": {
 				"north": {"uv": [1, 1, 15, 15], "texture": "#side"},
-				"south": {"uv": [1, 1, 15, 15], "texture": "#3"},
-				"down": {"uv": [0, 0, 14, 1], "texture": "#missing"}
+				"south": {"uv": [1, 1, 15, 15], "texture": "#3"}
 			}
 		},
 		{

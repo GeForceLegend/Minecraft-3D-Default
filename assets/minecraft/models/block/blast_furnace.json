@@ -5,8 +5,8 @@
 		"3": "block/furnace_in",
 		"top": "block/blast_furnace_top",
 		"front": "block/blast_furnace_front",
-		"side": "block/blast_furnace_side",
-		"particle": "block/blast_furnace_front"
+		"particle": "block/blast_furnace_front",
+		"side": "block/blast_furnace_side"
 	},
 	"elements": [
 		{
@@ -76,11 +76,9 @@
 			"to": [15, 16, 1],
 			"faces": {
 				"north": {"uv": [1, 0, 5, 12], "texture": "#front"},
-				"east": {"uv": [0, 0, 1, 12], "texture": "#missing"},
 				"south": {"uv": [11, 0, 15, 12], "texture": "#3"},
 				"west": {"uv": [2, 12, 14, 13], "rotation": 90, "texture": "#side"},
-				"up": {"uv": [11, 0, 15, 1], "texture": "#top"},
-				"down": {"uv": [0, 0, 4, 1], "texture": "#missing"}
+				"up": {"uv": [11, 0, 15, 1], "texture": "#top"}
 			}
 		},
 		{

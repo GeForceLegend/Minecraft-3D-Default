@@ -5,17 +5,16 @@
 		"particle": "item/jungle_door_bottom",
 		"texture": "block/jungle_door_bottom"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
-			"from": [ 0, 0, 0 ],
-			"to": [ 3, 16, 16 ],
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
 			"faces": {
-				"down": { "uv": [ 0, 0, 1.5, 8 ], "texture": "#texture" },
-				"up": { "uv": [ 1.5, 8, 3, 0 ], "texture": "#texture" },
-				"north": { "uv": [ 4.5, 0, 3, 8 ], "texture": "#texture" },
-				"south": { "uv": [ 4.5, 0, 6, 8 ], "texture": "#texture" },
-				"west": { "uv": [ 0, 8, 8, 16 ], "texture": "#texture" },
-				"east": { "uv": [ 16, 8, 8, 16 ], "texture": "#texture" }
+				"north": {"uv": [4.5, 0, 3, 8], "texture": "#texture"},
+				"east": {"uv": [16, 8, 8, 16], "texture": "#texture"},
+				"south": {"uv": [4.5, 0, 6, 8], "texture": "#texture"},
+				"west": {"uv": [0, 8, 8, 16], "texture": "#texture"},
+				"down": {"uv": [0, 0, 1.5, 8], "texture": "#texture"}
 			}
 		}
 	]

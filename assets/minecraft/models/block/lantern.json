@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"__comment": "Designed by GeForceLegend",
 	"parent": "block/block",
 	"textures": {
 		"all": "block/lantern",
@@ -15,7 +15,7 @@
 				"south": {"uv": [0, 2, 6, 9], "texture": "#all"},
 				"west": {"uv": [0, 2, 6, 9], "texture": "#all"},
 				"up": {"uv": [0, 9, 6, 15], "texture": "#all"},
-				"down": {"uv": [0, 9, 6, 15], "texture": "#all", "cullface": "down"}
+				"down": {"uv": [0, 9, 6, 15], "texture": "#all"}
 			}
 		},
 		{
@@ -34,12 +34,11 @@
 			"to": [8.5, 11, 7.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8]},
 			"faces": {
-				"north": {"uv": [13, 10, 14, 11.999], "texture": "#all"},
-				"east": {"uv": [13, 10, 14, 11.999], "texture": "#all"},
-				"south": {"uv": [13, 10, 14, 11.999], "texture": "#all"},
-				"west": {"uv": [13, 10, 14, 11.999], "texture": "#all"},
-				"up": {"uv": [13, 10, 14, 11], "texture": "#all"},
-				"down": {"uv": [13, 11, 14, 12], "texture": "#all"}
+				"north": {"uv": [13, 10, 14, 12], "texture": "#all"},
+				"east": {"uv": [13, 10, 14, 12], "texture": "#all"},
+				"south": {"uv": [13, 10, 14, 12], "texture": "#all"},
+				"west": {"uv": [13, 10, 14, 12], "texture": "#all"},
+				"up": {"uv": [13, 10, 14, 11], "texture": "#all"}
 			}
 		},
 		{
@@ -47,12 +46,11 @@
 			"to": [8.5, 11, 9.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8]},
 			"faces": {
-				"north": {"uv": [11, 10, 12, 11.998], "texture": "#all"},
-				"east": {"uv": [11, 10, 12, 11.998], "texture": "#all"},
-				"south": {"uv": [11, 10, 12, 11.998], "texture": "#all"},
-				"west": {"uv": [11, 10, 12, 11.998], "texture": "#all"},
-				"up": {"uv": [11, 10, 12, 11], "texture": "#all"},
-				"down": {"uv": [11, 11, 12, 12], "texture": "#all"}
+				"north": {"uv": [11, 10, 12, 12], "texture": "#all"},
+				"east": {"uv": [11, 10, 12, 12], "texture": "#all"},
+				"south": {"uv": [11, 10, 12, 12], "texture": "#all"},
+				"west": {"uv": [11, 10, 12, 12], "texture": "#all"},
+				"up": {"uv": [11, 10, 12, 11], "texture": "#all"}
 			}
 		},
 		{
@@ -60,10 +58,10 @@
 			"to": [8.5, 12, 8.5],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8]},
 			"faces": {
-				"north": {"uv": [11, 1, 12, 2.997], "texture": "#all"},
-				"east": {"uv": [11, 1, 12, 2.997], "texture": "#all"},
-				"south": {"uv": [11, 1, 12, 2.997], "texture": "#all"},
-				"west": {"uv": [11, 1, 12, 2.997], "texture": "#all"},
+				"north": {"uv": [11, 1, 12, 3], "texture": "#all"},
+				"east": {"uv": [11, 1, 12, 3], "texture": "#all"},
+				"south": {"uv": [11, 1, 12, 3], "texture": "#all"},
+				"west": {"uv": [11, 1, 12, 3], "texture": "#all"},
 				"up": {"uv": [11, 1, 12, 2], "texture": "#all"},
 				"down": {"uv": [11, 2, 12, 3], "texture": "#all"}
 			}

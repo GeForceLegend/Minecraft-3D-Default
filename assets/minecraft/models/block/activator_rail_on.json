@@ -72,8 +72,6 @@
 			"faces": {
 				"down": { "uv": [ 7, 13, 9, 3 ], "texture": "#activator_rail" },
 				"up": { "uv": [ 7, 3, 9, 13 ], "texture": "#activator_rail" },
-				"north": { "uv": [ 9, 3, 7, 4 ], "texture": "#activator_rail" },
-				"south": { "uv": [ 7, 12, 9, 13 ], "texture": "#activator_rail" },
 				"west": { "uv": [ 7, 3, 8, 13 ], "texture": "#activator_rail", "rotation": 270 },
 				"east": { "uv": [ 9, 13, 8, 3 ], "texture": "#activator_rail", "rotation": 270 }
 			}

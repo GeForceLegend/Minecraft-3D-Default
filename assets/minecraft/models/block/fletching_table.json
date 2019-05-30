@@ -2,10 +2,10 @@
 	"__comment": "Designed by GeForceLegend",
 	"parent": "block/cube",
 	"textures": {
-		"particle": "block/fletching_table_front",
 		"down": "block/birch_planks",
 		"up": "block/fletching_table_top",
 		"north": "block/fletching_table_front",
+		"particle": "block/fletching_table_front",
 		"east": "block/fletching_table_side"
 	},
 	"elements": [
@@ -93,8 +93,7 @@
 				"north": {"uv": [2, 4, 3, 5], "texture": "#up"},
 				"south": {"uv": [2, 9, 3, 10], "texture": "#up"},
 				"west": {"uv": [2, 4, 3, 10], "rotation": 270, "texture": "#up"},
-				"up": {"uv": [2, 4, 3, 10], "texture": "#up"},
-				"down": {"uv": [0, 0, 1, 6], "texture": "#missing"}
+				"up": {"uv": [2, 4, 3, 10], "texture": "#up"}
 			}
 		},
 		{
@@ -105,8 +104,7 @@
 				"east": {"uv": [3, 2, 4, 11], "rotation": 90, "texture": "#up"},
 				"south": {"uv": [3, 10, 4, 11], "texture": "#up"},
 				"west": {"uv": [3, 2, 4, 11], "rotation": 270, "texture": "#up"},
-				"up": {"uv": [3, 2, 4, 11], "texture": "#up"},
-				"down": {"uv": [0, 0, 1, 6], "texture": "#missing"}
+				"up": {"uv": [3, 2, 4, 11], "texture": "#up"}
 			}
 		},
 		{
@@ -116,8 +114,7 @@
 				"north": {"uv": [4, 3, 5, 4], "texture": "#up"},
 				"east": {"uv": [4, 3, 5, 10], "rotation": 90, "texture": "#up"},
 				"south": {"uv": [4, 9, 5, 10], "texture": "#up"},
-				"up": {"uv": [4, 3, 5, 10], "texture": "#up"},
-				"down": {"uv": [0, 0, 1, 6], "texture": "#missing"}
+				"up": {"uv": [4, 3, 5, 10], "texture": "#up"}
 			}
 		},
 		{
@@ -377,7 +374,6 @@
 			"faces": {
 				"north": {"uv": [10, 11, 13, 13], "texture": "#north"},
 				"east": {"uv": [10, 11, 11, 13], "texture": "#north"},
-				"south": {"uv": [0, 0, 3, 2], "texture": "#missing"},
 				"west": {"uv": [12, 11, 13, 13], "texture": "#north"},
 				"up": {"uv": [10, 11, 13, 12], "texture": "#north"},
 				"down": {"uv": [10, 12, 13, 13], "texture": "#north"}
@@ -474,7 +470,6 @@
 			"from": [10, 3, 16],
 			"to": [13, 5, 17],
 			"faces": {
-				"north": {"uv": [0, 0, 3, 2], "texture": "#missing"},
 				"east": {"uv": [12, 11, 13, 13], "texture": "#north"},
 				"south": {"uv": [10, 11, 13, 13], "texture": "#north"},
 				"west": {"uv": [10, 11, 11, 13], "texture": "#north"},
