@@ -1,0 +1,20 @@
+{
+	"__comment": "Designed by GeForceLegend",
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "blocks/iron_bars",
+		"particle": "blocks/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [7, 1, 7],
+			"to": [9, 15, 9],
+			"faces": {
+				"north": {"uv": [2, 1, 4, 15], "texture": "#texture"},
+				"east": {"uv": [2, 1, 4, 15], "texture": "#texture"},
+				"south": {"uv": [2, 1, 4, 15], "texture": "#texture"},
+				"west": {"uv": [2, 1, 4, 15], "texture": "#texture"}
+			}
+		}
+	]
+}

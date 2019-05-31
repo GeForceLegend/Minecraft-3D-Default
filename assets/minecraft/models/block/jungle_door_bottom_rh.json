@@ -1,0 +1,21 @@
+{
+	"__comment": "Designed by GeForceLegend",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "item/jungle_door_bottom",
+		"texture": "blocks/jungle_door_bottom"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 3, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 8, 1.5, 0 ], "texture": "#texture" },
+				"north": { "uv": [ 4.5, 0, 6, 8 ], "texture": "#texture" },
+				"south": { "uv": [ 4.5, 0, 3, 8 ], "texture": "#texture" },
+				"west": { "uv": [ 16, 8, 8, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 8, 8, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}
