@@ -1,0 +1,7 @@
+{
+	"__comment": "Designed by GeForceLegend",
+	"parent": "block/flower",
+	"textures": {
+		"cross": "blocks/flower_tulip_white"
+	}
+}
