@@ -2,6 +2,6 @@
     "__comment": "Designed by GeForceLegend",
     "parent": "block/flowers_pot_cross",
     "textures": {
-        "plant": "blocks/pink_tulip"
+        "plant": "blocks/flower_tulip_red"
     }
 }

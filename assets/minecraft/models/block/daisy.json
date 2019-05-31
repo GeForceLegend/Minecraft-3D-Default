@@ -2,6 +2,6 @@
 	"__comment": "Designed by GeForceLegend",
 	"parent": "block/flower",
 	"textures": {
-		"cross": "blocks/oxeye_daisy"
+		"cross": "blocks/flower_oxeye_daisy"
 	}
 }
