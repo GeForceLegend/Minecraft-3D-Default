@@ -1,8 +1,7 @@
 {
 	"__comment": "Designed by GeForceLegend",
-	"parent": "block/cube",
 	"textures": {
-		"down": "block/planks_oak",
+		"down": "block/oak_planks",
 		"up": "block/crafting_table_top",
 		"north": "block/crafting_table_front",
 		"particle": "block/crafting_table_front",
