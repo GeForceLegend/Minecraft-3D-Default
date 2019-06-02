@@ -49,8 +49,8 @@
 				"north": {"uv": [9, 10, 10, 13], "texture": "#cross"},
 				"east": {"uv": [9, 10, 10, 13], "texture": "#cross"},
 				"west": {"uv": [9, 10, 10, 13], "texture": "#cross"},
-				"up": {"uv": [9, 10, 10, 11], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [9, 12, 10, 13], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [9, 10, 10, 11], "texture": "#cross"},
+				"down": {"uv": [9, 12, 10, 13], "texture": "#cross"}
 			}
 		},
 		{
@@ -61,8 +61,8 @@
 				"north": {"uv": [10, 11, 11, 12], "texture": "#cross"},
 				"east": {"uv": [10, 11, 11, 12], "texture": "#cross"},
 				"west": {"uv": [10, 11, 11, 12], "texture": "#cross"},
-				"up": {"uv": [10, 11, 11, 12], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [10, 11, 11, 12], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [10, 11, 11, 12], "texture": "#cross"},
+				"down": {"uv": [10, 11, 11, 12], "texture": "#cross"}
 			}
 		},
 		{
@@ -97,8 +97,8 @@
 				"north": {"uv": [6, 10, 7, 13], "texture": "#cross"},
 				"east": {"uv": [6, 10, 7, 13], "texture": "#cross"},
 				"south": {"uv": [6, 10, 7, 13], "texture": "#cross"},
-				"up": {"uv": [6, 10, 7, 11], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [6, 12, 7, 13], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [6, 10, 7, 11],  "texture": "#cross"},
+				"down": {"uv": [6, 12, 7, 13], "texture": "#cross"}
 			}
 		},
 		{
@@ -109,8 +109,8 @@
 				"north": {"uv": [5, 10, 6, 12], "texture": "#cross"},
 				"east": {"uv": [5, 10, 6, 12], "texture": "#cross"},
 				"south": {"uv": [5, 10, 6, 12], "texture": "#cross"},
-				"up": {"uv": [5, 10, 6, 11], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [5, 11, 6, 12], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [5, 10, 6, 11], "texture": "#cross"},
+				"down": {"uv": [5, 11, 6, 12], "texture": "#cross"}
 			}
 		},
 		{
@@ -146,8 +146,8 @@
 				"north": {"uv": [6, 2, 7, 4], "texture": "#cross"},
 				"south": {"uv": [6, 2, 7, 4], "texture": "#cross"},
 				"west": {"uv": [6, 2, 7, 4], "texture": "#cross"},
-				"up": {"uv": [6, 2, 7, 4], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [6, 2, 7, 4], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [6, 4, 7, 2], "texture": "#cross"},
+				"down": {"uv": [6, 4, 7, 2], "texture": "#cross"}
 			}
 		},
 		{
@@ -159,8 +159,8 @@
 				"east": {"uv": [5, 1, 6, 4], "texture": "#cross"},
 				"south": {"uv": [5, 1, 6, 4], "texture": "#cross"},
 				"west": {"uv": [5, 1, 6, 4], "texture": "#cross"},
-				"up": {"uv": [5, 1, 6, 2], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [5, 3, 6, 4], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [5, 1, 6, 2], "texture": "#cross"},
+				"down": {"uv": [5, 3, 6, 4], "texture": "#cross"}
 			}
 		},
 		{
@@ -208,8 +208,8 @@
 				"east": {"uv": [9, 5, 10, 7], "texture": "#cross"},
 				"south": {"uv": [9, 5, 10, 7], "texture": "#cross"},
 				"west": {"uv": [9, 5, 10, 7], "texture": "#cross"},
-				"up": {"uv": [9, 5, 10, 6], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [9, 6, 10, 7], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [9, 5, 10, 6], "texture": "#cross"},
+				"down": {"uv": [9, 6, 10, 7], "texture": "#cross"}
 			}
 		},
 		{
@@ -221,8 +221,8 @@
 				"east": {"uv": [10, 3, 11, 6], "texture": "#cross"},
 				"south": {"uv": [10, 3, 11, 6], "texture": "#cross"},
 				"west": {"uv": [10, 3, 11, 6], "texture": "#cross"},
-				"up": {"uv": [10, 3, 11, 4], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [10, 5, 11, 6], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [10, 3, 11, 4], "texture": "#cross"},
+				"down": {"uv": [10, 5, 11, 6], "texture": "#cross"}
 			}
 		},
 		{
@@ -233,8 +233,8 @@
 				"east": {"uv": [11, 4, 12, 5], "texture": "#cross"},
 				"south": {"uv": [11, 4, 12, 5], "texture": "#cross"},
 				"west": {"uv": [11, 4, 12, 5], "texture": "#cross"},
-				"up": {"uv": [11, 4, 12, 5], "rotation": 180, "texture": "#cross"},
-				"down": {"uv": [11, 4, 12, 5], "rotation": 180, "texture": "#cross"}
+				"up": {"uv": [11, 4, 12, 5], "texture": "#cross"},
+				"down": {"uv": [11, 4, 12, 5], "texture": "#cross"}
 			}
 		}
 	]
