@@ -1,6 +1,6 @@
 {
 	"__comment": "Designed by GeForceLegend",
-	"ambientocclusion": false,
+	"ambientocclusion":false,
 	"textures": {
 		"cross": "blocks/double_plant_sunflower_top",
 		"back": "blocks/double_plant_sunflower_back",

@@ -1,5 +1,6 @@
 {
 	"__comment": "Designed by GeForceLegend",
+	"ambientocclusion":false,
 	"textures": {
 		"layer0": "blocks/deadbush",
 		"particle": "blocks/deadbush"
