@@ -2,8 +2,8 @@
 	"__comment": "Designed by GeForceLegend",
 	"ambientocclusion": false,
 	"textures": {
-		"cross": "blocks/flower_allium",
-		"particle": "blocks/flower_allium"
+		"cross": "block/allium",
+		"particle": "block/allium"
 	},
 	"elements": [
 		{
