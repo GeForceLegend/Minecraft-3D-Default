@@ -1,11 +1,11 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "block/cross",
+	"__comment": "Designed by GeForceLegend",
 	"ambientocclusion": false,
 	"textures": {
 		"flowerpot": "block/flower_pot",
 		"dirt": "block/dirt",
-		"cross": "block/red_mushroom"
+		"cross": "block/red_mushroom",
+		"particle": "block/red_mushroom"
 	},
 	"elements": [
 		{
