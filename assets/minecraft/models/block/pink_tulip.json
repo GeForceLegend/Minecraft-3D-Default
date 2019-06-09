@@ -1,5 +1,5 @@
 {
-	"__comment": "Designed by GeForceLegend",
+	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"cross": "block/pink_tulip",
@@ -131,18 +131,6 @@
 				"west": {"uv": [6, 8, 7, 15], "texture": "#cross"},
 				"up": {"uv": [6, 8, 7, 9], "texture": "#cross"},
 				"down": {"uv": [6, 14, 7, 15], "texture": "#cross"}
-			}
-		},
-		{
-			"from": [7.5, 8, 3.5],
-			"to": [8.5, 9, 4.5],
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7, 8]},
-			"faces": {
-				"north": {"uv": [3, 7, 4, 8], "texture": "#cross"},
-				"east": {"uv": [3, 7, 4, 8], "texture": "#cross"},
-				"west": {"uv": [3, 7, 4, 8], "texture": "#cross"},
-				"up": {"uv": [3, 7, 4, 8], "texture": "#cross"},
-				"down": {"uv": [3, 7, 4, 8], "texture": "#cross"}
 			}
 		},
 		{
