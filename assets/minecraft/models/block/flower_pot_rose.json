@@ -1,7 +1,7 @@
 {
-    "__comment": "Designed by GeForceLegend",
-    "parent": "block/flowers_pot_cross",
-    "textures": {
-        "plant": "blocks/flower_rose"
-    }
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/flowers_pot_cross_2",
+	"textures":{
+		"plant":"blocks/flower_rose"
+	}
 }
