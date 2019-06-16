@@ -1,7 +1,7 @@
 {
-	"__comment": "Designed by GeForceLegend",
-	"parent": "block/flower",
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/flower_2",
 	"textures": {
-		"cross": "blocks/flower_rose"
+		"cross":"blocks/flower_rose"
 	}
 }
