@@ -1,20 +1,20 @@
 {
-	"__comment": "Designed by GeForceLegend",
-	"textures": {
-		"particle": "item/spruce_trapdoor",
-		"texture": "block/spruce_trapdoor"
+	"__comment":"Designed by GeForceLegend",
+	"textures":{
+		"particle":"item/spruce_trapdoor",
+		"texture":"block/spruce_trapdoor"
 	},
-	"elements": [ 	 
+	"elements":[	
 		{
-			"from": [ 0, 0, 0 ],
-			"to": [ 16, 3, 16 ],
-			"faces": {
-				"down": { "uv": [ 0, 8, 8, 16 ], "texture": "#texture" },
-				"up": { "uv": [ 8, 16, 16, 8 ], "texture": "#texture" },
-				"north": { "uv": [ 8, 6.5, 0, 8 ], "texture": "#texture" },
-				"south": { "uv": [ 0, 5, 8, 6.5 ], "texture": "#texture" },
-				"west": { "uv": [ 0, 3.5, 8, 5 ], "texture": "#texture" },
-				"east": { "uv": [ 8, 2, 0, 3.5 ], "texture": "#texture" }
+			"from":[0,0,0],
+			"to":[16,3,16],
+			"faces":{
+				"down":{"uv":[0,8,8,16],"texture":"#texture","cullface":"down"},
+				"up":{"uv":[8,16,16,8],"texture":"#texture"},
+				"north":{"uv":[8,6.5,0,8],"texture":"#texture","cullface":"north"},
+				"south":{"uv":[0,5,8,6.5],"texture":"#texture","cullface":"south"},
+				"west":{"uv":[0,3.5,8,5],"texture":"#texture","cullface":"west"},
+				"east":{"uv":[8,2,0,3.5],"texture":"#texture","cullface":"east"}
 			}
 		}
 	]
