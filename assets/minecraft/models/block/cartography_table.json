@@ -1,36 +1,36 @@
 {
-	"__comment": "Designed by GeForceLegend",
-	"parent": "block/cube",
-	"textures": {
-		"down": "block/dark_oak_planks",
-		"up": "block/cartography_table_top",
-		"north": "block/cartography_table_side3",
-		"particle": "block/cartography_table_side3",
-		"south": "block/cartography_table_side1",
-		"west": "block/cartography_table_side2"
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/cube",
+	"textures":{
+		"down":"block/dark_oak_planks",
+		"up":"block/cartography_table_top",
+		"north":"block/cartography_table_side3",
+		"particle":"block/cartography_table_side3",
+		"south":"block/cartography_table_side1",
+		"west":"block/cartography_table_side2"
 	},
-	"elements": [
+	"elements":[
 		{
-			"from": [0, 0, 0],
-			"to": [16, 16, 16],
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#north"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#north"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#south"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#west"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#up"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#down"}
+			"from":[0,0,0],
+			"to":[16,16,16],
+			"faces":{
+				"north":{"uv":[0,0,16,16],"texture":"#north","cullface":"north"},
+				"east":{"uv":[0,0,16,16],"texture":"#north","cullface":"east"},
+				"south":{"uv":[0,0,16,16],"texture":"#south","cullface":"south"},
+				"west":{"uv":[0,0,16,16],"texture":"#west","cullface":"west"},
+				"up":{"uv":[0,0,16,16],"texture":"#up","cullface":"up"},
+				"down":{"uv":[0,0,16,16],"texture":"#down","cullface":"down"}
 			}
 		},
 		{
-			"from": [2, 16, 2],
-			"to": [6, 17, 6],
-			"faces": {
-				"north": {"uv": [2, 2, 6, 3], "rotation": 180, "texture": "#up"},
-				"east": {"uv": [5, 2, 6, 6], "rotation": 90, "texture": "#up"},
-				"south": {"uv": [2, 5, 6, 6], "texture": "#up"},
-				"west": {"uv": [2, 2, 3, 6], "rotation": 270, "texture": "#up"},
-				"up": {"uv": [2, 2, 6, 6], "texture": "#up"}
+			"from":[2,16,2],
+			"to":[6,17,6],
+			"faces":{
+				"north":{"uv":[6,3,2,2],"texture":"#up","cullface":"up"},
+				"east":{"uv":[5,2,6,6],"rotation":90,"texture":"#up","cullface":"up"},
+				"south":{"uv":[2,5,6,6],"texture":"#up","cullface":"up"},
+				"west":{"uv":[2,2,3,6],"rotation":270,"texture":"#up","cullface":"up"},
+				"up":{"uv":[2,2,6,6],"texture":"#up","cullface":"up"}
 			}
 		}
 	]
