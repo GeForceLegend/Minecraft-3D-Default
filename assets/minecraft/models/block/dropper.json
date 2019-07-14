@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"parent":"block/cube",
 	"textures":{
 		"0":"blocks/dropper_front_horizontal",
 		"1":"blocks/furnace_top",

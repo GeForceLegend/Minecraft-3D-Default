@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"parent":"block/cube",
 	"textures":{
 		"bottom":"blocks/observer_back",
 		"side":"blocks/observer_side",
