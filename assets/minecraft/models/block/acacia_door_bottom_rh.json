@@ -3,7 +3,7 @@
 	"ambientocclusion":false,
 	"textures":{
 		"layer0":"blocks/acacia_door_bottom",
-		"particle":"item/acacia_door_bottom"
+		"particle":"blocks/door_acacia_lower"
 	},
 	"elements":[
 		{

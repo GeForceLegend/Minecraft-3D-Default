@@ -2,7 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"particle":"item/dark_oak_door_top",
+		"particle":"blocks/door_dark_oak_upper",
 		"texture":"blocks/dark_oak_door_top"
 	},
 	"elements":[

@@ -2,7 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"particle":"item/birch_door_bottom",
+		"particle":"blocks/door_birch_lower",
 		"texture":"blocks/birch_door_bottom"
 	},
 	"elements":[

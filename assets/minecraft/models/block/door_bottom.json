@@ -3,7 +3,7 @@
 	"ambientocclusion":false,
 	"textures":{
 		"0":"blocks/oak_door_bottom",
-		"particle":"item/oak_door_bottom"
+		"particle":"blocks/door_wood_lower"
 	},
 	"elements":[
 		{
