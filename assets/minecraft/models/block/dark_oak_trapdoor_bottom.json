@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"parent":"block/thin_block",
 	"textures":{
 		"particle":"item/dark_oak_trapdoor",
 		"texture":"block/dark_oak_trapdoor"

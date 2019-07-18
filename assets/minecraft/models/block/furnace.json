@@ -1,5 +1,6 @@
 {
 	"__comment":"DesignedbyGeForceLegend",
+	"parent":"block/block",
 	"textures":{
 		"3":"block/furnace_side",
 		"particle":"block/furnace_side",

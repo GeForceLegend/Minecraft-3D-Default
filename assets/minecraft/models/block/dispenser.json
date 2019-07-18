@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"parent":"block/block",
 	"textures":{
 		"front":"block/dispenser_front",
 		"particle":"block/dispenser_front",
