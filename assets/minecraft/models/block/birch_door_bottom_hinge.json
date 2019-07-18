@@ -37,14 +37,6 @@
 				"south":{"uv":[1.5,0,0,2],"texture":"#texture"},
 				"west":{"uv":[6,0,4.5,2],"texture":"#texture","cullface":"west"}
 			}
-		},
-		{
-			"from":[1,12,3],
-			"to":[2,16,13],
-			"faces":{
-				"east":{"uv":[6,8,11,10],"texture":"#texture"},
-				"west":{"uv":[16,8,11,10],"texture":"#texture"}
-			}
 		}
 	]
 }
