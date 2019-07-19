@@ -7,7 +7,7 @@
 	},
 	"elements":[
 		{
-			"from":[2,0,4],
+			"from":[2,0.5,4],
 			"to":[8,1.5,11],
 			"faces":{
 				"north":{"uv":[8,4,2,5],"texture":"#texture","tintindex":0},
@@ -18,7 +18,7 @@
 			}
 		},
 		{
-			"from":[3,0,2],
+			"from":[3,0.5,2],
 			"to":[7,1.5,13],
 			"faces":{
 				"north":{"uv":[7,2,3,3],"texture":"#texture","tintindex":0},
@@ -29,7 +29,7 @@
 			}
 		},
 		{
-			"from":[4,0,1],
+			"from":[4,0.5,1],
 			"to":[7,1.5,14],
 			"faces":{
 				"north":{"uv":[7,1,4,2],"texture":"#texture","tintindex":0},
@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"from":[6,0,14],
+			"from":[6,0.5,14],
 			"to":[11,1.5,15],
 			"faces":{
 				"east":{"uv":[10,14,11,15],"texture":"#texture","tintindex":0},
@@ -52,7 +52,7 @@
 			}
 		},
 		{
-			"from":[7,0,3],
+			"from":[7,0.5,3],
 			"to":[8,1.5,14],
 			"faces":{
 				"north":{"uv":[7,3,8,4],"texture":"#texture","tintindex":0},
@@ -62,7 +62,7 @@
 			}
 		},
 		{
-			"from":[8,0,5],
+			"from":[8,0.5,5],
 			"to":[15,1.5,11],
 			"faces":{
 				"north":{"uv":[15,5,8,6],"texture":"#texture","tintindex":0},
@@ -73,7 +73,7 @@
 			}
 		},
 		{
-			"from":[8,0,11],
+			"from":[8,0.5,11],
 			"to":[14,1.5,13],
 			"faces":{
 				"east":{"uv":[13,11,14,13],"texture":"#texture","tintindex":0},
@@ -83,7 +83,7 @@
 			}
 		},
 		{
-			"from":[8,0,13],
+			"from":[8,0.5,13],
 			"to":[13,1.5,14],
 			"faces":{
 				"east":{"uv":[12,13,13,14],"texture":"#texture","tintindex":0},
@@ -93,7 +93,7 @@
 			}
 		},
 		{
-			"from":[9,0,3],
+			"from":[9,0.5,3],
 			"to":[14,1.5,5],
 			"faces":{
 				"north":{"uv":[14,3,9,4],"texture":"#texture","tintindex":0},
@@ -104,7 +104,7 @@
 			}
 		},
 		{
-			"from":[10,0,1],
+			"from":[10,0.5,1],
 			"to":[13,1.5,3],
 			"faces":{
 				"north":{"uv":[13,1,10,2],"texture":"#texture","tintindex":0},
@@ -115,7 +115,7 @@
 			}
 		},
 		{
-			"from":[13,0,2],
+			"from":[13,0.5,2],
 			"to":[14,1.5,3],
 			"faces":{
 				"north":{"uv":[13,2,14,3],"texture":"#texture","tintindex":0},
@@ -125,7 +125,7 @@
 			}
 		},
 		{
-			"from":[14,0,4],
+			"from":[14,0.5,4],
 			"to":[15,1.5,5],
 			"faces":{
 				"north":{"uv":[14,4,15,5],"texture":"#texture","tintindex":0},
