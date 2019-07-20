@@ -29,19 +29,20 @@
 			"from":[7.5,2,4],
 			"to":[8.5,4,7],
 			"faces":{
-				"east":{"uv":[12,12,9,14],"texture":"#texture"},
-				"west":{"uv":[9,12,12,14],"texture":"#texture"},
-				"up":{"uv":[9,12,12,13],"rotation":90,"texture":"#texture"},
-				"down":{"uv":[9,13,12,14],"rotation":270,"texture":"#texture"}
+				"east":{"uv":[9,12,12,14],"texture":"#texture"},
+				"west":{"uv":[12,12,9,14],"texture":"#texture"},
+				"up":{"uv":[12,12,9,13],"rotation":90,"texture":"#texture"},
+				"down":{"uv":[9,13,12,14],"rotation":90,"texture":"#texture"}
 			}
 		},
 		{
 			"from":[7.5,7,0],
 			"to":[8.5,9,2],
 			"faces":{
-				"east":{"uv":[16,7,14,9],"texture":"#texture"},
-				"west":{"uv":[14,7,16,9],"texture":"#texture"},
-				"up":{"uv":[14,7,16,8],"rotation":90,"texture":"#texture"},
+				"north":{"uv":[15,7,16,9],"texture":"#texture","cullface":"north"},
+				"east":{"uv":[14,7,16,9],"texture":"#texture"},
+				"west":{"uv":[16,7,14,9],"texture":"#texture"},
+				"up":{"uv":[16,7,14,8],"rotation":90,"texture":"#texture"},
 				"down":{"uv":[14,8,16,9],"texture":"#texture"}
 			}
 		},
@@ -49,16 +50,18 @@
 			"from":[7,15,0],
 			"to":[9,16,7],
 			"faces":{
-				"east":{"uv":[12,0,13,7],"rotation":270,"texture":"#texture"},
-				"west":{"uv":[13,0,14,7],"rotation":90,"texture":"#texture"},
-				"up":{"uv":[14,7,12,0],"texture":"#texture","cullface":"up"},
-				"down":{"uv":[14,0,12,7],"texture":"#texture"}
+				"north":{"uv":[12,0,14,1],"texture":"#texture","cullface":"north"},
+				"east":{"uv":[12,0,13,7],"rotation":90,"texture":"#texture"},
+				"west":{"uv":[13,7,14,0],"rotation":90,"texture":"#texture"},
+				"up":{"uv":[14,0,12,7],"texture":"#texture","cullface":"up"},
+				"down":{"uv":[14,7,12,0],"texture":"#texture"}
 			}
 		},
 		{
 			"from":[7,0,0],
 			"to":[9,1,7],
 			"faces":{
+				"north":{"uv":[12,15,14,16],"texture":"#texture","cullface":"north"},
 				"east":{"uv":[12,9,13,16],"rotation":270,"texture":"#texture"},
 				"west":{"uv":[13,9,14,16],"rotation":90,"texture":"#texture"},
 				"up":{"uv":[14,16,12,9],"texture":"#texture"},
