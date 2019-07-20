@@ -2,6 +2,6 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/flower",
 	"textures":{
-		"cross":"blocks/flower_tulip_pink"
+		"cross":"blocks/fern"
 	}
 }
