@@ -3,6 +3,7 @@
 	"textures":{
 		"bottom":"blocks/tnt_bottom",
 		"top":"blocks/tnt_top",
+		"particle":"blocks/tnt_side",
 		"side":"blocks/tnt_side"
 	},
 	"elements":[
