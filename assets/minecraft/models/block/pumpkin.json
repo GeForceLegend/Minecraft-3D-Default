@@ -285,5 +285,10 @@
 				"up":{"uv":[9,7,10,8],"texture":"#top","cullface":"up"}
 			}
 		}
-	]
+	],
+	"display":{
+		"head":{
+			"scale":[1.1,1.1,1.1]
+		}
+	}
 }
