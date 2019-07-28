@@ -16,7 +16,8 @@
 			"rotation":[90,0,0]
 		},
 		"ground":{
-			"translation":[0,2,0],
+			"translation":[0,2,3],
+			"rotation":[90,0,0],
 			"scale":[0.5,0.5,0.5]
 		},
 		"fixed":{
