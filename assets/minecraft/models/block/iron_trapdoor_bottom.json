@@ -1,7 +1,9 @@
 {
+	"__comment":"Designed by GeForceLegend",
     "parent": "block/trapdoor_bottom",
     "textures": {
-        "texture": "blocks/iron_trapdoor",
+        "layer1": "blocks/iron_trapdoor_1",
+        "layer2":"blocks/iron_trapdoor_2",
         "particle":"item/iron_trapdoor"
     }
 }

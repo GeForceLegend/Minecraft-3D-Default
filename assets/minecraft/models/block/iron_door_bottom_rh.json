@@ -2,7 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"0":"blocks/iron_door_bottom",
+		"layer0":"blocks/iron_door_bottom",
 		"particle":"blocks/door_iron_lower"
 	},
 	"elements":[
@@ -10,70 +10,68 @@
 			"from":[0,0,0],
 			"to":[3,3,16],
 			"faces":{
-				"north":{"uv":[1.5,13,3,14.5],"texture":"#0","cullface":"north"},
-				"east":{"uv":[0,14.5,8,16],"texture":"#0"},
-				"south":{"uv":[0,13,1.5,14.5],"texture":"#0","cullface":"south"},
-				"west":{"uv":[8,14.5,0,16],"texture":"#0","cullface":"west"},
-				"up":{"uv":[0,14.5,8,15],"rotation":270,"texture":"#0"},
-				"down":{"uv":[16,14.5,8,16],"rotation":270,"texture":"#0","cullface":"down"}
+				"east":{"uv":[0,13,16,16],"texture":"#particle"},
+				"west":{"uv":[16,13,0,16],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[16,13,0,14],"rotation":90,"texture":"#particle"},
+				"down":{"uv":[7,16,10,0],"texture":"#layer0","cullface":"down"}
 			}
 		},
 		{
-			"from":[0,3,13],
+			"from":[0,0,13],
 			"to":[3,16,16],
 			"faces":{
-				"north":{"uv":[2.5,6.5,3,13],"texture":"#0"},
-				"east":{"uv":[1.5,6.5,3,13],"texture":"#0"},
-				"south":{"uv":[0,6.5,1.5,13],"texture":"#0","cullface":"south"},
-				"west":{"uv":[3,6.5,1.5,13],"texture":"#0","cullface":"west"}
+				"north":{"uv":[3,0,2,16],"texture":"#particle"},
+				"east":{"uv":[0,0,3,16],"texture":"#particle"},
+				"south":{"uv":[3,0,0,16],"texture":"#layer0","cullface":"south"},
+				"west":{"uv":[3,0,0,16],"texture":"#particle","cullface":"west"}
 			}
 		},
 		{
-			"from":[0,3,0],
+			"from":[0,0,0],
 			"to":[3,16,3],
 			"faces":{
-				"north":{"uv":[4.5,6.5,6,13],"texture":"#0","cullface":"north"},
-				"east":{"uv":[3,6.5,4.5,13],"texture":"#0"},
-				"south":{"uv":[3.5,6.5,4,13],"texture":"#0"},
-				"west":{"uv":[4.5,6.5,3,13],"texture":"#0","cullface":"west"}
+				"north":{"uv":[16,0,13,16],"texture":"#layer0","cullface":"north"},
+				"east":{"uv":[13,0,16,16],"texture":"#particle"},
+				"south":{"uv":[14,0,13,16],"texture":"#particle"},
+				"west":{"uv":[16,0,13,16],"texture":"#particle","cullface":"west"}
 			}
 		},
 		{
 			"from":[0,3,7],
 			"to":[3,16,9],
 			"faces":{
-				"north":{"uv":[6.5,6.5,7,13],"texture":"#0"},
-				"east":{"uv":[6,6.5,7,13],"texture":"#0"},
-				"south":{"uv":[6,6.5,6.5,13],"texture":"#0"},
-				"west":{"uv":[7,6.5,6,13],"texture":"#0","cullface":"west"}
+				"north":{"uv":[9,0,8,13],"texture":"#particle"},
+				"east":{"uv":[7,0,9,13],"texture":"#particle"},
+				"south":{"uv":[8,0,7,13],"texture":"#particle"},
+				"west":{"uv":[9,0,7,13],"texture":"#particle","cullface":"west"}
 			}
 		},
 		{
 			"from":[1,3,3],
 			"to":[2,14,13],
 			"faces":{
-				"east":{"uv":[7,8.5,12,13],"texture":"#0"},
-				"west":{"uv":[12,8.5,7,13],"texture":"#0","cullface":"west"}
+				"east":{"uv":[3,2,13,13],"texture":"#particle"},
+				"west":{"uv":[13,2,3,13],"texture":"#particle","cullface":"west"}
 			}
 		},
 		{
 			"from":[0,6,3],
 			"to":[3,9,13],
 			"faces":{
-				"east":{"uv":[3,13,8,14.5],"texture":"#0"},
-				"west":{"uv":[8,13,3,14.5],"texture":"#0","cullface":"west"},
-				"up":{"uv":[7,10,12,10.5],"rotation":270,"texture":"#0"},
-				"down":{"uv":[12,11,7,11.5],"rotation":270,"texture":"#0"}
+				"east":{"uv":[3,7,13,10],"texture":"#particle"},
+				"west":{"uv":[13,7,3,10],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[13,7,3,8],"rotation":90,"texture":"#particle"},
+				"down":{"uv":[3,9,13,10],"rotation":90,"texture":"#particle"}
 			}
 		},
 		{
 			"from":[0,12,3],
 			"to":[3,15,13],
 			"faces":{
-				"east":{"uv":[8,13,13,14.5],"texture":"#0"},
-				"west":{"uv":[13,13,8,14.5],"texture":"#0","cullface":"west"},
-				"up":{"uv":[7,7,12,7.5],"rotation":270,"texture":"#0"},
-				"down":{"uv":[12,8,7,8.5],"rotation":270,"texture":"#0"}
+				"east":{"uv":[3,1,13,4],"texture":"#particle"},
+				"west":{"uv":[13,1,3,4],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[13,1,3,2],"rotation":90,"texture":"#particle"},
+				"down":{"uv":[3,3,13,4],"rotation":90,"texture":"#particle"}
 			}
 		}
 	]
