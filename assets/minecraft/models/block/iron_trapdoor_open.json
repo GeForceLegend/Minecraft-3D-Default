@@ -4,6 +4,6 @@
     "textures": {
         "layer1": "blocks/iron_trapdoor_1",
         "layer2":"blocks/iron_trapdoor_2",
-        "particle":"item/iron_trapdoor"
+        "particle":"blocks/iron_trapdoor"
     }
 }
