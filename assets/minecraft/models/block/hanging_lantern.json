@@ -34,9 +34,7 @@
 			"to":[8.5,15,9.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,0.5,8]},
 			"faces":{
-				"north":{"uv":[13,1,14,2],"texture":"#all"},
 				"east":{"uv":[11,1,14,2],"texture":"#all"},
-				"south":{"uv":[11,1,12,2],"texture":"#all"},
 				"west":{"uv":[14,1,11,2],"texture":"#all"},
 				"up":{"uv":[11,1,14,2],"rotation":270,"texture":"#all"},
 				"down":{"uv":[11,1,14,2],"rotation":90,"texture":"#all"}
@@ -47,9 +45,7 @@
 			"to":[8.5,12,9.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,0.5,8]},
 			"faces":{
-				"north":{"uv":[13,4,14,5],"texture":"#all"},
 				"east":{"uv":[11,4,14,5],"texture":"#all"},
-				"south":{"uv":[11,4,12,5],"texture":"#all"},
 				"west":{"uv":[11,4,14,5],"texture":"#all"},
 				"up":{"uv":[11,7,14,8],"rotation":270,"texture":"#all"},
 				"down":{"uv":[11,4,14,5],"rotation":90,"texture":"#all"}
@@ -106,25 +102,25 @@
 			}
 		},
 		{
-			"from":[6.5,12,7.5],
-			"to":[7.5,14,8.5],
+			"from":[6.5,11,7.5],
+			"to":[7.5,15,8.5],
 			"rotation":{"angle":45,"axis":"y","origin":[8,0.5,8]},
 			"faces":{
-				"north":{"uv":[11,2,12,4],"texture":"#all"},
-				"east":{"uv":[11,2,12,4],"texture":"#all"},
-				"south":{"uv":[11,2,12,4],"texture":"#all"},
-				"west":{"uv":[11,2,12,4],"texture":"#all"}
+				"north":{"uv":[11,1,12,5],"texture":"#all"},
+				"east":{"uv":[11,1,12,5],"texture":"#all"},
+				"south":{"uv":[11,1,12,5],"texture":"#all"},
+				"west":{"uv":[11,1,12,5],"texture":"#all"}
 			}
 		},
 		{
-			"from":[8.5,12,7.5],
-			"to":[9.5,14,8.5],
+			"from":[8.5,11,7.5],
+			"to":[9.5,15,8.5],
 			"rotation":{"angle":45,"axis":"y","origin":[8,0.5,8]},
 			"faces":{
-				"north":{"uv":[13,2,14,4],"texture":"#all"},
-				"east":{"uv":[13,2,14,4],"texture":"#all"},
-				"south":{"uv":[13,2,14,4],"texture":"#all"},
-				"west":{"uv":[13,2,14,4],"texture":"#all"}
+				"north":{"uv":[13,1,14,5],"texture":"#all"},
+				"east":{"uv":[13,1,14,5],"texture":"#all"},
+				"south":{"uv":[13,1,14,5],"texture":"#all"},
+				"west":{"uv":[13,1,14,5],"texture":"#all"}
 			}
 		}
 	]

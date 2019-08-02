@@ -50,24 +50,6 @@
 				"up":{"uv":[5,5,11,11],"texture":"#dirt"},
 				"down":{"uv":[5,10,11,16],"texture":"#flowerpot","cullface":"down"}
 			}
-		},
-		{
-			"from":[2.6,4,8],
-			"to":[13.4,16,8],
-			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
-			"faces":{
-				"north":{"uv":[1,0,16,16],"texture":"#plant"},
-				"south":{"uv":[1,0,16,16],"texture":"#plant"}
-			}
-		},
-		{
-			"from":[8,4,2.6],
-			"to":[8,16,13.4],
-			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
-			"faces":{
-				"east":{"uv":[1,0,16,16],"texture":"#plant"},
-				"west":{"uv":[1,0,16,16],"texture":"#plant"}
-			}
 		}
 	]
 }
