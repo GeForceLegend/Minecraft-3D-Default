@@ -75,8 +75,8 @@
 			}
 		},
 		{
-			"from":[7,16,6],
-			"to":[8,17,7],
+			"from":[7.025,16,6.025],
+			"to":[7.975,16.975,6.975],
 			"faces":{
 				"north":{"uv":[7,6,8,7],"texture":"#cactus","cullface":"up"},
 				"east":{"uv":[7,6,8,7],"texture":"#cactus","cullface":"up"},
