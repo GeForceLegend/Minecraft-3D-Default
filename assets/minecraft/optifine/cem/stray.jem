@@ -5,7 +5,7 @@
   "models": 
   [
     {
-      "model": "stray_head.jpm",
+      "model": "skeleton_head.jpm",
       "part": "head", 
       "translate": [-8, -8, -8],
       "rotate": [0, 0, 0]
@@ -17,31 +17,31 @@
       "rotate": [0, 0, 0]
     },
     {
-      "model": "stray_body.jpm",
+      "model": "skeleton_body.jpm",
       "part": "body", 
       "translate": [-8, 0, -8],
       "rotate": [0, 0, 0]
     },
     {
-      "model": "stray_limbs.jpm",
+      "model": "skeleton_limbs.jpm",
       "part": "left_arm",
       "translate": [-8, -2, -8],
       "rotate": [0, 0, 0]
     },
     {
-      "model": "stray_limbs.jpm",
+      "model": "skeleton_limbs.jpm",
       "part": "right_arm",
       "translate": [-8, -2, -8],
       "rotate": [0, 0, 0]
     },
     {
-      "model": "stray_limbs.jpm",
+      "model": "skeleton_limbs.jpm",
       "part": "left_leg",
       "translate": [-8, 0, -8],
       "rotate": [0, 0, 0]
     },
     {
-      "model": "stray_limbs.jpm",
+      "model": "skeleton_limbs.jpm",
       "part": "right_leg",
       "translate": [-8, 0, -8],
       "rotate": [0, 0, 0]
