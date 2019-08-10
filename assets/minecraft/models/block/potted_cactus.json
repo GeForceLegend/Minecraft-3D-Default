@@ -203,8 +203,8 @@
 			}
 		},
 		{
-			"from":[8,16,7],
-			"to":[9,17,8],
+			"from":[8.025,16,7.025],
+			"to":[8.975,16.975,7.975],
 			"faces":{
 				"north":{"uv":[7,9,8,10],"texture":"#cactus","cullface":"up"},
 				"east":{"uv":[7,9,8,10],"texture":"#cactus","cullface":"up"},
@@ -214,8 +214,8 @@
 			}
 		},
 		{
-			"from":[7,16,9],
-			"to":[8,17,10],
+			"from":[7.025,16,9.025],
+			"to":[7.975,16.975,9.975],
 			"faces":{
 				"north":{"uv":[7,9,8,10],"texture":"#cactus","cullface":"up"},
 				"east":{"uv":[7,9,8,10],"texture":"#cactus","cullface":"up"},
