@@ -9,7 +9,7 @@
 
 If you want to use my models in your own resourcepack, please follow the [licence](./LICENCE).
 
-## Content
+## Features
 
 - 3D Models with default textures;
 
