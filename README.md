@@ -17,4 +17,6 @@ If you want to use my models in your own resourcepack, please follow the [licenc
 
 - Optifine self-illuminating textures(not support 1.8);
 
+- Texture bug fix for default models(won't work correctly when using without Optifine)
+
 - More features are coming soom.
