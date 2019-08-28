@@ -116,8 +116,8 @@
 			"from":[2,0.5,1],
 			"to":[15,1.5,15],
 			"faces":{
-				"up":{"uv":[1.9796,0.9772,15.0216,15.0228],"texture":"#texture","tintindex":0},
-				"down":{"uv":[1.9796,15.0228,15.0216,0.9772],"texture":"#texture","tintindex":0}
+				"up":{"uv":[1.9924,0.9912,15.0088,15.0088],"texture":"#texture","tintindex":0},
+				"down":{"uv":[1.9924,15.0088,15.0088,0.9912],"texture":"#texture","tintindex":0}
 			}
 		}
 	]

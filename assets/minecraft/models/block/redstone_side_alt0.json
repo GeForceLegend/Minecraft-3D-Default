@@ -78,8 +78,8 @@
 			"from":[6,0,8],
 			"to":[9,1,16],
 			"faces":{
-				"up":{"uv":[5.9945,7.992,9.0042,16.018],"texture":"#line","tintindex":0},
-				"down":{"uv":[5.9945,16.018,9.0042,7.992],"texture":"#line","tintindex":0,"cullface":"down"}
+				"up":{"uv":[5.9975,8,9.0012,16.01],"texture":"#line","tintindex":0},
+				"down":{"uv":[5.9975,16.01,9.0012,8],"texture":"#line","tintindex":0,"cullface":"down"}
 			}
 		}
 	]

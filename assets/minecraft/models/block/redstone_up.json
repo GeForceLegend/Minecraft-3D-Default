@@ -134,8 +134,8 @@
 			"from":[6,0,0],
 			"to":[10,16,1],
 			"faces":{
-				"north":{"uv":[10.0055,-0.026,5.9945,16.026],"texture":"#line","cullface":"north","tintindex":0},
-				"south":{"uv":[5.9945,-0.026,10.0055,16.026],"texture":"#line","tintindex":0}
+				"north":{"uv":[10.0025,-0.01,5.9975,16.01],"texture":"#line","cullface":"north","tintindex":0},
+				"south":{"uv":[5.9975,-0.01,10.0025,16.01],"texture":"#line","tintindex":0}
 			}
 		}
 	]
