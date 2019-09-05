@@ -10,11 +10,11 @@
 			"from":[0,0,0],
 			"to":[3,16,16],
 			"faces":{
-				"north":{"uv":[16,0,13,16],"texture":"#layer0","cullface":"north"},
-				"east":{"uv":[0,0,16,16],"texture":"#particle"},
-				"south":{"uv":[3,0,0,16],"texture":"#layer0","cullface":"south"},
-				"west":{"uv":[16,0,0,16],"texture":"#particle","cullface":"west"},
-				"up":{"uv":[7,16,10,0],"texture":"#layer0","cullface":"up"}
+				"north":{"uv":[16.01,-0.01,13.0063,16.01],"texture":"#layer0","cullface":"north"},
+				"east":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#particle"},
+				"south":{"uv":[2.9937,-0.01,-0.01,16.01],"texture":"#layer0","cullface":"south"},
+				"west":{"uv":[16.01,-0.01,-0.01,16.01],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[7,16.01,10,-0.01],"texture":"#layer0","cullface":"up"}
 			}
 		}
 	]
