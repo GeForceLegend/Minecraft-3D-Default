@@ -74,7 +74,7 @@
 			"faces":{
 				"north":{"uv":[16.01,-0.01,13.0063,16.01],"texture":"#layer1","cullface":"north"},
 				"east":{"uv":[13.0063,-0.01,16.01,16.01],"texture":"#particle"},
-				"south":{"uv":[12,-0.026,9.0012,16.026],"texture":"#layer1"},
+				"south":{"uv":[12,-0.01,9.0012,16.01],"texture":"#layer1"},
 				"west":{"uv":[16.01,-0.01,13.0063,16.01],"texture":"#particle","cullface":"west"}
 			}
 		}
