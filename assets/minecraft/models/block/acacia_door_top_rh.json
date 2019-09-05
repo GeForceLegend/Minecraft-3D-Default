@@ -32,7 +32,7 @@
 			"to":[3,16,16],
 			"faces":{
 				"east":{"uv":[-0.01,-0.01,16.01,2.9937],"texture":"#particle"},
-				"west":{"uv":[16.16,-0.01,-0.01,2.9937],"texture":"#particle","cullface":"west"},
+				"west":{"uv":[16.01,-0.01,-0.01,2.9937],"texture":"#particle","cullface":"west"},
 				"up":{"uv":[16.01,-0.01,-0.01,2.9937],"rotation":90,"texture":"#layer2","cullface":"up"},
 				"down":{"uv":[-0.01,4,16.01,6.9988],"rotation":90,"texture":"#layer2"}
 			}
