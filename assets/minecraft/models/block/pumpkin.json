@@ -1,31 +1,32 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/cube_column",
+	"ambientocclusion":false,
 	"textures":{
 		"end":"block/pumpkin_top",
-		"side":"block/pumpkin_side"
+		"side":"block/pumpkin_side",
+		"particle":"block/pumpkin_side"
 	},
 	"elements":[
 		{
 			"from":[0,0,0],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#side","cullface":"north"},
-				"east":{"uv":[0,0,16,16],"texture":"#side","cullface":"east"},
-				"south":{"uv":[0,0,16,16],"texture":"#side","cullface":"south"},
-				"west":{"uv":[0,0,16,16],"texture":"#side","cullface":"west"},
-				"up":{"uv":[0,0,16,16],"texture":"#end","cullface":"up"},
-				"down":{"uv":[0,0,16,16],"texture":"#end","cullface":"down"}
+				"north":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"north"},
+				"east":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"east"},
+				"south":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"south"},
+				"west":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"west"},
+				"up":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#end","cullface":"up"},
+				"down":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#end","cullface":"down"}
 			}
 		},
 	{
 			"from":[5.025,16,6.025],
 			"to":[8.975,16.9,7.975],
 			"faces":{
-				"north":{"uv":[9,6,5,7],"texture":"#end","cullface":"up"},
-				"east":{"uv":[7,6,9,7],"texture":"#end","cullface":"up"},
+				"north":{"uv":[9,6,5,6.9],"texture":"#end","cullface":"up"},
+				"east":{"uv":[7,6,9,6.9],"texture":"#end","cullface":"up"},
 				"south":{"uv":[5,7,9,8],"texture":"#end","cullface":"up"},
-				"west":{"uv":[6,5,8,6],"texture":"#end","cullface":"up"},
+				"west":{"uv":[6,5,8,5.9],"texture":"#end","cullface":"up"},
 				"up":{"uv":[5,6,9,8],"texture":"#end","cullface":"up"}
 			}
 		},
@@ -33,10 +34,10 @@
 			"from":[6.025,16,5.025],
 			"to":[7.975,16.9,8.975],
 			"faces":{
-				"north":{"uv":[6,5,8,6],"texture":"#end","cullface":"up"},
+				"north":{"uv":[6,5,8,5.9],"texture":"#end","cullface":"up"},
 				"east":{"uv":[9,7,5,8],"texture":"#end","cullface":"up"},
 				"south":{"uv":[5,7,7,8],"texture":"#end","cullface":"up"},
-				"west":{"uv":[5,6,9,7],"texture":"#end","cullface":"up"},
+				"west":{"uv":[5,6,9,6.9],"texture":"#end","cullface":"up"},
 				"up":{"uv":[6,5,8,9],"texture":"#end","cullface":"up"}
 			}
 		},
@@ -44,10 +45,10 @@
 			"from":[6.975,16,8.975],
 			"to":[7.975,16.9,9.975],
 			"faces":{
-				"east":{"uv":[7,9,8,10],"texture":"#end","cullface":"up"},
-				"south":{"uv":[7,9,8,10],"texture":"#end","cullface":"up"},
-				"west":{"uv":[7,9,8,10],"texture":"#end","cullface":"up"},
-				"up":{"uv":[7,9,8,10],"texture":"#end","cullface":"up"}
+				"east":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"},
+				"south":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"},
+				"west":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"},
+				"up":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"}
 			}
 		},
 		{
@@ -63,17 +64,43 @@
 			"from":[8.975,16,6.975],
 			"to":[9.975,16.9,7.975],
 			"faces":{
-				"north":{"uv":[9,7,10,8],"texture":"#end","cullface":"up"},
-				"east":{"uv":[9,7,10,8],"texture":"#end","cullface":"up"},
-				"south":{"uv":[9,7,10,8],"texture":"#end","cullface":"up"},
-				"up":{"uv":[9,7,10,8],"texture":"#end","cullface":"up"}
+				"north":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"},
+				"east":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"},
+				"south":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"},
+				"up":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"}
 			}
 		}
 	],
 	"display":{
+		"gui":{
+			"rotation":[30,225,0],
+			"translation":[0,0,0],
+			"scale":[0.625,0.625,0.625]
+		},
+		"ground":{
+			"rotation":[0,0,0],
+			"translation":[0,3,0],
+			"scale":[0.25,0.25,0.25]
+		},
+		"fixed":{
+			"rotation":[0,0,0],
+			"translation":[0,0,0],
+			"scale":[0.5,0.5,0.5]
+		},
+		"thirdperson_righthand":{
+			"rotation":[75,45,0],
+			"translation":[0,2.5,0],
+			"scale":[0.375,0.375,0.375]
+		},
 		"firstperson_righthand":{
-			"rotation":[0,135,0],
-			"scale":[0.4,0.4,0.4]
+			"rotation":[0,45,0],
+			"translation":[0,0,0],
+			"scale":[0.40,0.40,0.40]
+		},
+		"firstperson_lefthand":{
+			"rotation":[0,225,0],
+			"translation":[0,0,0],
+			"scale":[0.40,0.40,0.40]
 		}
 	}
 }
