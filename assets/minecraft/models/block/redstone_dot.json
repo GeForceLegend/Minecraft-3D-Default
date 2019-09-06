@@ -110,7 +110,7 @@
 			"to":[12,1,12],
 			"faces":{
 				"up":{"uv":[4.9963,4.9963,12.005,12.005],"texture":"#dot","tintindex":0},
-				"down":{"uv":[5,12,12,5],"texture":"#dot","tintindex":0,"cullface":"down"}
+				"down":{"uv":[4.9963,12.005,12.005,4.9963],"texture":"#dot","tintindex":0,"cullface":"down"}
 			}
 		}
 	]
