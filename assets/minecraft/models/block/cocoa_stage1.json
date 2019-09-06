@@ -10,46 +10,46 @@
 			"from":[5,5,9],
 			"to":[11,12,15],
 			"faces":{
-				"north":{"uv":[9,4,15,11],"texture":"#cocoa"},
-				"east":{"uv":[9,4,15,11],"texture":"#cocoa"},
-				"south":{"uv":[9,4,15,11],"texture":"#cocoa"},
-				"west":{"uv":[9,4,15,11],"texture":"#cocoa"},
-				"up":{"uv":[0,0,6,6],"texture":"#cocoa"},
-				"down":{"uv":[0,0,6,6],"texture":"#cocoa"}
+				"north":{"uv":[9.0012,4,15,11],"texture":"#cocoa"},
+				"east":{"uv":[9.0012,4,15,11],"texture":"#cocoa"},
+				"south":{"uv":[9.0012,4,15,11],"texture":"#cocoa"},
+				"west":{"uv":[9.0012,4,15,11],"texture":"#cocoa"},
+				"up":{"uv":[0,0,5.9975,5.9975],"texture":"#cocoa"},
+				"down":{"uv":[0,0,5.9975,5.9975],"texture":"#cocoa"}
 			}
 		},
 		{
 			"from":[7.5,15,14],
 			"to":[8.5,16,16],
 			"faces":{
-				"north":{"uv":[14,0,15,1],"texture":"#cocoa"},
-				"up":{"uv":[14,0,16,1],"rotation":90,"texture":"#cocoa","cullface":"up"}
+				"north":{"uv":[14.1,0,14.9,0.9],"texture":"#cocoa"},
+				"up":{"uv":[14.0075,0,16,0.9],"rotation":90,"texture":"#cocoa","cullface":"up"}
 			}
 		},
 		{
 			"from":[7.5,14,13],
 			"to":[8.5,15,16],
 			"faces":{
-				"north":{"uv":[13,1,14,2],"texture":"#cocoa"},
-				"up":{"uv":[13,1,16,2],"rotation":90,"texture":"#cocoa"},
-				"down":{"uv":[16,1,13,2],"rotation":90,"texture":"#cocoa"}
+				"north":{"uv":[13.1,1,13.9,1.9],"texture":"#cocoa"},
+				"up":{"uv":[13.4,1,14,1.9],"rotation":90,"texture":"#cocoa"},
+				"down":{"uv":[15.1,1,16,1.9],"rotation":90,"texture":"#cocoa"}
 			}
 		},
 		{
 			"from":[7.5,12,12],
 			"to":[8.5,14,15],
 			"faces":{
-				"north":{"uv":[12,2,13,4],"texture":"#cocoa"},
-				"south":{"uv":[14,2,15,4],"texture":"#cocoa"},
-				"up":{"uv":[12,2,15,3],"rotation":90,"texture":"#cocoa"}
+				"north":{"uv":[12.1,2,13,4],"texture":"#cocoa"},
+				"south":{"uv":[14.1,2,15,4],"texture":"#cocoa"},
+				"up":{"uv":[12.4,2.1,13,2.9],"rotation":90,"texture":"#cocoa"}
 			}
 		},
 		{
 			"from":[7.5,12,12],
 			"to":[8.5,16,16],
 			"faces":{
-				"east":{"uv":[16,0,12,4],"texture":"#cocoa"},
-				"west":{"uv":[12,0,16,4],"texture":"#cocoa"}
+				"east":{"uv":[16.01,-0.01,12.005,3.995],"texture":"#cocoa"},
+				"west":{"uv":[12.005,-0.01,16.01,3.995],"texture":"#cocoa"}
 			}
 		}
 	]
