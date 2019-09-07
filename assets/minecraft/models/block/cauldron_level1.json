@@ -138,7 +138,7 @@
 			"from":[2,9,2],
 			"to":[14,9,14],
 			"faces":{
-				"up":{"texture":"#water"}
+				"up":{"texture":"#water","tintindex":0}
 			}
 		}
 	]
