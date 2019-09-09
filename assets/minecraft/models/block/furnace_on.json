@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"ambientocclusion":false,
 	"textures":{
 		"3":"block/furnace_side",
 		"4":"block/furnace_front_on",

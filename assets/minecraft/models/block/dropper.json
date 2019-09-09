@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/block",
+	"ambientocclusion":false,
 	"textures":{
 		"0":"block/dropper_front",
 		"1":"block/furnace_top",
@@ -20,7 +20,7 @@
 			"from":[0,0,0],
 			"to":[16,4,16],
 			"faces":{
-				"north":{"uv":[0,12,16,16],"texture":"#0","cullface":"north"},
+				"north":{"uv":[-0.0314,12,16.0314,16],"texture":"#0","cullface":"north"},
 				"up":{"uv":[0,0,16,16],"texture":"#2","cullface":"north"},
 				"down":{"uv":[0,0,16,16],"texture":"#1","cullface":"down"}
 			}
@@ -65,7 +65,7 @@
 			"from":[0,0,0],
 			"to":[5,16,16],
 			"faces":{
-				"north":{"uv":[11,0,16,16],"texture":"#0","cullface":"north"},
+				"north":{"uv":[10.9902,-0.0314,16.0098,16.0314],"texture":"#0","cullface":"north"},
 				"east":{"uv":[0,0,16,16],"rotation":90,"texture":"#2","cullface":"north"},
 				"west":{"uv":[0,0,16,16],"texture":"#1","cullface":"west"}
 			}
@@ -74,7 +74,7 @@
 			"from":[11,0,0],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[0,0,5,16],"texture":"#0","cullface":"north"},
+				"north":{"uv":[-0.0098,-0.0314,5.0098,16.0314],"texture":"#0","cullface":"north"},
 				"east":{"uv":[0,0,16,16],"texture":"#1","cullface":"east"},
 				"west":{"uv":[0,0,16,16],"rotation":90,"texture":"#2","cullface":"north"}
 			}
@@ -83,10 +83,42 @@
 			"from":[0,7,0],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[0,0,16,9],"texture":"#0","cullface":"north"},
+				"north":{"uv":[-0.0314,-0.0177,16.0314,9.0177],"texture":"#0","cullface":"north"},
 				"up":{"uv":[0,0,16,16],"texture":"#1","cullface":"up"},
 				"down":{"uv":[0,0,16,16],"texture":"#2","cullface":"north"}
 			}
 		}
-	]
+	],
+	"display":{
+		"gui":{
+			"rotation":[30,225,0],
+			"translation":[0,0,0],
+			"scale":[0.625,0.625,0.625]
+		},
+		"ground":{
+			"rotation":[0,0,0],
+			"translation":[0,3,0],
+			"scale":[0.25,0.25,0.25]
+		},
+		"fixed":{
+			"rotation":[0,0,0],
+			"translation":[0,0,0],
+			"scale":[0.5,0.5,0.5]
+		},
+		"thirdperson_righthand":{
+			"rotation":[75,45,0],
+			"translation":[0,2.5,0],
+			"scale":[0.375,0.375,0.375]
+		},
+		"firstperson_righthand":{
+			"rotation":[0,45,0],
+			"translation":[0,0,0],
+			"scale":[0.40,0.40,0.40]
+		},
+		"firstperson_lefthand":{
+			"rotation":[0,225,0],
+			"translation":[0,0,0],
+			"scale":[0.40,0.40,0.40]
+		}
+	}
 }

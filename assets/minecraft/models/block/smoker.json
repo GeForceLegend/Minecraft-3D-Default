@@ -1,54 +1,54 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/orientable_with_bottom",
+	"ambientocclusion":false,
 	"textures":{
 		"4":"block/furnace_in",
 		"bottom":"block/smoker_bottom",
 		"top":"block/smoker_top",
 		"front":"block/smoker_front",
-		"particle":"block/smoker_front",
-		"side":"block/smoker_side"
+		"side":"block/smoker_side",
+		"particle":"block/smoker_side"
 	},
 	"elements":[
 		{
 			"from":[0,0,1],
 			"to":[16,7,16],
 			"faces":{
-				"north":{"uv":[0,9,16,16],"texture":"#front","cullface":"north"},
-				"up":{"uv":[0,0,16,15],"texture":"#4","cullface":"north"}
+				"north":{"uv":[-0.0314,8.9863,16.0314,16.0137],"texture":"#front","cullface":"north"},
+				"up":{"uv":[-0.0314,-0.0294,16.0314,15.0294],"texture":"#4","cullface":"north"}
 			}
 		},
 		{
 			"from":[0,0,0],
 			"to":[1,16,16],
 			"faces":{
-				"east":{"uv":[0,0,16,16],"texture":"#4","cullface":"north"},
-				"west":{"uv":[0,0,16,16],"texture":"#side","cullface":"west"}
+				"east":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#4","cullface":"north"},
+				"west":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#side","cullface":"west"}
 			}
 		},
 		{
 			"from":[15,0,0],
 			"to":[16,16,16],
 			"faces":{
-				"east":{"uv":[0,0,16,16],"texture":"#side","cullface":"east"},
-				"west":{"uv":[0,0,16,16],"texture":"#4","cullface":"north"}
+				"east":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#side","cullface":"east"},
+				"west":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#4","cullface":"north"}
 			}
 		},
 		{
 			"from":[0,7,0],
-			"to":[11,8,1],
+			"to":[14,8,1],
 			"faces":{
-				"north":{"uv":[5,8,16,9],"texture":"#front","cullface":"north"},
-				"south":{"uv":[0,8,11,9],"texture":"#4","cullface":"north"},
-				"up":{"uv":[16,8,5,9],"texture":"#front","cullface":"north"},
-				"down":{"uv":[16,8,5,9],"texture":"#front","cullface":"north"}
+				"north":{"uv":[1.9725,8,16.0275,9],"texture":"#front","cullface":"north"},
+				"south":{"uv":[0,8,14,9],"texture":"#4","cullface":"north"},
+				"up":{"uv":[16.0275,8,1.9725,9],"texture":"#front","cullface":"north"},
+				"down":{"uv":[16.0275,8,1.9725,9],"texture":"#front","cullface":"north"}
 			}
 		},
 		{
 			"from":[0,0,15],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#4","cullface":"north"},
+				"north":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#4","cullface":"north"},
 				"south":{"uv":[0,0,16,16],"texture":"#side","cullface":"south"}
 			}
 		},
@@ -57,7 +57,7 @@
 			"to":[16,16,16],
 			"faces":{
 				"up":{"uv":[0,0,16,16],"texture":"#top","cullface":"up"},
-				"down":{"uv":[0,0,4,16],"texture":"#4","cullface":"north"}
+				"down":{"uv":[0,0,16,16],"texture":"#4","cullface":"north"}
 			}
 		},
 		{
@@ -75,8 +75,7 @@
 			"faces":{
 				"north":{"uv":[0,0,5,9],"texture":"#front","cullface":"north"},
 				"south":{"uv":[11,0,16,9],"texture":"#4","cullface":"north"},
-				"west":{"uv":[12,0,14,9],"texture":"#front","cullface":"north"},
-				"down":{"uv":[5,8,0,9],"texture":"#front","cullface":"north"}
+				"west":{"uv":[12,0,14,9],"texture":"#front","cullface":"north"}
 			}
 		},
 		{
@@ -124,5 +123,37 @@
 				"down":{"uv":[5,7,3,8],"texture":"#front","cullface":"north"}
 			}
 		}
-	]
+	],
+	"display":{
+		"gui":{
+			"rotation":[30,225,0],
+			"translation":[0,0,0],
+			"scale":[0.625,0.625,0.625]
+		},
+		"ground":{
+			"rotation":[0,0,0],
+			"translation":[0,3,0],
+			"scale":[0.25,0.25,0.25]
+		},
+		"fixed":{
+			"rotation":[0,0,0],
+			"translation":[0,0,0],
+			"scale":[0.5,0.5,0.5]
+		},
+		"thirdperson_righthand":{
+			"rotation":[75,45,0],
+			"translation":[0,2.5,0],
+			"scale":[0.375,0.375,0.375]
+		},
+		"firstperson_righthand":{
+			"rotation":[0,45,0],
+			"translation":[0,0,0],
+			"scale":[0.40,0.40,0.40]
+		},
+		"firstperson_lefthand":{
+			"rotation":[0,225,0],
+			"translation":[0,0,0],
+			"scale":[0.40,0.40,0.40]
+		}
+	}
 }
