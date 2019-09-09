@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/cube_all",
 	"textures":{
 		"all":"blocks/mob_spawner"
 	},
