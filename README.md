@@ -1,5 +1,5 @@
 # Minecraft 3D Default
-# ![img lost](https://raw.githubusercontent.com/GeForceLegend/Minecraft-Default-3D/1.14/pack.png)
+# ![img lost](https://raw.githubusercontent.com/GeForceLegend/Minecraft-Default-3D/1.14-All/pack.png)
 
 *This resourcepack is for Minecraft Java Edition only.*
 
