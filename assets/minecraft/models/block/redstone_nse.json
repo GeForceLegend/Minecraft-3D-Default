@@ -117,7 +117,7 @@
 			"faces":{
 				"north":{"uv":[9,2,8,2.9],"texture":"#cross","tintindex":0},
 				"east":{"uv":[9,2,8,3.995],"rotation":90,"texture":"#cross","tintindex":0},
-				"south":{"uv":[8,3,9,3.9],"texture":"#cross"},
+				"south":{"uv":[8,3,9,3.9],"texture":"#cross","tintindex":0},
 				"west":{"uv":[8,2,9,2.9],"texture":"#cross","tintindex":0}
 			}
 		},
