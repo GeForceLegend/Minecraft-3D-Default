@@ -72,8 +72,8 @@
 			"from":[1,0,0],
 			"to":[15,1,16],
 			"faces":{
-				"up":{"uv":[0.9725,0,15.0275,16],"texture":"#rail"},
-				"down":{"uv":[0.9725,16,15.0275,0],"texture":"#rail","cullface":"down"}
+				"up":{"uv":[0.9725,-0.0313,15.0275,16.0313],"texture":"#rail"},
+				"down":{"uv":[0.9725,16.0313,15.0275,-0.0313],"texture":"#rail","cullface":"down"}
 			}
 		}
 	]
