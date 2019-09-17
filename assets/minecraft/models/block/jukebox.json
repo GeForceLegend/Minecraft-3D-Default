@@ -5,7 +5,7 @@
 		"2":"blocks/furnace_in",
 		"3":"blocks/diamond_block",
 		"top":"blocks/jukebox_top",
-		"particle":"blocks/jukebox_top",
+		"particle":"blocks/jukebox_side",
 		"side":"blocks/jukebox_side"
 	},
 	"elements":[
