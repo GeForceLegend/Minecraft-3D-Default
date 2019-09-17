@@ -1,0 +1,17 @@
+{
+    "__comment":"Designed by GeForceLegend",
+	"ambientocclusion":false,
+	"textures":{
+		"particle":"#pane"
+	},
+	"elements":[
+		{
+			"from":[9,0,7],
+			"to":[9,16,9],
+			"faces":{
+				"east":{"uv":[7,0,9,16],"texture":"#pane"},
+				"west":{"uv":[9,0,7,16],"texture":"#pane"}
+			}
+		}
+	]
+}
