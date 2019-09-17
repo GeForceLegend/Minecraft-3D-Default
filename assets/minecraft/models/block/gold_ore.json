@@ -1,0 +1,7 @@
+{
+	"__comment":"DesignedbyGeForceLegend",
+	"parent":"block/template_ore",
+	"textures":{
+		"all":"block/gold_ore"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textures":{
+		"bottom":"block/cake_bottom",
+		"top":"block/cake_top",
+		"side":"block/cake_side",
+		"particle":"block/cake_side",
+		"inside":"block/cake_inner"
+	},
+	"elements":[
+		{
+			"from":[11,0,1],
+			"to":[15,8,15],
+			"faces":{
+				"north":{"uv":[1,8,5,16],"texture":"#side"},
+				"east":{"uv":[1,8,15,16],"texture":"#side"},
+				"south":{"uv":[11,8,15,16],"texture":"#side"},
+				"west":{"uv":[1,8,15,16],"texture":"#inside"},
+				"up":{"uv":[11,1,15,15],"texture":"#top"},
+				"down":{"uv":[11,1,15,15],"texture":"#bottom","cullface":"down"}
+			}
+		},
+		{
+			"from":[10.999,7.75,8],
+			"to":[13,8.75,10],
+			"faces":{
+				"north":{"uv":[9,7,7,8],"texture":"#top"},
+				"east":{"uv":[9,8,7,9],"texture":"#top"},
+				"south":{"uv":[7,8,9,9],"texture":"#top"},
+				"west":{"uv":[7,7,9,8],"texture":"#top"},
+				"up":{"uv":[7,7,9,9],"texture":"#top"}
+			}
+		},
+		{
+			"from":[12,8,2],
+			"to":[13,8.5,3],
+			"faces":{
+				"north":{"uv":[2,7,2.9,8],"texture":"#top"},
+				"east":{"uv":[2,7,2.9,8],"texture":"#top"},
+				"south":{"uv":[2,7,2.9,8],"texture":"#top"},
+				"west":{"uv":[2,7,2.9,8],"texture":"#top"},
+				"up":{"uv":[2,7,2.9,8],"texture":"#top"}
+			}
+		}
+	]
+}
