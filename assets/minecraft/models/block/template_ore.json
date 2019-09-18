@@ -1267,7 +1267,7 @@
 			"faces":{
 				"north":{"uv":[3,7,1,8],"texture":"#all","cullface":"down"},
 				"east":{"uv":[3,8,2,6],"rotation":90,"texture":"#all","cullface":"down"},
-				"down":{"uv":[1,6,3,8],"texture":"#all"}
+				"down":{"uv":[1,6,3,8],"texture":"#all","cullface":"down"}
 			}
 		},
 		{
