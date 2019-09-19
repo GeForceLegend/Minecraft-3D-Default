@@ -41,7 +41,7 @@
 			"to":[5,2,12],
 			"faces":{
 				"north":{"uv":[5,10,3,11],"texture":"#texture"},
-				"east":{"uv":[4,10,5,11],"texture":"#texture"},
+				"east":{"uv":[4,10,5,12],"rotation":90,"texture":"#texture"},
 				"south":{"uv":[3,11,5,12],"texture":"#texture"},
 				"west":{"uv":[3,10,4,11],"texture":"#texture"},
 				"up":{"uv":[3,10,5,12],"texture":"#texture"}
