@@ -112,8 +112,8 @@
 			"to":[7,16,8.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,7,8]},
 			"faces":{
-				"north":{"uv":[7.0118,-0.0255,0.9882,13.0255],"texture":"#texture"},
-				"south":{"uv":[0.9882,-0.0255,7.0118,13.0255],"texture":"#texture"}
+				"north":{"uv":[7.0049,-0.0127,0.9951,13.0127],"texture":"#texture"},
+				"south":{"uv":[0.9951,-0.0127,7.0049,13.0127],"texture":"#texture"}
 			}
 		},
 		{

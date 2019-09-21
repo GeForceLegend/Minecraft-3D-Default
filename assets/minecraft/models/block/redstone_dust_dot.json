@@ -109,8 +109,8 @@
 			"from":[5,0,5],
 			"to":[12,1,12],
 			"faces":{
-				"up":{"uv":[4.9863,4.9863,12.0137,12.0137],"texture":"#dot","tintindex":0},
-				"down":{"uv":[4.9863,12.0137,12.0137,4.9863],"texture":"#dot","tintindex":0,"cullface":"down"}
+				"up":{"uv":[4.9932,4.9932,12.0137,12.0068],"texture":"#dot","tintindex":0},
+				"down":{"uv":[4.9932,12.0068,12.0137,4.9932],"texture":"#dot","tintindex":0,"cullface":"down"}
 			}
 		}
 	]

@@ -46,7 +46,7 @@
 			"faces":{
 				"east":{"uv":[0,0,16,6],"texture":"#side","cullface":"up"},
 				"west":{"uv":[0,0,16,6],"texture":"#side","cullface":"west"},
-				"up":{"uv":[0,-0.0314,2,16.0314],"texture":"#top","cullface":"up"}
+				"up":{"uv":[0,-0.0156,2,16.0156],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -55,7 +55,7 @@
 			"faces":{
 				"east":{"uv":[0,0,16,6],"texture":"#side","cullface":"east"},
 				"west":{"uv":[0,0,16,6],"texture":"#side","cullface":"up"},
-				"up":{"uv":[14,-0.0314,16,16.0314],"texture":"#top","cullface":"up"}
+				"up":{"uv":[14,-0.0156,16,16.0156],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 			"faces":{
 				"north":{"uv":[0,0,16,6],"texture":"#side","cullface":"north"},
 				"south":{"uv":[0,0,16,6],"texture":"#side","cullface":"up"},
-				"up":{"uv":[-0.0314,0,16.0314,2],"texture":"#top","cullface":"up"}
+				"up":{"uv":[-0.0156,0,16.0156,2],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -73,7 +73,7 @@
 			"faces":{
 				"north":{"uv":[0,0,16,6],"texture":"#side","cullface":"up"},
 				"south":{"uv":[0,0,16,6],"texture":"#side","cullface":"south"},
-				"up":{"uv":[-0.0314,14,16.0314,16],"texture":"#top","cullface":"up"}
+				"up":{"uv":[-0.0156,14,16.0156,16],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -83,7 +83,7 @@
 				"north":{"uv":[10,6,12,12],"texture":"#side"},
 				"east":{"uv":[4,5,12,12],"texture":"#side"},
 				"west":{"uv":[4,5,12,12],"texture":"#side"},
-				"down":{"uv":[4,3.9843,6,12.0157],"texture":"#side"}
+				"down":{"uv":[4,3.9922,6,12.0078],"texture":"#side"}
 			}
 		},
 		{
@@ -93,7 +93,7 @@
 				"north":{"uv":[4,6,6,12],"texture":"#side"},
 				"east":{"uv":[4,5,12,12],"texture":"#side"},
 				"west":{"uv":[4,5,12,12],"texture":"#side"},
-				"down":{"uv":[10,3.9843,12,12.0157],"texture":"#side"}
+				"down":{"uv":[10,3.9922,12,12.0078],"texture":"#side"}
 			}
 		},
 		{
@@ -102,7 +102,7 @@
 			"faces":{
 				"north":{"uv":[4,5,12,12],"texture":"#side"},
 				"south":{"uv":[4,5,12,12],"texture":"#side"},
-				"down":{"uv":[3.9843,4,12.0157,6],"texture":"#side"}
+				"down":{"uv":[3.9922,4,12.0078,6],"texture":"#side"}
 			}
 		},
 		{

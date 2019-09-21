@@ -15,7 +15,7 @@
 			"faces":{
 				"east":{"uv":[0,0,16,16],"texture":"#2","cullface":"up"},
 				"west":{"uv":[0,0,16,16],"texture":"#side","cullface":"west"},
-				"up":{"uv":[-0.0137,-0.0314,7.0137,16.0314],"texture":"#top","cullface":"up"}
+				"up":{"uv":[-0.068,-0.0156,7.068,16.0156],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -24,7 +24,7 @@
 			"faces":{
 				"east":{"uv":[0,0,16,16],"texture":"#side","cullface":"east"},
 				"west":{"uv":[0,0,16,16],"texture":"#2","cullface":"up"},
-				"up":{"uv":[8.9863,-0.0314,16.0137,16.0314],"texture":"#top","cullface":"up"}
+				"up":{"uv":[8.9932,-0.0156,16.068,16.0156],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -41,7 +41,7 @@
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#side","cullface":"north"},
 				"south":{"uv":[0,0,16,16],"texture":"#2","cullface":"up"},
-				"up":{"uv":[-0.0314,0,16.0314,3],"texture":"#top","cullface":"up"}
+				"up":{"uv":[-0.0156,0,16.0156,3],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -50,7 +50,7 @@
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#2","cullface":"up"},
 				"south":{"uv":[0,0,16,16],"texture":"#side","cullface":"south"},
-				"up":{"uv":[-0.0314,13,16.0314,16],"texture":"#top","cullface":"up"}
+				"up":{"uv":[-0.0156,13,16.0156,16],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
