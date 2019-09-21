@@ -16,7 +16,7 @@
 			"faces":{
 				"east":{"uv":[0,0,16,13],"texture":"#side","cullface":"up"},
 				"west":{"uv":[0,0,16,13],"texture":"#side","cullface":"west"},
-				"up":{"uv":[0,-0.0314,2,1.03146],"texture":"#top","cullface":"up"}
+				"up":{"uv":[0,-0.0314,2,16.0314],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
