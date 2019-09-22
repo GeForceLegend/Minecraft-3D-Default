@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/glass",
+	"textures":{
+		"all":"block/pink_stained_glass"
+	}
+}
