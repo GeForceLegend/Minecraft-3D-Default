@@ -1,0 +1,8 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/glass",
+	"textures":{
+		"all":"blocks/glass_white",
+		"particle":"blocks/glass_white"
+	}
+}
