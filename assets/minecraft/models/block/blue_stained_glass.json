@@ -1,7 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/flower2",
+	"parent":"block/glass",
 	"textures":{
-		"cross":"block/wither_rose"
+		"all":"block/blue_stained_glass"
 	}
 }
