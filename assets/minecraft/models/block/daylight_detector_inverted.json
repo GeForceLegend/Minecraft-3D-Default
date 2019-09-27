@@ -1,0 +1,8 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/daylight_detector",
+	"textures":{
+		"particle":"block/daylight_detector_inverted_top",
+		"top":"block/daylight_detector_inverted_top"
+	}
+}
