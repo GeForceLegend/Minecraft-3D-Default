@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/unlit_redstone_lamp",
+	"textures":{
+		"all":"blocks/redstone_lamp_on"
+	}
+}
