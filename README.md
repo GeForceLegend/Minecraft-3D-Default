@@ -19,4 +19,6 @@ If you want to use my models in your own resourcepack, please follow the [licenc
 
 - Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition. Please choose no-Optifine edition when you are not using Optifine.)
 
+- PBR self-illuminating textures(Only supported by few shaders such as [Wisom Shader](https://github.com/bobcao3/Wisdom-Shaders).)
+
 - More features are coming soom.
