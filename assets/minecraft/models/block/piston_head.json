@@ -1,0 +1,30 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textures":{
+		"particle":"#platform"
+	},
+	"elements":[
+		{
+			"from":[0,0,0],
+			"to":[16,16,4],
+			"faces":{
+				"north":{"uv":[0,0,16,16],"texture":"#platform","cullface":"north"},
+				"east":{"uv":[0,0,16,3.995],"rotation":90,"texture":"#side","cullface":"east"},
+				"south":{"uv":[0,0,16,16],"texture":"#unsticky"},
+				"west":{"uv":[0,0,16,3.995],"rotation":270,"texture":"#side","cullface":"west"},
+				"up":{"uv":[0,0,16,3.995],"texture":"#side","cullface":"up"},
+				"down":{"uv":[16,3.995,0,0],"texture":"#side","cullface":"down"}
+			}
+		},
+		{
+			"from":[6,6,4],
+			"to":[10,10,20],
+			"faces":{
+				"east":{"uv":[0,0,16,3.995],"texture":"#side"},
+				"west":{"uv":[16,3.995,0,0],"texture":"#side"},
+				"up":{"uv":[0,0,16,3.995],"rotation":270,"texture":"#side"},
+				"down":{"uv":[0,0,16,3.995],"rotation":90,"texture":"#side"}
+			}
+		}
+	]
+}
