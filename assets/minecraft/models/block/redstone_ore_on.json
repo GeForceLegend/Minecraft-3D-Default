@@ -2,6 +2,6 @@
 	"__comment":"DesignedbyGeForceLegend",
 	"parent":"block/template_ore",
 	"textures":{
-		"all":"block/redstone_ore"
+		"all":"block/redstone_ore_on"
 	}
 }
