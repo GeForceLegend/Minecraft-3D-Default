@@ -1,6 +1,7 @@
 {
     "__comment":"Designed by GeForceLegend",
 	"textures":{
+		"particle":"block/bell_bottom",
 		"bar":"block/dark_oak_planks",
 		"post":"block/stone"
 	},
