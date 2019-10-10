@@ -220,9 +220,9 @@
 			"from":[2,11,0],
 			"to":[4,12,1],
 			"faces":{
-				"north":{"uv":[12.002,4,14,4.9],"texture":"#front","cullface":"north"},
-				"east":{"uv":[12.002,4,13,4.9],"texture":"#front","cullface":"north"},
-				"down":{"uv":[14,4,12.002,4.9],"texture":"#front","cullface":"north"}
+				"north":{"uv":[12.005,4,14,4.9],"texture":"#front","cullface":"north"},
+				"east":{"uv":[12.005,4,13,4.9],"texture":"#front","cullface":"north"},
+				"down":{"uv":[14,4,12.005,4.9],"texture":"#front","cullface":"north"}
 			}
 		},
 		{
