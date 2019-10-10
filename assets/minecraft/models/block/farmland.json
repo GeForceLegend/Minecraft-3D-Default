@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"parent":"block/block",
 	"elements":[
 		{
 			"from":[0,0,0],
@@ -18,7 +19,7 @@
 			"to":[16,15.5,16],
 			"faces":{
 				"north":{"uv":[0,0.5,1,1],"texture":"#dirt","cullface":"north"},
-				"east":{"uv":[0,0.5,16,1],"texture":"#dirt"},
+				"east":{"uv":[0,0.5,16,1],"texture":"#dirt","cullface":"east"},
 				"west":{"uv":[15.1,-0.01,16,16.01],"rotation":270,"texture":"#top"},
 				"up":{"uv":[15.1,-0.01,16,16.01],"texture":"#top"}
 			}
@@ -28,7 +29,7 @@
 			"to":[16,15.5,16],
 			"faces":{
 				"north":{"uv":[16,5,14,5.9],"texture":"#top"},
-				"south":{"uv":[14.0075,0.5,16,1],"texture":"#dirt"},
+				"south":{"uv":[14.0075,15.1,16.01,16],"texture":"#top"},
 				"west":{"uv":[14.1,5,15,16],"rotation":270,"texture":"#top"},
 				"up":{"uv":[14.0075,4.9963,16.01,16.01],"texture":"#top"}
 			}
@@ -84,7 +85,7 @@
 			"from":[10,15,0],
 			"to":[14,15.5,2],
 			"faces":{
-				"north":{"uv":[2,0.5,5.9975,1],"texture":"#dirt"},
+				"north":{"uv":[14.0075,0,10.0025,0.9],"texture":"#top"},
 				"east":{"uv":[14,1.9225,13.1,0],"rotation":270,"texture":"#top"},
 				"south":{"uv":[10.0025,1,14,1.9],"texture":"#top"},
 				"up":{"uv":[10.0025,-0.01,14.0075,1.9925],"texture":"#top"}
@@ -141,7 +142,7 @@
 			"from":[6,15,0],
 			"to":[9,15.5,1],
 			"faces":{
-				"north":{"uv":[6,0,9,0.9],"texture":"#dirt"},
+				"north":{"uv":[9,0,6,0.9],"texture":"#top"},
 				"south":{"uv":[6,0,9,0.9],"texture":"#top"},
 				"west":{"uv":[6,0,6.9,0.9],"rotation":270,"texture":"#top"},
 				"up":{"uv":[6,0,9,0.9],"texture":"#top"}
@@ -153,7 +154,7 @@
 			"faces":{
 				"north":{"uv":[5.9,15.1,5,16],"texture":"#top"},
 				"east":{"uv":[5.9,16,5,15.1],"rotation":270,"texture":"#top"},
-				"south":{"uv":[3,0.5,6,1],"texture":"#dirt"},
+				"south":{"uv":[2.9937,15.1,5.9975,16],"texture":"#top"},
 				"up":{"uv":[2.9937,15.1,5.9975,16],"texture":"#top"}
 			}
 		},
@@ -181,7 +182,7 @@
 			"from":[2,15,0],
 			"to":[3.999,15.5,11],
 			"faces":{
-				"north":{"uv":[12.005,0.5,14,1],"texture":"#dirt"},
+				"north":{"uv":[3.995,0,1.9975,0.9],"texture":"#top"},
 				"east":{"uv":[3.9,11,3,0],"rotation":270,"texture":"#top"},
 				"south":{"uv":[2,10.1,3.995,11],"texture":"#top"},
 				"west":{"uv":[2,0,2.9,11],"rotation":270,"texture":"#top"},
@@ -194,7 +195,7 @@
 			"faces":{
 				"north":{"uv":[1.9,15.1,1,16],"texture":"#top"},
 				"east":{"uv":[1.9,16,1,15.1],"rotation":270,"texture":"#top"},
-				"south":{"uv":[0,0.5,1.9925,1],"texture":"#dirt"},
+				"south":{"uv":[1,15.1,1.9,16],"texture":"#top"},
 				"up":{"uv":[1,15.1,1.9,16],"texture":"#top"}
 			}
 		},
