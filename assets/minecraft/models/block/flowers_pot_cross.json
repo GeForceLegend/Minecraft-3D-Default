@@ -11,36 +11,36 @@
 			"from":[5,0,5],
 			"to":[6,6,11],
 			"faces":{
-				"east":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"west":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"up":{"uv":[5,5,6,11],"texture":"#flowerpot"}
+				"east":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"west":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"up":{"uv":[5,5,5.9,11],"texture":"#flowerpot"}
 			}
 		},
 		{
 			"from":[10,0,5],
 			"to":[11,6,11],
 			"faces":{
-				"east":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"west":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"up":{"uv":[10,5,11,11],"texture":"#flowerpot"}
+				"east":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"west":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"up":{"uv":[10.1,5,11,11],"texture":"#flowerpot"}
 			}
 		},
 		{
 			"from":[5,0,5],
 			"to":[11,6,6],
 			"faces":{
-				"north":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"south":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"up":{"uv":[5,5,11,6],"texture":"#flowerpot"}
+				"north":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"south":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"up":{"uv":[5,5,11,5.9],"texture":"#flowerpot"}
 			}
 		},
 		{
 			"from":[5,0,10],
 			"to":[11,6,11],
 			"faces":{
-				"north":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"south":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"up":{"uv":[5,10,11,11],"texture":"#flowerpot"}
+				"north":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"south":{"uv":[5,10.0025,11,16],"texture":"#flowerpot"},
+				"up":{"uv":[5,10.1,11,11],"texture":"#flowerpot"}
 			}
 		},
 		{
@@ -48,12 +48,13 @@
 			"to":[11,4,11],
 			"faces":{
 				"up":{"uv":[5,5,11,11],"texture":"#dirt"},
-				"down":{"uv":[5,10,11,16],"texture":"#flowerpot","cullface":"down"}
+				"down":{"uv":[5,10.0025,11,16],"texture":"#flowerpot","cullface":"down"}
 			}
 		},
 		{
 			"from":[2.6,4,8],
 			"to":[13.4,16,8],
+			"shade":false,
 			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
 			"faces":{
 				"north":{"uv":[0,0,15,16],"texture":"#plant","tintindex":0},
@@ -63,6 +64,7 @@
 		{
 			"from":[8,4,2.6],
 			"to":[8,16,13.4],
+			"shade":false,
 			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
 			"faces":{
 				"east":{"uv":[0,0,15,16],"texture":"#plant","tintindex":0},
