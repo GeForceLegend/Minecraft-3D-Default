@@ -298,8 +298,8 @@
 			"to":[16,16,8.5],
 			"shade":false,
 			"faces":{
-				"north":{"uv":[16.026,-0.026,-0.026,16.026],"texture":"#layer0","tintindex":0,"cullface":"up"},
-				"south":{"uv":[-0.026,-0.026,16.026,16.026],"texture":"#layer0","tintindex":0,"cullface":"up"}
+				"north":{"uv":[16.026,-0.026,-0.026,16.026],"texture":"#layer0","tintindex":0},
+				"south":{"uv":[-0.026,-0.026,16.026,16.026],"texture":"#layer0","tintindex":0}
 			}
 		},
 		{
