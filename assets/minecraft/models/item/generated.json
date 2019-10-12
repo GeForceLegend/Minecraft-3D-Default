@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"bulitin/generated",
 	"textures":{
 		"layer1":"item/empty",
 		"particle":"#layer0"
