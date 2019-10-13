@@ -8,8 +8,9 @@
 	},
 	"elements":[
 		{
-			"from":[6.2,4.2,6.7],
-			"to":[9.8,5,10.3],
+			"from":[6.2,2.2,7.4],
+			"to":[9.8,3,11],
+			"rotation":{"angle":-22.5,"axis":"x","origin":[8,3.1,9.6]},
 			"faces":{
 				"north":{"uv":[5,3,11,4],"texture":"#hook"},
 				"east":{"uv":[5,3,11,4],"texture":"#hook"},
@@ -20,8 +21,9 @@
 			}
 		},
 		{
-			"from":[7.4,4.2,9.1],
-			"to":[8.6,5,7.9],
+			"from":[7.4,2.2,9.8],
+			"to":[8.6,3,8.6],
+			"rotation":{"angle":-22.5,"axis":"x","origin":[8,3.1,9.6]},
 			"faces":{
 				"north":{"uv":[7,8,9,9],"texture":"#hook"},
 				"east":{"uv":[7,3,9,4],"texture":"#hook"},
@@ -32,7 +34,7 @@
 		{
 			"from":[7.3,5.2,10],
 			"to":[8.7,6.8,14],
-			"rotation":{"angle":-22.5,"axis":"x","origin":[8,6,14]},
+			"rotation":{"angle":-45,"axis":"x","origin":[8,6,14]},
 			"faces":{
 				"north":{"uv":[7,9,9,11],"texture":"#wood"},
 				"east":{"uv":[9,9,14,11],"texture":"#wood"},
