@@ -22,7 +22,7 @@
 			"from":[0,0,0],
 			"to":[3,16,3],
 			"faces":{
-				"north":{"uv":[-0.13,-0.01,2.9937,16.01],"texture":"#layer0","cullface":"north"},
+				"north":{"uv":[-0.1,-0.01,2.9937,16.01],"texture":"#layer0","cullface":"north"},
 				"east":{"uv":[2.9937,-0.01,-0.01,16.01],"texture":"#particle"},
 				"south":{"uv":[2,-0.01,2.9,16.01],"texture":"#particle"},
 				"west":{"uv":[-0.01,-0.01,2.9937,16.01],"texture":"#particle","cullface":"west"}
