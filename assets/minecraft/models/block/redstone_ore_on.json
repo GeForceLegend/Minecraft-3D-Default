@@ -1,5 +1,5 @@
 {
-	"__comment":"DesignedbyGeForceLegend",
+	"__comment":"Designed by GeForceLegend",
 	"parent":"block/template_ore",
 	"textures":{
 		"all":"block/redstone_ore_on"
