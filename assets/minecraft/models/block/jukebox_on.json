@@ -3,7 +3,7 @@
 	"ambientocclusion":false,
 	"textures":{
 		"2":"block/furnace_in",
-		"4":"block/diamond_block",
+		"3":"block/diamond_block",
 		"5":"block/jukebox_disc",
 		"top":"block/jukebox_top",
 		"particle":"block/jukebox_top",
