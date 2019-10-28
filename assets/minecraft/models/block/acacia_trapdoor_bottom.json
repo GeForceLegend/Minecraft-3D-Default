@@ -1,7 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"ambientocclusion":false,
 	"parent":"block/thin_block",
+	"ambientocclusion":false,
 	"textures":{
 		"layer1":"block/acacia_trapdoor1",
 		"layer2":"block/acacia_trapdoor2",
@@ -11,23 +11,12 @@
 	"elements":[
 		{
 			"from":[2,0,13],
-			"to":[14,3,16],
-			"faces":{
-				"north":{"uv":[14,2,2,4.9963],"texture":"#layer3"}
-			}
-		},
-		{
-			"from":[14,0,3],
-			"to":[16,3,13],
-			"faces":{
-				"west":{"uv":[13.0063,3,16,13],"rotation":90,"texture":"#layer1"}
-			}
-		},
-		{
-			"from":[2,0,0],
 			"to":[14,3,3],
 			"faces":{
-				"south":{"uv":[2,11.0037,14,14],"texture":"#layer3"}
+				"north":{"uv":[14,2,2,4.9963],"texture":"#layer3"},
+				"east":{"uv":[13.0063,3,16,13],"rotation":90,"texture":"#layer1"},
+				"south":{"uv":[2,11.0037,14,14],"texture":"#layer3"},
+				"west":{"uv":[0,13,2.9937,3],"rotation":90,"texture":"#layer1"}
 			}
 		},
 		{
@@ -55,24 +44,17 @@
 			"to":[7,3,13],
 			"faces":{
 				"east":{"uv":[5,3,8,13],"rotation":90,"texture":"#layer1"},
-				"west":{"uv":[4,3,6.9988,13],"rotation":90,"texture":"#layer2"}
-			}
-		},
-		{
-			"from":[0,0,3],
-			"to":[2,3,13],
-			"faces":{
-				"east":{"uv":[0,3,2.9937,13],"rotation":90,"texture":"#layer1"}
+				"west":{"uv":[4,3,7,13],"rotation":90,"texture":"#layer2"}
 			}
 		},
 		{
 			"from":[0,0,0],
 			"to":[16,3,16],
 			"faces":{
-				"north":{"uv":[16.01,13.0063,-0.01,16.01],"texture":"#layer1","cullface":"north"},
-				"east":{"uv":[13.0063,16.01,16.01,-0.01],"rotation":90,"texture":"#layer2","cullface":"east"},
-				"south":{"uv":[-0.01,-0.01,16.01,2.9937],"texture":"#layer1","cullface":"south"},
-				"west":{"uv":[-0.01,-0.01,2.9937,16.01],"rotation":90,"texture":"#layer2","cullface":"west"},
+				"north":{"uv":[16.01,13,-0.01,16],"texture":"#layer1","cullface":"north"},
+				"east":{"uv":[13,16.01,16,-0.01],"rotation":90,"texture":"#layer2","cullface":"east"},
+				"south":{"uv":[-0.01,0,16.01,2.9937],"texture":"#layer1","cullface":"south"},
+				"west":{"uv":[0,-0.01,2.9937,16.01],"rotation":90,"texture":"#layer2","cullface":"west"},
 				"up":{"uv":[-0.01,16.01,16.01,-0.01],"texture":"#particle"},
 				"down":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#particle","cullface":"down"}
 			}
