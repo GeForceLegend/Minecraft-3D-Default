@@ -212,7 +212,7 @@
 			"to":[1,16,16],
 			"faces":{
 				"east":{"uv":[0,-0.01,0.9,16.01],"rotation":90,"texture":"#all","cullface":"up"},
-				"west":{"uv":[-0.01,-0.01,16.01,2],"texture":"#all","cullface":"west"},
+				"west":{"uv":[-0.01,-0.01,16.01,1.9925],"texture":"#all","cullface":"west"},
 				"up":{"uv":[0,-0.01,0.9,16.01],"texture":"#all","cullface":"up"},
 				"down":{"uv":[16.01,1,-0.01,1.9],"rotation":90,"texture":"#all","cullface":"west"}
 			}
