@@ -1,7 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/powered_rail_raised_ne",
-	"ambientocclusion":false,
 	"textures":{
 		"rail":"block/powered_rail_on",
 		"particle":"block/powered_rail_on"
