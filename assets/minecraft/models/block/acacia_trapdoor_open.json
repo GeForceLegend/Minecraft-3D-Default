@@ -14,7 +14,7 @@
 			"faces":{
 				"east":{"uv":[13.0063,3,16,13],"texture":"#layer1"},
 				"west":{"uv":[0,3,2.9937,13],"texture":"#layer1"},
-				"up":{"uv":[2,2,14,5],"texture":"#layer3"},
+				"up":{"uv":[2,2,14,4.9963],"texture":"#layer3"},
 				"down":{"uv":[2,11.0037,14,14],"texture":"#layer3"}
 			}
 		},
