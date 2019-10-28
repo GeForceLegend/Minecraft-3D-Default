@@ -32,59 +32,28 @@
 			}
 		},
 		{
-			"from":[15.999,0,0],
-			"to":[15.999,16,16],
-			"faces":{
-				"east":{"uv":[0,0,16,16],"texture":"#glass","cullface":"east"},
-				"west":{"uv":[0,0,16,16],"texture":"#glass","cullface":"east"}
-			}
-		},
-		{
-			"from":[0.001,0,0],
-			"to":[0.001,16,16],
-			"faces":{
-				"east":{"uv":[0,0,16,16],"texture":"#glass","cullface":"west"},
-				"west":{"uv":[0,0,16,16],"texture":"#glass","cullface":"west"}
-			}
-		},
-		{
-			"from":[0,0,0.001],
-			"to":[16,16,0.001],
+			"from":[0,0,0],
+			"to":[16,16,16],
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#glass","cullface":"north"},
-				"south":{"uv":[0,0,16,16],"texture":"#glass","cullface":"north"}
-			}
-		},
-		{
-			"from":[0,0,15.999],
-			"to":[16,16,15.999],
-			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#glass","cullface":"south"},
-				"south":{"uv":[0,0,16,16],"texture":"#glass","cullface":"south"}
-			}
-		},
-		{
-			"from":[0,0.001,0],
-			"to":[16,0.001,16],
-			"faces":{
-				"up":{"uv":[0,0,16,16],"texture":"#glass","cullface":"down"},
+				"east":{"uv":[0,0,16,16],"texture":"#glass","cullface":"east"},
+				"south":{"uv":[0,0,16,16],"texture":"#glass","cullface":"south"},
+				"west":{"uv":[0,0,16,16],"texture":"#glass","cullface":"west"},
+				"up":{"uv":[0,0,16,16],"texture":"#glass","cullface":"up"},
 				"down":{"uv":[0,0,16,16],"texture":"#glass","cullface":"down"}
 			}
 		},
 		{
-			"from":[0,15.999,0],
-			"to":[16,15.999,16],
+			"from":[0.01,0.01,15.99],
+			"to":[15.99,15.99,0.01],
 			"faces":{
+				"north":{"uv":[0,0,16,16],"texture":"#glass","cullface":"south"},
+				"east":{"uv":[0,0,16,16],"texture":"#glass","cullface":"east"},
+				"south":{"uv":[0,0,16,16],"texture":"#glass","cullface":"north"},
+				"west":{"uv":[0,0,16,16],"texture":"#glass","cullface":"west"},
 				"up":{"uv":[0,0,16,16],"texture":"#glass","cullface":"up"},
-				"down":{"uv":[0,0,16,16],"texture":"#glass","cullface":"up"}
+				"down":{"uv":[0,0,16,16],"texture":"#glass","cullface":"down"}
 			}
 		}
-	],
-	"display":{
-		"thirdperson":{
-			"rotation":[10,-45,170],
-			"translation":[0,1.5,-2.75],
-			"scale":[0.375,0.375,0.375]
-		}
-	}
+	]
 }
