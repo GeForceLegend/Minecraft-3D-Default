@@ -1,0 +1,43 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[64,64],
+	"shadowSize":0,
+	"models":[
+		{
+			"model":"bed_head.jpm",
+			"part":"head",
+			"translate":[16,16,9],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"bed_foot.jpm",
+			"part":"foot",
+			"translate":[16,16,9],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"bed_leg.jpm",
+			"part":"leg1",
+			"translate":[16,9,-16],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"bed_leg.jpm",
+			"part":"leg2",
+			"translate":[32,9,0],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"bed_leg.jpm",
+			"part":"leg3",
+			"translate":[16,9,-16],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"bed_leg.jpm",
+			"part":"leg4",
+			"translate":[0,9,0],
+			"rotate":[0,0,0]
+		}
+	]
+}

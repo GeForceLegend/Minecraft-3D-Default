@@ -1,0 +1,21 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[64,64],
+	"boxes":[
+		{
+			"coordinates":[-16,-16,-5,16,16,2],
+			"uvNorth":[1,28,2,44],
+			"uvEast":[0,28,2,44],
+			"uvSouth":[28,28,44,44],
+			"uvWest":[26,28,28,44],
+			"uvDown":[22,22,38,24]
+		},
+		{
+			"coordinates":[-15.5,-16,-9,15,15.5,4],
+			"uvNorth":[6,28,22,44],
+			"uvEast":[2,28,6,44],
+			"uvWest":[22,28,26,44],
+			"uvDown":[6,40,22,44]
+		}
+	]
+}

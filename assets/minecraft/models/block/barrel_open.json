@@ -2,17 +2,17 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"top":"block/barrel_top_open",
 		"side":"block/barrel_side",
+		"particle":"block/barrel_side",
 		"bottom":"block/barrel_bottom",
-		"particle":"block/barrel_side"
+		"top":"block/barrel_top_open"
 	},
 	"elements":[
 		{
 			"from":[0,0,0],
 			"to":[16,1,16],
 			"faces":{
-				"up":{"uv":[0,0,16,16],"texture":"#top","cullface":"up"},
+				"up":{"uv":[0,0,16,16],"texture":"#bottom","cullface":"up"},
 				"down":{"uv":[0,0,16,16],"texture":"#bottom","cullface":"down"}
 			}
 		},
@@ -35,78 +35,6 @@
 			}
 		},
 		{
-			"from":[2,1,0],
-			"to":[3,16,5],
-			"faces":{
-				"east":{"uv":[11,0,16,15],"texture":"#side","cullface":"up"},
-				"south":{"uv":[11,0,12,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[2,0,3,5],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[2,1,11],
-			"to":[3,16,16],
-			"faces":{
-				"north":{"uv":[4,0,5,15],"texture":"#side","cullface":"up"},
-				"east":{"uv":[0,0,5,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[2,11,3,16],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[13,1,11],
-			"to":[14,16,16],
-			"faces":{
-				"north":{"uv":[11,0,12,15],"texture":"#side","cullface":"up"},
-				"west":{"uv":[11,0,16,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[13,11,14,16],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[13,1,0],
-			"to":[14,16,5],
-			"faces":{
-				"south":{"uv":[4,0,5,15],"texture":"#side","cullface":"up"},
-				"west":{"uv":[0,0,5,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[13,0,14,5],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[3,1,0],
-			"to":[4,16,4],
-			"faces":{
-				"east":{"uv":[12,0,16,15],"texture":"#side","cullface":"up"},
-				"south":{"uv":[12,0,13,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[3,0,4,4],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[3,1,12],
-			"to":[4,16,16],
-			"faces":{
-				"north":{"uv":[3,0,4,15],"texture":"#side","cullface":"up"},
-				"east":{"uv":[0,0,4,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[3,12,4,16],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[12,1,12],
-			"to":[13,16,16],
-			"faces":{
-				"north":{"uv":[12,0,13,15],"texture":"#side","cullface":"up"},
-				"west":{"uv":[12,0,16,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[12,12,13,16],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[12,1,0],
-			"to":[13,16,4],
-			"faces":{
-				"south":{"uv":[3,0,4,15],"texture":"#side","cullface":"up"},
-				"west":{"uv":[0,0,4,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[12,0,13,4],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
 			"from":[0,0,0],
 			"to":[16,16,2],
 			"faces":{
@@ -122,42 +50,6 @@
 				"north":{"uv":[0,0,16,16],"texture":"#side","cullface":"up"},
 				"south":{"uv":[0,0,16,16],"texture":"#side","cullface":"south"},
 				"up":{"uv":[-0.0156,14,16.0156,16],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[4,1,2],
-			"to":[5,16,3],
-			"faces":{
-				"east":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"south":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[4,2,5,3],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[11,1,2],
-			"to":[12,16,3],
-			"faces":{
-				"south":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"west":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[4,2,5,3],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[11,1,13],
-			"to":[12,16,14],
-			"faces":{
-				"north":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"west":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[4,2,5,3],"texture":"#top","cullface":"up"}
-			}
-		},
-		{
-			"from":[4,1,13],
-			"to":[5,16,14],
-			"faces":{
-				"north":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"east":{"uv":[0,0,1,15],"texture":"#side","cullface":"up"},
-				"up":{"uv":[4,2,5,3],"texture":"#top","cullface":"up"}
 			}
 		}
 	]

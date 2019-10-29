@@ -1,43 +1,23 @@
 {
-	"__comment": "Designed by GeForceLegend",
-	"textureSize": [64, 32],
-	"boxes": [
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[64,32],
+	"boxes":[
 		{
-			"coordinates": [4, 0, 4, 8, 8, 1],
-			"uvNorth": [8, 8, 16, 16],
-			"uvEast": [7, 8, 8, 16],
-			"uvSouth": [24, 8, 32, 16],
-			"uvWest": [16, 8, 17, 16],
-			"uvUp": [8, 0, 16, 1],
-			"uvDown": [16, 7, 24, 8]
+			"coordinates":[4,0,4,8,8,8],
+			"uvNorth":[8,8,16,16],
+			"uvEast":[0,8,8,16],
+			"uvSouth":[24,8,32,16],
+			"uvWest":[16,8,24,16],
+			"uvUp":[8,0,16,8],
+			"uvDown":[16,0,24,8]
 		},
 		{
-			"coordinates": [4, 0, 11, 8, 8, 1],
-			"uvNorth": [24, 8, 32, 16],
-			"uvEast": [7, 8, 8, 16],
-			"uvSouth": [24, 8, 32, 16],
-			"uvWest": [16, 8, 17, 16],
-			"uvUp": [8, 0, 16, 1],
-			"uvDown": [16, 7, 24, 8]
-		},
-		{
-			"coordinates": [4, 0, 5, 1, 8, 6],
-			"uvEast": [17, 8, 23, 16],
-			"uvWest": [17, 8, 23, 16],
-			"uvUp": [8, 1, 9, 7],
-			"uvDown": [16, 1, 17, 7]
-		},
-		{
-			"coordinates": [11, 0, 5, 1, 8, 6],
-			"uvEast": [1, 8, 7, 16],
-			"uvWest": [1, 8, 7, 16],
-			"uvUp": [15, 1, 16, 7],
-			"uvDown": [23, 1, 24, 7]
-		},
-		{
-			"coordinates": [5, 0, 5, 6, 1, 6],
-			"uvUp": [9, 1, 15, 7],
-			"uvDown": [9, 1, 15, 7]
+			"coordinates":[5,8,5,6,-7,6],
+			"uvNorth":[25,16,31,9],
+			"uvEast":[23,16,17,9],
+			"uvSouth":[25,16,31,9],
+			"uvWest":[7,16,1,9],
+			"uvDown":[9,1,15,7]
 		}
 	]
 }
