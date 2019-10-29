@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/blue_orchid"},
+			{"model":"block/blue_orchid","y":90},
+			{"model":"block/blue_orchid","y":180},
+			{"model":"block/blue_orchid","y":270}
+		]
+	}
+}

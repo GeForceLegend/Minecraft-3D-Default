@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/potted_fern"},
+			{"model":"block/potted_fern","y":90},
+			{"model":"block/potted_fern","y":180},
+			{"model":"block/potted_fern","y":270}
+		]
+	}
+}

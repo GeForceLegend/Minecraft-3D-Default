@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/poppy"},
+			{"model":"block/poppy","y":90},
+			{"model":"block/poppy","y":180},
+			{"model":"block/poppy","y":270}
+		]
+	}
+}

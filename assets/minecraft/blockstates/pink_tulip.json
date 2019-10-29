@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/pink_tulip"},
+			{"model":"block/pink_tulip","y":90},
+			{"model":"block/pink_tulip","y":180},
+			{"model":"block/pink_tulip","y":270}
+		]
+	}
+}

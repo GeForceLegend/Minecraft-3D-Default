@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/potted_allium"},
+			{"model":"block/potted_allium","y":90},
+			{"model":"block/potted_allium","y":180},
+			{"model":"block/potted_allium","y":270}
+		]
+	}
+}

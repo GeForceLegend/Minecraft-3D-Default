@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/potted_white_tulip"},
+			{"model":"block/potted_white_tulip","y":90},
+			{"model":"block/potted_white_tulip","y":180},
+			{"model":"block/potted_white_tulip","y":270}
+		]
+	}
+}
