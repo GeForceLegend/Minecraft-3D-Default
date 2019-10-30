@@ -1,0 +1,8 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/tall_seagrass_bottom",
+	"textures":{
+		"0":"block/tall_seagrass_top",
+		"particle":"block/tall_seagrass_top"
+	}
+}
