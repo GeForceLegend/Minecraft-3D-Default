@@ -120,7 +120,7 @@
 		},
 		{
 			"from":[7,7,6],
-			"to":[9,8,10],
+			"to":[9,7.99,10],
 			"rotation":{"angle":45,"axis":"y","origin":[8,3,8]},
 			"faces":{
 				"north":{"uv":[7,8,9,9],"texture":"#cross"},
