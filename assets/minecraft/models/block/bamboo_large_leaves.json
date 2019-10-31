@@ -1,0 +1,8 @@
+{
+	"__comment":"DesignedbyGeForceLegend",
+	"parent":"block/bamboo_small_leaves",
+	"textures":{
+		"texture":"block/bamboo_large_leaves",
+		"particle":"block/bamboo_large_leaves"
+	}
+}
