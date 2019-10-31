@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/dead_bubble_coral"},
+			{"model":"block/dead_bubble_coral","y":90},
+			{"model":"block/dead_bubble_coral","y":180},
+			{"model":"block/dead_bubble_coral","y":270}
+		]
+	}
+}

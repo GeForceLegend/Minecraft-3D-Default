@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/brain_coral"},
+			{"model":"block/brain_coral","y":90},
+			{"model":"block/brain_coral","y":180},
+			{"model":"block/brain_coral","y":270}
+		]
+	}
+}

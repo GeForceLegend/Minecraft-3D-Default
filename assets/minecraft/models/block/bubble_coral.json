@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/template_coral",
+	"textures":{
+		"coral":"block/bubble_coral"
+	}
+}
