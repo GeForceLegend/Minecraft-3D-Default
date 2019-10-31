@@ -1,5 +1,5 @@
-This resourcepack is for Minecraft Java Edition only. It turns some 2D models in Minecraft to 3D. 
-The name of each branch is the Minecraft version supported. 
-Minecraft 1.9-1.12 or 1.13-1.14 can use the same resourcepack. 
-Minecraft Java Edition 1.8 isn under supportment now.
-The "master" branch supports 1.9~1.12 and contains Optifine Custom Entity Models and Mcpathcer ctm textures.
+# 3D Default Plants Pack
+# ![img lost](https://raw.githubusercontent.com/GeForceLegend/Minecraft-Default-3D/Plants-Pack_1.14/pack.png)
+
+*This pack is a content supplement for the main pack, contains 3D models of plants.*
+*This pack will cost lots of performance. Think twice before loading it.
