@@ -46,9 +46,9 @@
 			"from":[10,15,1],
 			"to":[11,15.5,5],
 			"faces":{
-				"east":{"uv":[11,5,10,2],"rotation":270,"texture":"#top"},
+				"east":{"uv":[11,5,10,1],"rotation":270,"texture":"#top"},
 				"south":{"uv":[10,4,11,5],"texture":"#top"},
-				"up":{"uv":[10,2,11,5],"texture":"#top"}
+				"up":{"uv":[10,1,11,5],"texture":"#top"}
 			}
 		},
 		{
