@@ -17,8 +17,7 @@
 				"east":{"uv":[7,12,8,16],"texture":"#cross"},
 				"south":{"uv":[7,12,8,16],"texture":"#cross"},
 				"west":{"uv":[7,12,8,16],"texture":"#cross"},
-				"up":{"uv":[7,12,8,13],"texture":"#cross"},
-				"down":{"uv":[7,15,8,16],"texture":"#cross","cullface":"down"}
+				"up":{"uv":[7,12,8,13],"texture":"#cross"}
 			}
 		},
 		{
