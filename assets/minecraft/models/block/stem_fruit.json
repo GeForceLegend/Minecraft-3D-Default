@@ -32,8 +32,8 @@
 			}
 		},
 		{
-			"from":[0,8.5,7.5],
-			"to":[3,9.5,8.5],
+			"from":[0,8,7.5],
+			"to":[3,9,8.5],
 			"rotation":{"angle":0,"axis":"y","origin":[8,10,8]},
 			"faces":{
 				"north":{"uv":[3,6,0,7],"texture":"#upperstem","tintindex":0},
