@@ -27,9 +27,9 @@
 			"from":[10,15,11],
 			"to":[11,15.5,15],
 			"faces":{
-				"east":{"uv":[11,15,10,12],"rotation":270,"texture":"#top"},
+				"east":{"uv":[11,15,10,11],"rotation":270,"texture":"#top"},
 				"south":{"uv":[10,14,11,15],"texture":"#top"},
-				"up":{"uv":[10,12,11,15],"texture":"#top"}
+				"up":{"uv":[10,11,11,15],"texture":"#top"}
 			}
 		},
 		{
