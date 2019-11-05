@@ -1,7 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/thin_block",
-	"ambientocclusion":false,
+	"parent":"block/trapdoor_display",
 	"textures":{
 		"layer1":"block/acacia_trapdoor1",
 		"layer2":"block/acacia_trapdoor2",
