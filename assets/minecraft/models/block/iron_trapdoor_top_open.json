@@ -1,0 +1,9 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/oak_trapdoor_top",
+	"textures":{
+		"layer1":"block/iron_trapdoor_1",
+		"layer2":"block/iron_trapdoor_2",
+		"particle":"block/iron_trapdoor"
+	}
+}
