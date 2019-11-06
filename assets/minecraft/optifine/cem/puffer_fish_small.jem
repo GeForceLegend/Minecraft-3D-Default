@@ -1,0 +1,43 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[32,32],
+	"shadowSize":0.4,
+	"models":[
+		{
+			"model":"puffer_fish_small_body.jpm",
+			"part":"body",
+			"translate":[0,0,0],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"puffer_fish_small_eye.jpm",
+			"part":"eye_left",
+			"translate":[1,0,0],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"puffer_fish_small_eye.jpm",
+			"part":"eye_right",
+			"translate":[-1,0,0],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"puffer_fish_small_tail.jpm",
+			"part":"tail",
+			"translate":[0,0,0],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"puffer_fish_small_fin.jpm",
+			"part":"fin_right",
+			"translate":[0,0,0],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"puffer_fish_small_fin.jpm",
+			"part":"fin_left",
+			"translate":[1,0,0],
+			"rotate":[0,0,0]
+		}
+	]
+}
