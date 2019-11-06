@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/trapdoor_display",
 	"elements":[
 		{
 			"from":[3,0,13],
