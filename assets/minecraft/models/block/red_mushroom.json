@@ -1,9 +1,9 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/cross",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"blocks/mushroom_red"
+		"cross":"blocks/mushroom_red",
+		"particle":"blocks/mushroom_red"
 	},
 	"elements":[
 		{

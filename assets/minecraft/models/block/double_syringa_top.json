@@ -1,9 +1,9 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
-	"parent":"block/cross",
 	"textures":{
-		"cross":"blocks/double_plant_syringa_top"
+		"cross":"blocks/double_plant_syringa_top",
+		"particle":"blocks/double_plant_syringa_top"
 	},
 	"elements":[
 		{

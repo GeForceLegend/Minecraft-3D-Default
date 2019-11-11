@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/cross",
 	"ambientocclusion":false,
 	"textures":{
 		"flowerpot":"blocks/flower_pot",

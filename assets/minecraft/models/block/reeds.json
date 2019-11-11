@@ -1,8 +1,8 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/tinted_cross",
 	"textures":{
-		"cross":"blocks/reeds"
+		"cross":"blocks/reeds",
+		"particle":"blocks/reeds"
 	},
 	"elements":[
 		{

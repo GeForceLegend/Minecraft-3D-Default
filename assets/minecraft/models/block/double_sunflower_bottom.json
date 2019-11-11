@@ -1,9 +1,9 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
-	"parent":"block/cross",
 	"textures":{
-		"cross":"blocks/double_plant_sunflower_bottom"
+		"cross":"blocks/double_plant_sunflower_bottom",
+		"particle":"blocks/double_plant_sunflower_bottom"
 	},
 	"elements":[
 		{
