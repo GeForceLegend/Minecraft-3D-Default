@@ -83,12 +83,5 @@
 				"up":{"uv":[6,6,10,10],"texture":"#dirt"}
 			}
 		}
-	],
-	"groups":[0,1,2,3,
-		{
-			"name":"flower_pot",
-			"origin":[8,8,8],
-			"children":[4,5]
-		}
 	]
 }
