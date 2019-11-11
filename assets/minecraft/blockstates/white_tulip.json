@@ -1,11 +1,11 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"variants":{
-		"":[
-			{"model":"block/white_tulip"},
-			{"model":"block/white_tulip","y":90},
-			{"model":"block/white_tulip","y":180},
-			{"model":"block/white_tulip","y":270}
+		"normal":[
+			{"model":"white_tulip"},
+			{"model":"white_tulip","y":90},
+			{"model":"white_tulip","y":180},
+			{"model":"white_tulip","y":270}
 		]
 	}
 }

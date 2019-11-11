@@ -3,7 +3,7 @@
 	"parent":"block/cross",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"block/red_mushroom"
+		"cross":"blocks/mushroom_red"
 	},
 	"elements":[
 		{

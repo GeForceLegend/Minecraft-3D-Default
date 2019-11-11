@@ -2,28 +2,28 @@
 	"__comment":"Designed by GeForceLegend",
 	"variants":{
 		"age=0":[
-			{"model":"block/beetroots_stage0"},
-			{"model":"block/beetroots_stage0","y":90},
-			{"model":"block/beetroots_stage0","y":180},
-			{"model":"block/beetroots_stage0","y":270}
+			{"model":"beetroots_stage0"},
+			{"model":"beetroots_stage0","y":90},
+			{"model":"beetroots_stage0","y":180},
+			{"model":"beetroots_stage0","y":270}
 		],
 		"age=1":[
-			{"model":"block/beetroots_stage1"},
-			{"model":"block/beetroots_stage1","y":90},
-			{"model":"block/beetroots_stage1","y":180},
-			{"model":"block/beetroots_stage1","y":270}
+			{"model":"beetroots_stage1"},
+			{"model":"beetroots_stage1","y":90},
+			{"model":"beetroots_stage1","y":180},
+			{"model":"beetroots_stage1","y":270}
 		],
 		"age=2":[
-			{"model":"block/beetroots_stage2"},
-			{"model":"block/beetroots_stage2","y":90},
-			{"model":"block/beetroots_stage2","y":180},
-			{"model":"block/beetroots_stage2","y":270}
+			{"model":"beetroots_stage2"},
+			{"model":"beetroots_stage2","y":90},
+			{"model":"beetroots_stage2","y":180},
+			{"model":"beetroots_stage2","y":270}
 		],
 		"age=3":[
-			{"model":"block/beetroots_stage3"},
-			{"model":"block/beetroots_stage3","y":90},
-			{"model":"block/beetroots_stage3","y":180},
-			{"model":"block/beetroots_stage3","y":270}
+			{"model":"beetroots_stage3"},
+			{"model":"beetroots_stage3","y":90},
+			{"model":"beetroots_stage3","y":180},
+			{"model":"beetroots_stage3","y":270}
 		]
 	}
 }

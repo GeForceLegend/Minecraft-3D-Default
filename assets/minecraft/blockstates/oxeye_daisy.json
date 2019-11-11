@@ -1,11 +1,11 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"variants":{
-		"":[
-			{"model":"block/oxeye_daisy"},
-			{"model":"block/oxeye_daisy","y":90},
-			{"model":"block/oxeye_daisy","y":180},
-			{"model":"block/oxeye_daisy","y":270}
+		"normal":[
+			{"model":"daisy"},
+			{"model":"daisy","y":90},
+			{"model":"daisy","y":180},
+			{"model":"daisy","y":270}
 		]
 	}
 }

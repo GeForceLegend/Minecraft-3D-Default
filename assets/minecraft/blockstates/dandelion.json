@@ -1,11 +1,11 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"variants":{
-		"":[
-			{"model":"block/dandelion"},
-			{"model":"block/dandelion","y":90},
-			{"model":"block/dandelion","y":180},
-			{"model":"block/dandelion","y":270}
+		"normal":[
+			{"model":"dandelion"},
+			{"model":"dandelion","y":90},
+			{"model":"dandelion","y":180},
+			{"model":"dandelion","y":270}
 		]
 	}
 }

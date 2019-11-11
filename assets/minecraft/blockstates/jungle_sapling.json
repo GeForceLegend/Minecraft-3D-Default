@@ -1,11 +1,17 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"variants":{
-		"":[
-			{"model":"block/jungle_sapling"},
-			{"model":"block/jungle_sapling","y":90},
-			{"model":"block/jungle_sapling","y":180},
-			{"model":"block/jungle_sapling","y":270}
+		"stage=0":[
+			{"model":"jungle_sapling"},
+			{"model":"jungle_sapling","y":90},
+			{"model":"jungle_sapling","y":180},
+			{"model":"jungle_sapling","y":270}
+		],
+		"stage=1":[
+			{"model":"jungle_sapling"},
+			{"model":"jungle_sapling","y":90},
+			{"model":"jungle_sapling","y":180},
+			{"model":"jungle_sapling","y":270}
 		]
 	}
 }

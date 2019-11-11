@@ -1,11 +1,11 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"variants":{
-		"":[
-			{"model":"block/allium"},
-			{"model":"block/allium","y":90},
-			{"model":"block/allium","y":180},
-			{"model":"block/allium","y":270}
+		"normal":[
+			{"model":"allium"},
+			{"model":"allium","y":90},
+			{"model":"allium","y":180},
+			{"model":"allium","y":270}
 		]
 	}
 }

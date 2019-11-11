@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"fern":"block/fern",
-		"particle":"block/fern"
+		"fern":"blocks/fern",
+		"particle":"blocks/fern"
 	},
 	"elements":[
 		{

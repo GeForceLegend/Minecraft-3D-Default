@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"block/pink_tulip",
-		"particle":"block/pink_tulip"
+		"cross":"blocks/flower_tulip_pink",
+		"particle":"blocks/flower_tulip_pink"
 	},
 	"elements":[
 		{

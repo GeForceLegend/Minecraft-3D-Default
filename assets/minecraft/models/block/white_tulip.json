@@ -1,9 +1,9 @@
 {
-	"credit":"MadewithBlockbench",
+	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"block/white_tulip",
-		"particle":"block/white_tulip"
+		"cross":"blocks/flower_tulip_white",
+		"particle":"blocks/flower_tulip_white"
 	},
 	"elements":[
 		{

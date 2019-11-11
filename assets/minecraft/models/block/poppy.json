@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"block/poppy",
-		"particle":"block/poppy"
+		"cross":"blocks/flower_rose",
+		"particle":"blocks/flower_rose"
 	},
 	"elements":[
 		{

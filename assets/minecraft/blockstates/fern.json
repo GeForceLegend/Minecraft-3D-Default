@@ -1,11 +1,11 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"variants":{
-		"":[
-			{"model":"block/fern"},
-			{"model":"block/fern","y":90},
-			{"model":"block/fern","y":180},
-			{"model":"block/fern","y":270}
+		"normal":[
+			{"model":"fern"},
+			{"model":"fern","y":90},
+			{"model":"fern","y":180},
+			{"model":"fern","y":270}
 		]
 	}
 }

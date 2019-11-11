@@ -1,9 +1,9 @@
 {
-	"credit":"MadewithBlockbench",
+	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"block/dandelion",
-		"particle":"block/dandelion"
+		"cross":"blocks/flower_dandelion",
+		"particle":"blocks/flower_dandelion"
 	},
 	"elements":[
 		{

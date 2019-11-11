@@ -3,23 +3,23 @@
 	"multipart":[
 		{
 			"when":{"south":"true"},
-			"apply":{"model":"block/vine"}
+			"apply":{"model":"vine"}
 		},
 		{
 			"when":{"west":"true"},
-			"apply":{"model":"block/vine","y":90}
+			"apply":{"model":"vine","y":90}
 		},
 		{
 			"when":{"north":"true"},
-			"apply":{"model":"block/vine","y":180}
+			"apply":{"model":"vine","y":180}
 		},
 		{
 			"when":{"east":"true"},
-			"apply":{"model":"block/vine","y":270}
+			"apply":{"model":"vine","y":270}
 		},
 		{
 			"when":{"up":"true"},
-			"apply":{"model":"block/vine","x":90}
+			"apply":{"model":"vine","x":90}
 		}
 	]
 }
