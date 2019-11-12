@@ -167,7 +167,7 @@
 			"to":[16,16,16],
 			"faces":{
 				"north":{"uv":[16.026,14.1,-0.026,15],"texture":"#all","cullface":"up"},
-				"south":{"uv":[-0.012,-0.026,16.026,1.9944],"texture":"#all","cullface":"south"},
+				"south":{"uv":[-0.012,-0.012,16.026,1.9944],"texture":"#all","cullface":"south"},
 				"up":{"uv":[-0.026,14.0056,16.026,16.012],"texture":"#all","cullface":"up"},
 				"down":{"uv":[-0.026,1,16.026,1.9],"texture":"#all","cullface":"south"}
 			}
