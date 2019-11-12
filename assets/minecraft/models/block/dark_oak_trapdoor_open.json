@@ -13,7 +13,7 @@
 				"north":{"uv":[16.0156,14,-0.0156,16],"texture":"#particle"},
 				"south":{"uv":[-0.0156,14,16.0156,16],"texture":"#particle","cullface":"south"},
 				"up":{"uv":[-0.0156,14,16.0156,15],"texture":"#particle"},
-				"down":{"uv":[-0.0156,13,16.0156,16],"texture":"#texture","cullface":"south"}
+				"down":{"uv":[-0.0156,13,16.0156,16],"texture":"#texture","cullface":"down"}
 			}
 		},
 		{
@@ -42,7 +42,7 @@
 			"faces":{
 				"north":{"uv":[16.0156,0,-0.0156,2],"texture":"#particle"},
 				"south":{"uv":[-0.0156,0,16.0156,2],"texture":"#particle","cullface":"south"},
-				"up":{"uv":[-0.0156,0,16.0156,3],"texture":"#texture","cullface":"north"},
+				"up":{"uv":[-0.0156,0,16.0156,3],"texture":"#texture","cullface":"up"},
 				"down":{"uv":[-0.0156,1,16.0156,2],"texture":"#particle"}
 			}
 		},
