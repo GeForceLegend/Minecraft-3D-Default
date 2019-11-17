@@ -10,9 +10,9 @@
 			"from":[0,0,0],
 			"to":[16,3,16],
 			"faces":{
-				"north":{"uv":[16.026,8,-0.026,11],"texture":"#layer0","cullface":"south"},
+				"north":{"uv":[16.026,8,-0.026,11],"texture":"#layer0","cullface":"north"},
 				"east":{"uv":[16.026,5,-0.026,8],"texture":"#layer0","cullface":"east"},
-				"south":{"uv":[-0.026,11,16.026,14],"texture":"#layer0","cullface":"north"},
+				"south":{"uv":[-0.026,11,16.026,14],"texture":"#layer0","cullface":"south"},
 				"west":{"uv":[16.026,2,-0.026,5],"texture":"#layer0","cullface":"west"},
 				"up":{"uv":[-0.026,-0.026,16.026,16.026],"texture":"#particle"},
 				"down":{"uv":[-0.026,16.026,16.026,-0.026],"texture":"#particle","cullface":"down"}
