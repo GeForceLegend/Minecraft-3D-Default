@@ -34,10 +34,10 @@
 			"from":[0,0,12],
 			"to":[3,16,16],
 			"faces":{
-				"north":{"uv":[6,-0.0156,3,16.0156],"texture":"#layer1"},
-				"east":{"uv":[0,-0.0156,4,16.0156],"texture":"#particle"},
-				"south":{"uv":[3,-0.0156,0,16.0156],"texture":"#layer1","cullface":"south"},
-				"west":{"uv":[4,-0.0156,0,16.0156],"texture":"#particle","cullface":"west"}
+				"north":{"uv":[6,-0.0314,3,16.0314],"texture":"#layer1"},
+				"east":{"uv":[0,-0.0314,4,16.0314],"texture":"#particle"},
+				"south":{"uv":[3,-0.0314,0,16.0314],"texture":"#layer1","cullface":"south"},
+				"west":{"uv":[4,-0.0314,0,16.0314],"texture":"#particle","cullface":"west"}
 			}
 		},
 		{
@@ -93,10 +93,10 @@
 			"from":[0,0,0],
 			"to":[3,16,4],
 			"faces":{
-				"north":{"uv":[16,-0.0156,13,16.0156],"texture":"#layer1","cullface":"north"},
-				"east":{"uv":[12,-0.0156,16,16.0156],"texture":"#particle"},
-				"south":{"uv":[13,-0.0156,10,16.0156],"texture":"#layer1"},
-				"west":{"uv":[16,-0.0156,12,16.0156],"texture":"#particle","cullface":"west"}
+				"north":{"uv":[16,-0.0314,13,16.0314],"texture":"#layer1","cullface":"north"},
+				"east":{"uv":[12,-0.0314,16,16.0314],"texture":"#particle"},
+				"south":{"uv":[13,-0.0314,10,16.0314],"texture":"#layer1"},
+				"west":{"uv":[16,-0.0314,12,16.0314],"texture":"#particle","cullface":"west"}
 			}
 		},
 		{
@@ -163,9 +163,9 @@
 			"from":[0,13,0],
 			"to":[3,16,16],
 			"faces":{
-				"east":{"uv":[-0.0156,0,16.0156,3],"texture":"#particle"},
-				"west":{"uv":[16.0156,0,-0.0156,3],"texture":"#particle","cullface":"west"},
-				"up":{"uv":[6,16.0156,9,-0.0156],"texture":"#layer1","cullface":"up"},
+				"east":{"uv":[-0.0314,0,16.0314,3],"texture":"#particle"},
+				"west":{"uv":[16.0314,0,-0.0314,3],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[6,16.0314,9,-0.0314],"texture":"#layer1","cullface":"up"},
 				"down":{"uv":[0,5,3,3],"texture":"#layer2"}
 			}
 		},
@@ -197,8 +197,8 @@
 			"from":[1,6,4],
 			"to":[2,13,12],
 			"faces":{
-				"east":{"uv":[3.9921,2.9932,12.0079,10.0068],"texture":"#particle"},
-				"west":{"uv":[12.0079,2.9932,3.9921,10.0068],"texture":"#particle","cullface":"west"}
+				"east":{"uv":[3.9843,2.9863,12.0157,10.0137],"texture":"#particle"},
+				"west":{"uv":[12.0157,2.9863,3.9843,10.0137],"texture":"#particle","cullface":"west"}
 			}
 		}
 	]

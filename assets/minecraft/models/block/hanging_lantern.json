@@ -34,10 +34,10 @@
 			"rotation":{"angle":45,"axis":"y","origin":[8,0.5,8]},
 			"faces":{
 				"north":{"uv":[13,10,14,12],"texture":"#all"},
-				"east":{"uv":[10.9971,10,14.0029,12],"texture":"#all"},
+				"east":{"uv":[10.9941,10,14.0059,12],"texture":"#all"},
 				"south":{"uv":[11,10,12,12],"texture":"#all"},
-				"west":{"uv":[14.0029,10,10.9971,12],"texture":"#all"},
-				"up":{"uv":[14.0029,10,10.9971,11],"rotation":90,"texture":"#all"}
+				"west":{"uv":[14.0059,10,10.9941,12],"texture":"#all"},
+				"up":{"uv":[14.0059,10,10.9941,11],"rotation":90,"texture":"#all"}
 			}
 		},
 		{
@@ -64,11 +64,11 @@
 			"rotation":{"angle":45,"axis":"y","origin":[8,0.5,8]},
 			"faces":{
 				"north":{"uv":[13,6,14,8],"texture":"#all"},
-				"east":{"uv":[10.9971,6,14.0029,8],"texture":"#all"},
+				"east":{"uv":[10.9941,6,14.0059,8],"texture":"#all"},
 				"south":{"uv":[11,6,12,8],"texture":"#all"},
-				"west":{"uv":[14.0029,6,10.9971,8],"texture":"#all"},
-				"up":{"uv":[14.0029,6,10.9971,7],"rotation":90,"texture":"#all","cullface":"up"},
-				"down":{"uv":[10.9971,7,14.0029,8],"rotation":90,"texture":"#all"}
+				"west":{"uv":[14.0059,6,10.9941,8],"texture":"#all"},
+				"up":{"uv":[14.0059,6,10.9941,7],"rotation":90,"texture":"#all","cullface":"up"},
+				"down":{"uv":[10.9941,7,14.0059,8],"rotation":90,"texture":"#all"}
 			}
 		},
 		{
@@ -85,12 +85,12 @@
 			"to":[9.5,15,8.5],
 			"rotation":{"angle":45,"axis":"y","origin":[8,0.5,8]},
 			"faces":{
-				"north":{"uv":[14.0029,1,10.9971,5],"texture":"#all"},
+				"north":{"uv":[14.0059,1,10.9941,5],"texture":"#all"},
 				"east":{"uv":[13,1,14,5],"texture":"#all"},
-				"south":{"uv":[10.9971,1,14.0029,5],"texture":"#all"},
+				"south":{"uv":[10.9941,1,14.0059,5],"texture":"#all"},
 				"west":{"uv":[11,1,12,5],"texture":"#all"},
-				"up":{"uv":[10.9971,1,14.0029,2],"texture":"#all"},
-				"down":{"uv":[10.9971,4,14.0029,5],"texture":"#all"}
+				"up":{"uv":[10.9941,1,14.0059,2],"texture":"#all"},
+				"down":{"uv":[10.9941,4,14.0059,5],"texture":"#all"}
 			}
 		}
 	]

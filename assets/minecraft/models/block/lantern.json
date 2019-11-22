@@ -45,9 +45,9 @@
 			"rotation":{"angle":45,"axis":"y","origin":[8,1,8]},
 			"faces":{
 				"north":{"uv":[13,10,14,12],"texture":"#all"},
-				"east":{"uv":[10.9971,10,14.0029,12],"texture":"#all"},
+				"east":{"uv":[10.9941,10,14.0059,12],"texture":"#all"},
 				"south":{"uv":[11,10,12,12],"texture":"#all"},
-				"west":{"uv":[14.0029,10,10.9971,12],"texture":"#all"},
+				"west":{"uv":[14.0059,10,10.9941,12],"texture":"#all"},
 				"up":{"uv":[14,10,11,11],"rotation":90,"texture":"#all"}
 			}
 		},

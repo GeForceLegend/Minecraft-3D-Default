@@ -14,7 +14,7 @@
 			"from":[0,0,0],
 			"to":[16,2,16],
 			"faces":{
-				"north":{"uv":[-0.0156,14,16.0156,16],"texture":"#front","cullface":"north"},
+				"north":{"uv":[-0.0314,14,16.0314,16],"texture":"#front","cullface":"north"},
 				"up":{"uv":[0,0,16,16],"texture":"#bottom","cullface":"north"},
 				"down":{"uv":[0,0,16,16],"texture":"#bottom","cullface":"down"}
 			}
@@ -23,20 +23,20 @@
 			"from":[0,0,0],
 			"to":[1,16,16],
 			"faces":{
-				"north":{"uv":[15,-0.0156,16,16.0156],"texture":"#front","cullface":"north"},
-				"east":{"uv":[-0.0156,-0.0156,16.0156,16.0156],"texture":"#side"},
-				"west":{"uv":[-0.0156,-0.0156,16.0156,16.0156],"texture":"#side","cullface":"west"},
-				"up":{"uv":[0,-0.0156,1,16.0156],"texture":"#top","cullface":"up"}
+				"north":{"uv":[15,-0.0314,16,16.0314],"texture":"#front","cullface":"north"},
+				"east":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#side"},
+				"west":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#side","cullface":"west"},
+				"up":{"uv":[0,-0.0314,1,16.0314],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
 			"from":[15,0,0],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[0,-0.0156,1,16.0156],"texture":"#front","cullface":"north"},
-				"east":{"uv":[-0.0156,-0.0156,16.0156,16.0156],"texture":"#side","cullface":"east"},
-				"west":{"uv":[-0.0156,-0.0156,16.0156,16.0156],"texture":"#side"},
-				"up":{"uv":[15,-0.0156,16,16.0156],"texture":"#top","cullface":"up"}
+				"north":{"uv":[0,-0.0314,1,16.0314],"texture":"#front","cullface":"north"},
+				"east":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#side","cullface":"east"},
+				"west":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#side"},
+				"up":{"uv":[15,-0.0314,16,16.0314],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
@@ -45,14 +45,14 @@
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#side"},
 				"south":{"uv":[0,0,16,16],"texture":"#side","cullface":"south"},
-				"up":{"uv":[-0.0156,15,16.0156,16],"texture":"#top","cullface":"up"}
+				"up":{"uv":[-0.0314,15,16.0314,16],"texture":"#top","cullface":"up"}
 			}
 		},
 		{
 			"from":[0,5,0],
 			"to":[16,8,16],
 			"faces":{
-				"north":{"uv":[-0.0156,8,16.0156,11],"texture":"#front","cullface":"north"},
+				"north":{"uv":[-0.0314,8,16.0314,11],"texture":"#front","cullface":"north"},
 				"up":{"uv":[16,8,0,9],"texture":"#front","cullface":"north"},
 				"down":{"uv":[16,16,0,0],"texture":"#bottom","cullface":"north"}
 			}
@@ -61,17 +61,17 @@
 			"from":[0,8,0.8284],
 			"to":[16,14.3431,16],
 			"faces":{
-				"north":{"uv":[-0.0156,7.7,16.0156,14],"texture":"#front","cullface":"north"},
-				"up":{"uv":[-0.0156,0.8284,16.0156,16],"texture":"#4","cullface":"up"}
+				"north":{"uv":[-0.0314,7.7,16.0314,14],"texture":"#front","cullface":"north"},
+				"up":{"uv":[-0.0314,0.8284,16.0314,16],"texture":"#4","cullface":"up"}
 			}
 		},
 		{
 			"from":[0,10,0],
 			"to":[16,16,1],
 			"faces":{
-				"north":{"uv":[-0.0156,-0.0118,16.0156,6.0118],"texture":"#front","cullface":"north"},
+				"north":{"uv":[-0.0314,-0.0118,16.0314,6.0118],"texture":"#front","cullface":"north"},
 				"south":{"uv":[0,0,16,6],"texture":"#side","cullface":"up"},
-				"up":{"uv":[-0.0156,0,16.0156,1],"texture":"#top","cullface":"up"},
+				"up":{"uv":[-0.0314,0,16.0314,1],"texture":"#top","cullface":"up"},
 				"down":{"uv":[0,0,16,1],"texture":"#side","cullface":"north"}
 			}
 		},
@@ -198,10 +198,10 @@
 			"from":[1,15,6],
 			"to":[15,16,8],
 			"faces":{
-				"north":{"uv":[15.0136,6,0.9864,7],"texture":"#top","cullface":"up"},
-				"south":{"uv":[0.9864,7,15.0136,8],"texture":"#top","cullface":"up"},
-				"up":{"uv":[0.9864,6,15.0136,8],"texture":"#top","cullface":"up"},
-				"down":{"uv":[0.9864,8,15.0136,6],"texture":"#top","cullface":"up"}
+				"north":{"uv":[15.0275,6,0.9725,7],"texture":"#top","cullface":"up"},
+				"south":{"uv":[0.9725,7,15.0275,8],"texture":"#top","cullface":"up"},
+				"up":{"uv":[0.9725,6,15.0275,8],"texture":"#top","cullface":"up"},
+				"down":{"uv":[0.9725,8,15.0275,6],"texture":"#top","cullface":"up"}
 			}
 		},
 		{

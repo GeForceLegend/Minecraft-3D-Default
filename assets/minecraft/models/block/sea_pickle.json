@@ -13,7 +13,7 @@
 				"east":{"uv":[0,5,4,11],"texture":"#all"},
 				"south":{"uv":[12,5,16,11],"texture":"#all"},
 				"west":{"uv":[9,5,13,11],"texture":"#all"},
-				"up":{"uv":[3.9961,0.9961,8.0039,5.0039],"texture":"#all"},
+				"up":{"uv":[3.9923,0.9923,8.0077,5.0077],"texture":"#all"},
 				"down":{"uv":[8,1,12,5],"texture":"#all"}
 			}
 		},

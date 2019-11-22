@@ -15,7 +15,7 @@
 				"east":{"uv":[5,10,11,16],"texture":"#flowerpot"},
 				"south":{"uv":[5,10,11,16],"texture":"#flowerpot"},
 				"west":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"up":{"uv":[4.9941,4.9941,11.0059,11.0059],"texture":"#flowerpot"},
+				"up":{"uv":[4.9882,4.9882,11.0118,11.0118],"texture":"#flowerpot"},
 				"down":{"uv":[5,10,11,16],"texture":"#flowerpot","cullface":"down"}
 			}
 		},

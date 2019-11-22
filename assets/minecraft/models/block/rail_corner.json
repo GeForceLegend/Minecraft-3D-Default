@@ -280,8 +280,8 @@
 			"from":[0,0,0],
 			"to":[16,1,16],
 			"faces":{
-				"up":{"uv":[-0.0156,-0.0156,16.0156,16.0156],"texture":"#texture"},
-				"down":{"uv":[-0.0156,16.0156,16.0156,-0.0156],"texture":"#texture","cullface":"down"}
+				"up":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#texture"},
+				"down":{"uv":[-0.0314,16.0314,16.0314,-0.0314],"texture":"#texture","cullface":"down"}
 			}
 		}
 	]
