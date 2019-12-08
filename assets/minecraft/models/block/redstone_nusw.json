@@ -198,8 +198,8 @@
 			"from":[0,0,0],
 			"to":[11,1,16],
 			"faces":{
-				"up":{"uv":[-0.01,-0.01,11.0037,16.01],"texture":"#cross","tintindex":0},
-				"down":{"uv":[-0.01,16.01,11.0037,-0.01],"texture":"#cross","tintindex":0,"cullface":"down"}
+				"up":{"uv":[-0.021,-0.026,11.0147,16.026],"texture":"#cross","tintindex":0},
+				"down":{"uv":[-0.021,16.026,11.0147,-0.026],"texture":"#cross","tintindex":0,"cullface":"down"}
 			}
 		},{
 			"from":[7,15,15],
@@ -312,8 +312,8 @@
 			"from":[6,0,15],
 			"to":[10,16,16],
 			"faces":{
-				"north":{"uv":[-0.01,5.9975,16.01,10.0025],"rotation":90,"texture":"#line","tintindex":0},
-				"south":{"uv":[16.01,5.9975,-0.01,10.0025],"rotation":270,"texture":"#line","cullface":"south","tintindex":0}
+				"north":{"uv":[-0.026,5.9935,16.026,10.0065],"rotation":90,"texture":"#line","tintindex":0},
+				"south":{"uv":[16.026,5.9935,-0.026,10.0065],"rotation":270,"texture":"#line","cullface":"south","tintindex":0}
 			}
 		}
 	]

@@ -59,7 +59,7 @@
 			"to":[3,16,16],
 			"faces":{
 				"north":{"uv":[16.01,-0.01,13.0063,16.01],"texture":"#layer0","cullface":"north"},
-				"east":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#particle"},
+				"east":{"uv":[-0.026,-0.026,16.026,16.026],"texture":"#particle"},
 				"south":{"uv":[2.9937,-0.01,-0.01,16.01],"texture":"#layer0","cullface":"south"},
 				"west":{"uv":[16.01,-0.01,-0.01,16.01],"texture":"#particle","cullface":"west"},
 				"down":{"uv":[7,16.01,10,-0.01],"texture":"#layer0","cullface":"down"}

@@ -13,7 +13,7 @@
 				"north":{"uv":[-0.01,-0.01,2.9937,16.01],"texture":"#layer0","cullface":"north"},
 				"east":{"uv":[16.01,-0.01,-0.01,16.01],"texture":"#particle"},
 				"south":{"uv":[13.0063,-0.01,16.01,16.01],"texture":"#layer0","cullface":"south"},
-				"west":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#particle","cullface":"west"},
+				"west":{"uv":[-0.026,-0.026,16.026,16.026],"texture":"#particle","cullface":"west"},
 				"up":{"uv":[7,-0.01,10,16.01],"texture":"#layer0","cullface":"up"}
 			}
 		}

@@ -168,8 +168,8 @@
 			"from":[0,0,0],
 			"to":[16,1,11],
 			"faces":{
-				"up":{"uv":[-0.01,-0.01,16.01,11.0037],"texture":"#cross","tintindex":0},
-				"down":{"uv":[-0.01,11.0037,16.01,-0.01],"texture":"#cross","tintindex":0,"cullface":"down"}
+				"up":{"uv":[-0.026,-0.021,16.026,11.0147],"texture":"#cross","tintindex":0},
+				"down":{"uv":[-0.026,11.0147,16.026,-0.021],"texture":"#cross","tintindex":0,"cullface":"down"}
 			}
 		}
 	]

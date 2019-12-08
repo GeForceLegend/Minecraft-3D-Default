@@ -101,8 +101,8 @@
 			"from":[5,0,5],
 			"to":[11,1,11],
 			"faces":{
-				"up":{"uv":[4.9963,4.9963,11.0037,11.0037],"texture":"#cross","tintindex":0},
-				"down":{"uv":[4.9963,11.0037,11.0037,4.9963],"texture":"#cross","tintindex":0,"cullface":"down"}
+				"up":{"uv":[4.9902,4.9902,11.0098,11.0098],"texture":"#cross","tintindex":0},
+				"down":{"uv":[4.9902,11.0098,11.0098,4.9902],"texture":"#cross","tintindex":0,"cullface":"down"}
 			}
 		}
 	]

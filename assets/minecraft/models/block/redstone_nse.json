@@ -207,8 +207,8 @@
 			"from":[5,0,0],
 			"to":[16,1,16],
 			"faces":{
-				"up":{"uv":[4.9963,-0.01,16.01,16.01],"texture":"#cross","tintindex":0},
-				"down":{"uv":[4.9963,16.01,16.01,-0.01],"texture":"#cross","tintindex":0,"cullface":"down"}
+				"up":{"uv":[4.9853,-0.026,16.021,16.026],"texture":"#cross","tintindex":0},
+				"down":{"uv":[4.9853,16.026,16.021,-0.026],"texture":"#cross","tintindex":0,"cullface":"down"}
 			}
 		}
 	]
