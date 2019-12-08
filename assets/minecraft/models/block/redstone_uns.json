@@ -215,16 +215,16 @@
 			"from":[6,3,0],
 			"to":[10,16,1],
 			"faces":{
-				"north":{"uv":[-0.01,10.0025,13.0063,5.9963],"rotation":90,"texture":"#line","tintindex":0,"cullface":"north"},
-				"south":{"uv":[-0.01,5.9963,13.0063,10.0025],"rotation":90,"texture":"#line","tintindex":0}
+				"north":{"uv":[-0.01,10.0025,13.0063,5.9975],"rotation":90,"texture":"#line","tintindex":0,"cullface":"north"},
+				"south":{"uv":[-0.01,5.9975,13.0063,10.0025],"rotation":90,"texture":"#line","tintindex":0}
 			}
 		},
 		{
 			"from":[6,0,0],
 			"to":[10,1,15],
 			"faces":{
-				"up":{"uv":[-0.01,5.9963,15.0088,10.0025],"rotation":90,"texture":"#line","tintindex":0},
-				"down":{"uv":[15.0088,5.9963,-0.01,10.0025],"rotation":90,"texture":"#line","tintindex":0,"cullface":"down"}
+				"up":{"uv":[-0.01,5.9975,15.0088,10.0025],"rotation":90,"texture":"#line","tintindex":0},
+				"down":{"uv":[15.0088,5.9975,-0.01,10.0025],"rotation":90,"texture":"#line","tintindex":0,"cullface":"down"}
 			}
 		}
 	]
