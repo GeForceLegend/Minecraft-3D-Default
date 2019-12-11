@@ -5,7 +5,7 @@
 
 *The name of each branch is the Minecraft version supported.*
 
-*This resource pack supports Minecraft Java Edition 1.8~1.14.*
+*This resource pack supports Minecraft Java Edition 1.8~1.15.*
 
 If you want to use my models in your own resourcepack, please follow the [licence](./LICENCE).
 
@@ -13,9 +13,9 @@ If you want to use my models in your own resourcepack, please follow the [licenc
 
 - 3D Models with default textures;
 
-- Optifine Custom Entity Models(not support 1.8);
+- Optifine Custom Entity Models(Need Optifine 1.8.9 L5 or Optifine 1.9/higher);
 
-- Optifine self-illuminating textures(not support 1.8);
+- Optifine self-illuminating textures(Need Optifine 1.8.9 L5 or Optifine 1.9/higher);
 
 - Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition. Please choose no-Optifine edition when you are not using Optifine.)
 
