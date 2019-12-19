@@ -283,7 +283,7 @@
 				"east":{"uv":[0,15,16,16],"texture":"#east","cullface":"east"},
 				"south":{"uv":[0,15,16,16],"texture":"#north","cullface":"south"},
 				"west":{"uv":[0,15,16,16],"texture":"#east","cullface":"west"},
-				"up":{"uv":[0,0,16,16],"texture":"#down"},
+				"up":{"uv":[2,15,14,16],"texture":"#north"},
 				"down":{"uv":[0,0,16,16],"texture":"#down","cullface":"down"}
 			}
 		},
