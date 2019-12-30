@@ -10,7 +10,7 @@
 			"rotate":[0,0,0]
 		},
 		{
-			"model":"chest_knob.jpm",
+			"model":"chest_large_knob.jpm",
 			"part":"knob",
 			"translate":[-8,-10,-15],
 			"rotate":[0,0,0]
