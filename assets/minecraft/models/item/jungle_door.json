@@ -6,7 +6,8 @@
 		"bottom":"block/jungle_door_bottom",
 		"top1":"block/jungle_door_top1",
 		"top2":"block/jungle_door_top2",
-		"top":"block/jungle_door_top"
+		"top":"block/jungle_door_top",
+		"particle":"item/jungle_door"
 	},
 	"elements":[
 		{

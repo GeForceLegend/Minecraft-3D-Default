@@ -3,9 +3,10 @@
 	"parent":"item/iron_door",
 	"textures":{
 		"bottom1":"block/oak_door_bottom1",
-		"particle":"block/oak_door_bottom",
+		"bottom":"block/oak_door_bottom",
 		"top1":"block/oak_door_top1",
 		"top2":"block/oak_door_top2",
-		"top":"block/oak_door_top"
+		"top":"block/oak_door_top",
+		"particle":"item/oak_door"
 	}
 }

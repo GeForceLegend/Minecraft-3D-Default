@@ -15,7 +15,7 @@
 				"south":{"uv":[7,2,9,16],"texture":"#stand"},
 				"west":{"uv":[7,2,9,16],"texture":"#stand"},
 				"up":{"uv":[6,2,7,3],"texture":"#stand"},
-				"down":{"uv":[7,7,9,9],"texture":"#stand","cullface":"down"}
+				"down":{"uv":[7,7,9,9],"texture":"#stand"}
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 				"south":{"uv":[9,14,15,16],"texture":"#base"},
 				"west":{"uv":[5,14,11,16],"texture":"#base"},
 				"up":{"uv":[9,5,15,11],"texture":"#base"},
-				"down":{"uv":[9,5,15,11],"texture":"#base","cullface":"down"}
+				"down":{"uv":[9,5,15,11],"texture":"#base"}
 			}
 		},
 		{
@@ -39,7 +39,7 @@
 				"south":{"uv":[2,14,8,16],"texture":"#base"},
 				"west":{"uv":[1,14,7,16],"texture":"#base"},
 				"up":{"uv":[2,1,8,7],"texture":"#base"},
-				"down":{"uv":[2,1,8,7],"texture":"#base","cullface":"down"}
+				"down":{"uv":[2,1,8,7],"texture":"#base"}
 			}
 		},
 		{
@@ -51,7 +51,7 @@
 				"south":{"uv":[2,14,8,16],"texture":"#base"},
 				"west":{"uv":[9,14,15,16],"texture":"#base"},
 				"up":{"uv":[2,9,8,15],"texture":"#base"},
-				"down":{"uv":[2,9,8,15],"texture":"#base","cullface":"down"}
+				"down":{"uv":[2,9,8,15],"texture":"#base"}
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"faces":{
 				"east":{"uv":[12,0,13,10],"texture":"#stand"},
 				"west":{"uv":[12,0,13,10],"texture":"#stand"},
-				"up":{"uv":[12,0,13,1],"texture":"#stand","cullface":"up"},
+				"up":{"uv":[12,0,13,1],"texture":"#stand"},
 				"down":{"uv":[12,9,13,10],"texture":"#stand"}
 			}
 		},
@@ -137,7 +137,7 @@
 			"faces":{
 				"east":{"uv":[12,0,13,10],"texture":"#stand"},
 				"west":{"uv":[12,0,13,10],"texture":"#stand"},
-				"up":{"uv":[13,1,12,0],"texture":"#stand","cullface":"up"},
+				"up":{"uv":[13,1,12,0],"texture":"#stand"},
 				"down":{"uv":[13,10,12,9],"texture":"#stand"}
 			}
 		},
@@ -188,7 +188,7 @@
 			"faces":{
 				"east":{"uv":[12,0,13,10],"texture":"#stand"},
 				"west":{"uv":[12,0,13,10],"texture":"#stand"},
-				"up":{"uv":[13,1,12,0],"texture":"#stand","cullface":"up"},
+				"up":{"uv":[13,1,12,0],"texture":"#stand"},
 				"down":{"uv":[13,10,12,9],"texture":"#stand"}
 			}
 		},
