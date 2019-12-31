@@ -1,33 +1,9 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"builtin/generated",
+	"parent":"item/glass_pane",
 	"textures":{
-		"layer0":"block/gray_stained_glass"
-	},
-	"display":{
-		"ground":{
-			"rotation":[0,0,0],
-			"translation":[0,2,0],
-			"scale":[0.5,0.5,0.5]
-		},
-		"head":{
-			"rotation":[0,180,0],
-			"translation":[0,13,7],
-			"scale":[1,1,1]
-		},
-		"thirdperson_righthand":{
-			"rotation":[0,0,0],
-			"translation":[0,3,1],
-			"scale":[0.55,0.55,0.55]
-		},
-		"firstperson_righthand":{
-			"rotation":[0,-90,25],
-			"translation":[1.13,3.2,1.13],
-			"scale":[0.68,0.68,0.68]
-		},
-		"fixed":{
-			"rotation":[0,180,0],
-			"scale":[1,1,1]
-		}
+		"0":"block/gray_stained_glass",
+		"1":"block/gray_stained_glass_pane_top",
+		"particle":"block/gray_stained_glass"
 	}
 }
