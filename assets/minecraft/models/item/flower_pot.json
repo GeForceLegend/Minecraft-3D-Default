@@ -1,35 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"textures":{
-		"flowerpot":"block/flower_pot",
-		"particle":"block/flower_pot",
-		"dirt":"block/dirt"
-	},
-	"elements":[
-		{
-			"from":[5,0,5],
-			"to":[11,6,11],
-			"faces":{
-				"north":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"east":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"south":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"west":{"uv":[5,10,11,16],"texture":"#flowerpot"},
-				"up":{"uv":[4.9882,4.9882,11.0118,11.0118],"texture":"#flowerpot"},
-				"down":{"uv":[5,10,11,16],"texture":"#flowerpot","cullface":"down"}
-			}
-		},
-		{
-			"from":[6,6,6],
-			"to":[10,4,10],
-			"faces":{
-				"north":{"uv":[6,10,10,12],"texture":"#flowerpot"},
-				"east":{"uv":[6,10,10,12],"texture":"#flowerpot"},
-				"south":{"uv":[6,10,10,12],"texture":"#flowerpot"},
-				"west":{"uv":[6,10,10,12],"texture":"#flowerpot"},
-				"up":{"uv":[6,6,10,10],"texture":"#dirt"}
-			}
-		}
-	],
+	"parent":"block/flower_pot",
 	"display":{
 		"gui":{
 			"rotation":[30,225,0],

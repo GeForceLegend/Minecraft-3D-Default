@@ -5,7 +5,8 @@
 		"bottom1":"block/spruce_door_bottom1",
 		"bottom":"block/spruce_door_bottom",
 		"top1":"block/spruce_door_top1",
-		"top":"block/spruce_door_top"
+		"top":"block/spruce_door_top",
+		"particle":"item/spruce_door"
 	},
 	"elements":[
 		{
