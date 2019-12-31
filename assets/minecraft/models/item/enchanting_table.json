@@ -104,7 +104,6 @@
 		{
 			"from":[7,12,3],
 			"to":[9,12,13],
-			"rotation":{"angle":0,"axis":"y","origin":[8,7,8]},
 			"faces":{
 				"up":{"uv":[7,0,8,5],"texture":"#3"},
 				"down":{"uv":[6,0,7,5],"texture":"#3"}
