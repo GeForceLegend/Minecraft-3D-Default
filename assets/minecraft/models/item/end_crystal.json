@@ -74,7 +74,7 @@
 	"display":{
 		"ground":{
 			"rotation":[0,0,-35.3],
-			"translation":[0,3,0],
+			"translation":[0,4,0],
 			"scale":[0.3,0.3,0.3]
 		},
 		"gui":{
