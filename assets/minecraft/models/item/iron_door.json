@@ -3,7 +3,7 @@
 	"parent":"item/door",
 	"textures":{
 		"layer0":"block/iron_door_bottom1",
-		"particle":"block/iron_door_bottom",
+		"bottom":"block/iron_door_bottom",
 		"layer1":"block/iron_door_top1",
 		"layer2":"block/iron_door_top2",
 		"top":"block/iron_door_top"
