@@ -1,7 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"textures":{
-		"layer1":"item/empty",
+		"layer1":"items/empty",
 		"particle":"#layer0"
 	},
 	"elements":[
