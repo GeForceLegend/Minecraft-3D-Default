@@ -2,7 +2,7 @@
 	"credit":"MadewithBlockbench",
 	"parent":"item/door",
 	"textures":{
-		"dbottom1":"block/dark_oak_door_bottom1",
+		"bottom1":"block/dark_oak_door_bottom1",
 		"top1":"block/dark_oak_door_top1",
 		"top":"block/dark_oak_door_top",
 		"bottom":"block/dark_oak_door_bottom"
@@ -101,7 +101,7 @@
 				"north":{"uv":[13.0033,-0.026,16.013,16.026],"texture":"#bottom"},
 				"east":{"uv":[13.1,-0.026,14,16.026],"texture":"#bottom"},
 				"south":{"uv":[16.013,-0.026,13.0033,16.026],"texture":"#bottom"},
-				"west":{"uv":[13.0033,-0.026,16.013,16.026],"texture":"#dbottom1"}
+				"west":{"uv":[13.0033,-0.026,16.013,16.026],"texture":"#bottom1"}
 			}
 		},
 		{
@@ -121,7 +121,7 @@
 				"north":{"uv":[-0.026,13.0033,16.026,16.013],"texture":"#bottom"},
 				"south":{"uv":[16.026,13.0033,-0.026,16.013],"texture":"#bottom"},
 				"up":{"uv":[16.026,13.1,-0.026,14],"texture":"#bottom"},
-				"down":{"uv":[6,16.026,9,-0.026],"rotation":270,"texture":"#dbottom1"}
+				"down":{"uv":[6,16.026,9,-0.026],"rotation":270,"texture":"#bottom1"}
 			}
 		},
 		{
@@ -129,7 +129,7 @@
 			"to":[16,8,9.5],
 			"faces":{
 				"north":{"uv":[-0.013,-0.026,2.9967,16.026],"texture":"#bottom"},
-				"east":{"uv":[-0.013,-0.026,2.9967,16.026],"texture":"#dbottom1"},
+				"east":{"uv":[-0.013,-0.026,2.9967,16.026],"texture":"#bottom1"},
 				"south":{"uv":[2.9967,-0.026,-0.013,16.026],"texture":"#bottom"},
 				"west":{"uv":[2,-0.026,2.9,16.026],"texture":"#bottom"}
 			}
