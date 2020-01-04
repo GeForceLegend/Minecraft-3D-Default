@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"ladder":"block/ladder",
-		"particle":"block/ladder"
+		"ladder":"blocks/ladder",
+		"particle":"blocks/ladder"
 	},
 	"elements":[
 		{
