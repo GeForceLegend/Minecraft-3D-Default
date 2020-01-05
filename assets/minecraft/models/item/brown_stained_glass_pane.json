@@ -1,0 +1,9 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/glass_pane",
+	"textures":{
+		"0":"blocks/glass_brown",
+		"1":"blocks/glass_pane_top_brown",
+		"particle":"blocks/glass_brown"
+	}
+}

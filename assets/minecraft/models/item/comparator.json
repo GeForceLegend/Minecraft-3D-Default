@@ -1,7 +1,26 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"item/generated",
-	"textures":{
-		"layer0":"items/comparator"
+	"parent":"block/comparator_unlit",
+	"display":{
+		"gui":{
+			"rotation":[0,90,0]
+		},
+		"ground":{
+			"translation":[0,0,0],
+			"scale":[1,1,1]
+		},
+		"fixed":{
+			"rotation":[0,90,-90],
+			"translation":[0,0,-4],
+			"scale":[1.2,1.2,1.2]
+		},
+		"thirdperson":{
+			"rotation":[10,45,170],
+			"translation":[0,0,-2.75],
+			"scale":[0.375,0.375,0.375]
+		},
+		"firstperson":{
+			"translation":[0,4,0]
+		}
 	}
 }
