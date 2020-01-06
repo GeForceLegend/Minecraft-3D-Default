@@ -1,5 +1,5 @@
 {
-	"credit":"MadewithBlockbench",
+	"__comment":"Designed by GeForceLegend",
 	"parent":"item/door",
 	"textures":{
 		"bottom1":"block/birch_door_bottom1",
