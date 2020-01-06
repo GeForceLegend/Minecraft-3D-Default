@@ -1,7 +1,14 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"item/generated",
-	"textures":{
-		"layer0":"items/hopper"
+	"parent":"block/hopper_down",
+	"display":{
+		"gui":{
+			"translation":[0,-1,0]
+		},
+		"thirdperson":{
+			"rotation":[10,45,170],
+			"translation":[0,1.5,-2.75],
+			"scale":[0.375,0.375,0.375]
+		}
 	}
 }

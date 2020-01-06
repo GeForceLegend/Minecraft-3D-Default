@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/cauldron_empty",
+	"parent":"block/flower_pot",
 	"display":{
 		"firstperson":{
 			"rotation":[0,-90,0]
@@ -9,6 +9,14 @@
 			"rotation":[10,45,170],
 			"translation":[0,1.5,-2.75],
 			"scale":[0.375,0.375,0.375]
+		},
+		"gui":{
+			"translation":[0,2,0],
+			"scale":[1.5,1.5,1.5]
+		},
+		"fixed":{
+			"translation":[0,5,0],
+			"scale":[2,2,2]
 		}
 	}
 }
