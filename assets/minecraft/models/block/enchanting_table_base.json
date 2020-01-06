@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"ambientocclusion":false,
 	"textures":{
 		"bottom":"blocks/enchanting_table_bottom",
 		"particle":"blocks/enchanting_table_bottom",
