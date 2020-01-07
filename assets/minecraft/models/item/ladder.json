@@ -98,6 +98,11 @@
 		},
 		"fixed":{
 			"rotation":[0,180,0]
+		},
+		"gui":{
+			"rotation":[-60,0,0],
+			"translation":[0,0,0],
+			"scale":[1,2,0.01]
 		}
 	}
 }
