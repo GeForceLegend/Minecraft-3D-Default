@@ -2,6 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/pumpkin",
 	"textures":{
-		"front":"blocks/pumpkin_face_on"
+		"front":"blocks/pumpkin_face_on",
+		"particle":"blocks/pumpkin_face_on"
 	}
 }
