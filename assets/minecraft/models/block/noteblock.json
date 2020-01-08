@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/cube_all",
+	"parent":"block/block",
 	"textures":{
 		"all":"blocks/noteblock"
 	},
