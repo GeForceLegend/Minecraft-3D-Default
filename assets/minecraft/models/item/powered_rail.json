@@ -13,12 +13,12 @@
 			"scale":[0.68,0.68,0.68]
 		},
 		"gui":{
-			"rotation":[60,0,0],
+			"rotation":[30,0,0],
 			"translation":[0,0,0],
-			"scale":[1,0.01,1.15]
+			"scale":[1,0.01,2]
 		},
 		"ground":{
-			"translation":[0,2,3],
+			"translation":[0,2,3.5],
 			"rotation":[90,0,0],
 			"scale":[0.5,0.5,0.5]
 		},
