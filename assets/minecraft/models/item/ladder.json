@@ -80,9 +80,9 @@
 	],
 	"display":{
 		"gui":{
-			"rotation":[-30,135,0],
+			"rotation":[-60,135,0],
 			"translation":[0,0,0],
-			"scale":[1.6,1.6,1.6]
+			"scale":[1.6,1.84,0.01]
 		},
 		"thirdperson":{
 			"rotation":[90,180,0],
