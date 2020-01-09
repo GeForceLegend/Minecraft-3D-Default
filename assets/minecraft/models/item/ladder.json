@@ -99,7 +99,7 @@
 		},
 		"ground":{
 			"scale":[2,2,2],
-			"translation":[0,-8,0]
+			"translation":[0,-8,-0.5]
 		}
 	}
 }

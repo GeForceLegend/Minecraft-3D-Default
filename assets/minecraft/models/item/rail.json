@@ -96,7 +96,7 @@
 			"rotation":[0,180,0]
 		},
 		"ground":{
-			"translation":[0,-8,0],
+			"translation":[0,-8,-0.5],
 			"scale":[2,2,2]
 		}
 	}
