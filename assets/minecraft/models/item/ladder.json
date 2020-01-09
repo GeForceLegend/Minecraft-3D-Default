@@ -81,7 +81,6 @@
 	"display":{
 		"gui":{
 			"rotation":[-60,135,0],
-			"translation":[0,0,0],
 			"scale":[1.6,1.84,0.01]
 		},
 		"thirdperson":{
@@ -100,7 +99,7 @@
 		},
 		"ground":{
 			"scale":[2,2,2],
-			"translation":[0,-8,0]
+			"translation":[0,-8,-0.5]
 		}
 	}
 }
