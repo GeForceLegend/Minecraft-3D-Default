@@ -52,6 +52,7 @@
 			"translation":[0,13,7]
 		},
 		"fixed":{
+			"translation":[0,0,0.1],
 			"rotation":[0,180,0]
 		}
 	}
