@@ -108,27 +108,45 @@
 			}
 		},
 		{
-			"from":[2,16,-0.7653],
-			"to":[4,17.8478,0.7654],
-			"rotation":{"angle":22.5,"axis":"x","origin":[8,16,0]},
+			"from":[2,16.4692,0],
+			"to":[4,18,1.5307],
+			"rotation":{"angle":22.5,"axis":"x","origin":[8,18,0]},
 			"faces":{
-				"north":{"uv":[3.997,15,2,16],"texture":"#rail"},
-				"east":{"uv":[3.9,15,3,16],"texture":"#rail"},
-				"west":{"uv":[2,15,2.9,16],"texture":"#rail"},
-				"up":{"uv":[2,15,3.997,16],"texture":"#rail"},
-				"down":{"uv":[2,15,3.997,16],"texture":"#rail"}
+				"north":{"uv":[3.995,0,2,1],"texture":"#rail"},
+				"east":{"uv":[3.9,0,3,1],"texture":"#rail"},
+				"west":{"uv":[2,0,2.9,1],"texture":"#rail"},
+				"up":{"uv":[2,0,3.995,1],"texture":"#rail"}
 			}
 		},
 		{
-			"from":[12,16,-0.7653],
-			"to":[14,17.8478,0.7654],
-			"rotation":{"angle":22.5,"axis":"x","origin":[8,16,0]},
+			"from":[12,16.4692,0],
+			"to":[14,18,1.5307],
+			"rotation":{"angle":22.5,"axis":"x","origin":[8,18,0]},
 			"faces":{
-				"north":{"uv":[14,15,12.003,16],"texture":"#rail"},
-				"east":{"uv":[14,15,13.1,16],"texture":"#rail"},
-				"west":{"uv":[12.1,15,13,16],"texture":"#rail"},
-				"up":{"uv":[12.003,15,14,16],"texture":"#rail"},
-				"down":{"uv":[12.003,15,14,16],"texture":"#rail"}
+				"north":{"uv":[14,0,12.005,1],"texture":"#rail"},
+				"east":{"uv":[14,0,13.1,1],"texture":"#rail"},
+				"west":{"uv":[12.1,0,13,1],"texture":"#rail"},
+				"up":{"uv":[12.005,0,14,1],"texture":"#rail"}
+			}
+		},
+		{
+			"from":[2,16,-0.8284],
+			"to":[4,17,0],
+			"rotation":{"angle":45,"axis":"x","origin":[8,16,0]},
+			"faces":{
+				"east":{"uv":[3.9,0,3,1],"texture":"#rail"},
+				"west":{"uv":[2,0,2.9,1],"texture":"#rail"},
+				"down":{"uv":[2,0,3.995,1],"texture":"#rail"}
+			}
+		},
+		{
+			"from":[12,16,-0.8284],
+			"to":[14,17,0],
+			"rotation":{"angle":45,"axis":"x","origin":[8,16,0]},
+			"faces":{
+				"east":{"uv":[14,0,13.1,1],"texture":"#rail"},
+				"west":{"uv":[12.1,0,13,1],"texture":"#rail"},
+				"down":{"uv":[12.005,0,14,1],"texture":"#rail"}
 			}
 		}
 	]
