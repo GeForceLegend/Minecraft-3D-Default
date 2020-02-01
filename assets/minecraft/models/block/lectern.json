@@ -92,7 +92,7 @@
 				"north":{"uv":[4,8,6,12],"texture":"#front"},
 				"east":{"uv":[4,8,5,12],"texture":"#front"},
 				"west":{"uv":[5,8,6,12],"texture":"#front"},
-				"up":{"uv":[4,8,6,9],"texture":"#front"}
+				"up":{"uv":[6,8,4,9],"texture":"#front"}
 			}
 		},
 		{
