@@ -11,7 +11,7 @@ If you want to use my models in your own resourcepack, please follow the [licenc
 
 ## Features
 
-- 3D Models with default textures;
+- 3D Models with default textures(Including blocks and items);
 
 - Optifine Custom Entity Models(Need Optifine 1.8.9 L5 or Optifine 1.9/higher);
 
