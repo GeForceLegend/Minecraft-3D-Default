@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/compass",
+	"textures":{
+		"layer0":"item/compass_19"
+	}
+}

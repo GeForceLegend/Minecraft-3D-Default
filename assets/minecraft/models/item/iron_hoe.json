@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/hoe",
+	"textures":{
+		"hoe":"item/iron_hoe"
+	}
+}

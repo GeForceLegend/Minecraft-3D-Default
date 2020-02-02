@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/sword",
+	"textures":{
+		"sword":"item/stone_sword"
+	}
+}

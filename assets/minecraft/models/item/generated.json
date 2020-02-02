@@ -557,6 +557,7 @@
 		},
 		"fixed":{
 			"rotation":[0,180,0],
+			"translation":[0,0,0.6],
 			"scale":[1,1,1]
 		},
 		"gui":{

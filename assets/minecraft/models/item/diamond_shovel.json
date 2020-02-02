@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/shovel",
+	"textures":{
+		"shovel":"item/diamond_shovel"
+	}
+}
