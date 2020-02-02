@@ -101,7 +101,6 @@
 			"to":[1,16,1],
 			"faces":{
 				"north":{"uv":[0,0,1,16],"texture":"#side","cullface":"north"},
-				"east":{"uv":[0,0,1,16],"texture":"#side","cullface":"north"},
 				"west":{"uv":[0,0,1,16],"texture":"#side","cullface":"west"}
 			}
 		},

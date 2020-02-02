@@ -1,9 +1,8 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/block",
 	"textures":{
 		"bottom":"block/enchanting_table_bottom",
-		"particle":"block/enchanting_table_bottom",
+		"particle":"block/enchanting_table_side",
 		"top":"block/enchanting_table_top",
 		"side":"block/enchanting_table_side"
 	},

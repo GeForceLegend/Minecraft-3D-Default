@@ -61,8 +61,8 @@
 			"from":[7,0,3],
 			"to":[9,1,13],
 			"faces":{
-				"east":{"uv":[9,13.0196,8,2.9804],"rotation":270,"texture":"#rail"},
-				"west":{"uv":[7,2.9804,8,13.0196],"rotation":270,"texture":"#rail"}
+				"east":{"uv":[9,13.0098,8,2.9902],"rotation":270,"texture":"#rail"},
+				"west":{"uv":[7,2.9902,8,13.0098],"rotation":270,"texture":"#rail"}
 			}
 		},
 		{
