@@ -100,9 +100,9 @@
 			"rotation":[0,180,0]
 		},
 		"gui":{
-			"rotation":[-60,0,0],
+			"rotation":[-30,0,0],
 			"translation":[0,0,0],
-			"scale":[1,2,0.01]
+			"scale":[1,1.15,0.01]
 		}
 	}
 }
