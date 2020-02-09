@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/clock",
+	"textures":{
+		"layer0":"item/clock_03"
+	}
+}

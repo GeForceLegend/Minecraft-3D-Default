@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/pickaxe",
+	"textures":{
+		"pickaxe":"item/stone_pickaxe"
+	}
+}

@@ -93,10 +93,10 @@
 			"from":[0,0,0],
 			"to":[3,16,4],
 			"faces":{
-				"north":{"uv":[16.013,-0.01,13.0033,16.01],"texture":"#layer1","cullface":"north"},
-				"east":{"uv":[12.0011,-0.01,16.014,16.01],"texture":"#particle"},
-				"south":{"uv":[13,-0.01,10,16.01],"texture":"#layer1"},
-				"west":{"uv":[16.014,-0.01,12.0011,16.01],"texture":"#particle","cullface":"west"}
+				"north":{"uv":[16.013,-0.026,13.0033,16.026],"texture":"#layer1","cullface":"north"},
+				"east":{"uv":[12.0011,-0.026,16.014,16.026],"texture":"#particle"},
+				"south":{"uv":[13,-0.026,10,16.026],"texture":"#layer1"},
+				"west":{"uv":[16.014,-0.026,12.0011,16.026],"texture":"#particle","cullface":"west"}
 			}
 		},
 		{
