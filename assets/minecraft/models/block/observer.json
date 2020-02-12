@@ -39,7 +39,7 @@
 			"from":[13,0,0],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[-0.013,-0.01,2.9937,16.01],"texture":"#front","cullface":"north"},
+				"north":{"uv":[-0.01,-0.01,2.9937,16.01],"texture":"#front","cullface":"north"},
 				"east":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"east"},
 				"west":{"uv":[2,-0.01,2.9,16.01],"texture":"#front","cullface":"north"}
 			}

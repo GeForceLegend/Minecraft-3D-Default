@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/lever",
+	"parent":"block/lever_off",
 	"display":{
 		"gui":{
 			"rotation":[30,225,0],

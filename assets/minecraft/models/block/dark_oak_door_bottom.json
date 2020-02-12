@@ -63,7 +63,7 @@
 			"faces":{
 				"east":{"uv":[13.0063,-0.01,2.9937,1.9925],"texture":"#particle"},
 				"west":{"uv":[2.9937,-0.01,13.0063,1.9925],"texture":"#particle","cullface":"west"},
-				"down":{"uv":[13.0063,1,2.9837,1.9],"rotation":90,"texture":"#particle"}
+				"down":{"uv":[13.0063,1,2.9937,1.9],"rotation":90,"texture":"#particle"}
 			}
 		},
 		{

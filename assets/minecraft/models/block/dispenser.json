@@ -84,8 +84,8 @@
 			"from":[7,4,4],
 			"to":[9,5,16],
 			"faces":{
-				"north":{"uv":[10.025,2,12,2.9],"texture":"#inside","cullface":"north"},
-				"up":{"uv":[11.037,3,13,15],"texture":"#inside","cullface":"north"}
+				"north":{"uv":[10.0025,2,12,2.9],"texture":"#inside","cullface":"north"},
+				"up":{"uv":[11.0037,3,13,15],"texture":"#inside","cullface":"north"}
 			}
 		},
 		{
