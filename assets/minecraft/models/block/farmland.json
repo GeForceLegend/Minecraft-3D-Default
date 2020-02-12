@@ -20,8 +20,8 @@
 			"faces":{
 				"north":{"uv":[0,0.5,1,1],"texture":"#dirt","cullface":"north"},
 				"east":{"uv":[0,0.5,16,1],"texture":"#dirt","cullface":"east"},
-				"west":{"uv":[15.1,-0.01,16,16.01],"rotation":270,"texture":"#top"},
-				"up":{"uv":[15.1,-0.01,16,16.01],"texture":"#top"}
+				"west":{"uv":[15.1,-0.026,16,16.026],"rotation":270,"texture":"#top"},
+				"up":{"uv":[15.1,-0.026,16,16.026],"texture":"#top"}
 			}
 		},
 		{
