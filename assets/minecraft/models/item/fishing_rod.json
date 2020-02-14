@@ -210,7 +210,7 @@
 				"north":{"uv":[8,11.0037,6,13],"texture":"#rod"},
 				"east":{"uv":[7,11.0037,8,13],"texture":"#rod"},
 				"south":{"uv":[6,11.0037,8,13],"texture":"#rod"},
-				"west":{"uv":[6,11.0037,6.97,13],"texture":"#rod"},
+				"west":{"uv":[6,11.0037,6.9,13],"texture":"#rod"},
 				"up":{"uv":[6,11.1,8,12],"texture":"#rod"},
 				"down":{"uv":[6,12.1,8,13],"texture":"#rod"}
 			}
