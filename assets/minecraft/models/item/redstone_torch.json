@@ -1,0 +1,27 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/lit_redstone_torch",
+	"display":{
+		"thirdperson":{
+			"rotation":[90,180,0],
+			"translation":[0,1,-3],
+			"scale":[0.55,0.55,0.55]
+		},
+		"firstperson":{
+			"rotation":[0,-135,25],
+			"translation":[0,4,2],
+			"scale":[1.7,1.7,1.7]
+		},
+		"gui":{
+			"scale":[1.7,1.7,1.7],
+			"translation":[0,2,0]
+		},
+		"fixed":{
+			"scale":[2,2,2]
+		},
+		"ground":{
+			"translation":[0,-8,0],
+			"scale":[2,2,2]
+		}
+	}
+}
