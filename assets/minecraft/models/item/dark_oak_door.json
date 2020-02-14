@@ -92,7 +92,7 @@
 			"faces":{
 				"north":{"uv":[2.9937,-0.01,13.0063,1.9925],"texture":"#bottom"},
 				"south":{"uv":[13.0063,-0.01,2.9937,1.9925],"texture":"#bottom"},
-				"down":{"uv":[13.0063,1,2.9837,1.9],"texture":"#bottom"}
+				"down":{"uv":[13.0063,1,2.9937,1.9],"texture":"#bottom"}
 			}
 		},
 		{
