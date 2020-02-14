@@ -394,7 +394,7 @@
 			"to":[3,16,15],
 			"faces":{
 				"east":{"uv":[13.1,0.9912,13.9,15.0088],"rotation":90,"texture":"#all"},
-				"west":{"uv":[13.1,15.0225,13.9,0.9912],"rotation":90,"texture":"#all"}
+				"west":{"uv":[13.1,15.0088,13.9,0.9912],"rotation":90,"texture":"#all"}
 			}
 		},
 		{
