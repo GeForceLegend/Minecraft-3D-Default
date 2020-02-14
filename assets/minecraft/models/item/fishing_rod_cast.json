@@ -192,6 +192,17 @@
 			"rotation":[0,45,25],
 			"translation":[0,4,2],
 			"scale":[1.7,1.7,1.7]
+		},
+		"gui":{
+			"rotation":[-60,135,0],
+			"scale":[1.6,1.84,0.01]
+		},
+		"fixed":{
+			"scale":[2,2,2]
+		},
+		"ground":{
+			"translation":[0,-8,0],
+			"scale":[2,2,2]
 		}
 	}
 }
