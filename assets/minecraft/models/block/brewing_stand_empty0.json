@@ -37,8 +37,8 @@
 			"from":[9,3,7.5],
 			"to":[13,16,8.5],
 			"faces":{
-				"north":{"uv":[13.0063,0,9.0012,13],"texture":"#texture"},
-				"south":{"uv":[9.0012,0,13.0063,13],"texture":"#texture"}
+				"north":{"uv":[13.0063,-0.01,9.0012,13.0063],"texture":"#texture"},
+				"south":{"uv":[9.0012,-0.01,13.0063,13.0063],"texture":"#texture"}
 			}
 		}
 	]
