@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/handheld_rod",
 	"textures":{
-		"rod":"items/fishing_rod_uncast",
-		"particle":"items/fishing_rod_uncast"
+		"particle":"items/fishing_rod_uncast",
+		"rod":"items/fishing_rod_uncast"
 	},
 	"elements":[
 		{
@@ -19,15 +19,23 @@
 			}
 		},
 		{
-			"from":[3,2,7.5],
-			"to":[5,4,8.5],
+			"from":[3,3,7.5],
+			"to":[4,4,8.5],
 			"faces":{
-				"north":{"uv":[4.9963,12.005,3,14],"texture":"#rod"},
-				"east":{"uv":[4,12.005,4.9,14],"texture":"#rod"},
-				"south":{"uv":[3,12.005,4.9963,14],"texture":"#rod"},
-				"west":{"uv":[3,12.005,3.9,14],"texture":"#rod"},
-				"up":{"uv":[3,12.1,4.9963,13],"texture":"#rod"},
-				"down":{"uv":[3,13.1,4.9963,14],"texture":"#rod"}
+				"north":{"uv":[3,12.1,3.9,13],"texture":"#rod"},
+				"south":{"uv":[3,12.1,3.9,13],"texture":"#rod"},
+				"west":{"uv":[3,12.1,3.9,13],"texture":"#rod"},
+				"up":{"uv":[3,12.1,3.9,13],"texture":"#rod"}
+			}
+		},
+		{
+			"from":[4,2,7.5],
+			"to":[5,3,8.5],
+			"faces":{
+				"north":{"uv":[4,13.1,4.9,14],"texture":"#rod"},
+				"east":{"uv":[4,13.1,4.9,14],"texture":"#rod"},
+				"south":{"uv":[4,13.1,4.9,14],"texture":"#rod"},
+				"down":{"uv":[4,13.1,4.9,14],"texture":"#rod"}
 			}
 		},
 		{
@@ -55,15 +63,23 @@
 			}
 		},
 		{
-			"from":[6,6,7.5],
-			"to":[9,8,8.5],
+			"from":[6,7,7.5],
+			"to":[7,8,8.5],
 			"faces":{
-				"north":{"uv":[9,8,6,10],"texture":"#rod"},
-				"east":{"uv":[8,8,9,10],"texture":"#rod"},
-				"south":{"uv":[6,8,9,10],"texture":"#rod"},
-				"west":{"uv":[6,8,6.9,10],"texture":"#rod"},
-				"up":{"uv":[6,8,9,9],"texture":"#rod"},
-				"down":{"uv":[6,9.1,9,10],"texture":"#rod"}
+				"north":{"uv":[6,8,6.9,9],"texture":"#rod"},
+				"south":{"uv":[6,8,6.9,9],"texture":"#rod"},
+				"west":{"uv":[6,8,6.9,9],"texture":"#rod"},
+				"up":{"uv":[6,8,6.9,9],"texture":"#rod"}
+			}
+		},
+		{
+			"from":[8,6,7.5],
+			"to":[9,7,8.5],
+			"faces":{
+				"north":{"uv":[8,9.1,9,10],"texture":"#rod"},
+				"east":{"uv":[8,9.1,9,10],"texture":"#rod"},
+				"south":{"uv":[8,9.1,9,10],"texture":"#rod"},
+				"down":{"uv":[8,9.1,9,10],"texture":"#rod"}
 			}
 		},
 		{
@@ -79,15 +95,23 @@
 			}
 		},
 		{
-			"from":[8,8,7.5],
-			"to":[11,10,8.5],
+			"from":[8,9,7.5],
+			"to":[9,10,8.5],
 			"faces":{
-				"north":{"uv":[11,6,8,8],"texture":"#rod"},
-				"east":{"uv":[10.1,6,11,8],"texture":"#rod"},
-				"south":{"uv":[8,6,11,8],"texture":"#rod"},
-				"west":{"uv":[8,6,9,8],"texture":"#rod"},
-				"up":{"uv":[8,6,11,6.9],"texture":"#rod"},
-				"down":{"uv":[8,7,11,8],"texture":"#rod"}
+				"north":{"uv":[8,6,9,6.9],"texture":"#rod"},
+				"south":{"uv":[8,6,9,6.9],"texture":"#rod"},
+				"west":{"uv":[8,6,9,6.9],"texture":"#rod"},
+				"up":{"uv":[8,6,9,6.9],"texture":"#rod"}
+			}
+		},
+		{
+			"from":[10,8,7.5],
+			"to":[11,9,8.5],
+			"faces":{
+				"north":{"uv":[10.1,7,11,8],"texture":"#rod"},
+				"east":{"uv":[10.1,7,11,8],"texture":"#rod"},
+				"south":{"uv":[10.1,7,11,8],"texture":"#rod"},
+				"down":{"uv":[10.1,7,11,8],"texture":"#rod"}
 			}
 		},
 		{
@@ -103,15 +127,23 @@
 			}
 		},
 		{
-			"from":[10,10,7.5],
-			"to":[13,12,8.5],
+			"from":[10,11,7.5],
+			"to":[11,12,8.5],
 			"faces":{
-				"north":{"uv":[13,4,10.0025,5.9975],"texture":"#rod"},
-				"east":{"uv":[12.1,4,13,5.9975],"texture":"#rod"},
-				"south":{"uv":[10.0025,4,13,5.9975],"texture":"#rod"},
-				"west":{"uv":[10.1,4,11,5.9975],"texture":"#rod"},
-				"up":{"uv":[10.0025,4,13,4.9],"texture":"#rod"},
-				"down":{"uv":[10.0025,5,13,5.9],"texture":"#rod"}
+				"north":{"uv":[10.1,4,11,4.9],"texture":"#rod"},
+				"south":{"uv":[10.1,4,11,4.9],"texture":"#rod"},
+				"west":{"uv":[10.1,4,11,4.9],"texture":"#rod"},
+				"up":{"uv":[10.1,4,11,4.9],"texture":"#rod"}
+			}
+		},
+		{
+			"from":[12,10,7.5],
+			"to":[13,11,8.5],
+			"faces":{
+				"north":{"uv":[12.1,5,13,5.9],"texture":"#rod"},
+				"east":{"uv":[12.1,5,13,5.9],"texture":"#rod"},
+				"south":{"uv":[12.1,5,13,5.9],"texture":"#rod"},
+				"down":{"uv":[12.1,5,13,5.9],"texture":"#rod"}
 			}
 		},
 		{
