@@ -1,7 +1,8 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/template_coral",
+	"parent":"block/tube_coral",
 	"textures":{
-		"coral":"block/dead_tube_coral"
+		"coral":"block/dead_tube_coral",
+		"particle":"block/dead_tube_coral"
 	}
 }
