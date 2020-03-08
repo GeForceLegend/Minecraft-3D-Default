@@ -3,7 +3,7 @@
 	"textures":{
 		"0":"items/minecart_model",
 		"3":"blocks/command_block",
-		"particle":"blocks/command_block_minecart"
+		"particle":"items/command_block_minecart"
 	},
 	"elements":[
 		{
