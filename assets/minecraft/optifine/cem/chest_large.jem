@@ -12,7 +12,7 @@
 		{
 			"model":"chest_large_knob.jpm",
 			"part":"knob",
-			"translate":[-8,-10,-15],
+			"translate":[-8,-9,-15],
 			"rotate":[0,0,0]
 		},
 		{
