@@ -7,8 +7,8 @@
 	},
 	"elements":[
 		{
-			"from":[-0.975,0.025,1.025],
-			"to":[3.975,1.975,1.975],
+			"from":[-0.99,0.01,1.01],
+			"to":[3.99,1.99,1.99],
 			"faces":{
 				"north":{"uv":[15,14,14,16],"texture":"#particle"},
 				"east":{"uv":[15,14,14,16],"texture":"#particle"},
@@ -22,30 +22,32 @@
 			"from":[0,0,13],
 			"to":[3,16,16],
 			"faces":{
-				"north":{"uv":[3,-0.0314,2,16.0314],"texture":"#particle"},
-				"east":{"uv":[0,-0.0314,3,16.0314],"texture":"#particle"},
-				"south":{"uv":[3,-0.0314,0,16.0314],"texture":"#layer0","cullface":"south"},
-				"west":{"uv":[3,-0.0314,0,16.0314],"texture":"#particle","cullface":"west"}
+				"north":{"uv":[3,0,2,16],"texture":"#particle"},
+				"east":{"uv":[0,0,3,16],"texture":"#particle"},
+				"south":{"uv":[3,0,0,16],"texture":"#layer0","cullface":"south"},
+				"west":{"uv":[3,0,0,16],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[7,3,10,0],"texture":"#layer0","cullface":"up"}
 			}
 		},
 		{
 			"from":[0,0,0],
 			"to":[3,16,3],
 			"faces":{
-				"north":{"uv":[13,-0.0314,16,16.0314],"texture":"#layer0","cullface":"north"},
-				"east":{"uv":[13,-0.0314,16,16.0314],"texture":"#particle"},
-				"south":{"uv":[14,-0.0314,13,16.0314],"texture":"#particle"},
-				"west":{"uv":[16,-0.0314,13,16.0314],"texture":"#particle","cullface":"west"}
+				"north":{"uv":[13,0,16,16],"texture":"#layer0","cullface":"north"},
+				"east":{"uv":[13,0,16,16],"texture":"#particle"},
+				"south":{"uv":[14,0,13,16],"texture":"#particle"},
+				"west":{"uv":[16,0,13,16],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[7,16,10,13],"texture":"#layer0","cullface":"up"}
 			}
 		},
 		{
-			"from":[0,13,0],
-			"to":[3,16,16],
+			"from":[0,13,3],
+			"to":[3,16,13],
 			"faces":{
-				"east":{"uv":[-0.0314,0,16.0314,3],"texture":"#particle"},
-				"west":{"uv":[16.0314,0,-0.0314,3],"texture":"#particle","cullface":"west"},
-				"up":{"uv":[7,16.0314,10,-0.0314],"texture":"#layer0","cullface":"up"},
-				"down":{"uv":[-0.0314,2,16.0314,3],"rotation":90,"texture":"#particle"}
+				"east":{"uv":[3,0,13,3],"texture":"#particle"},
+				"west":{"uv":[13,0,3,3],"texture":"#particle","cullface":"west"},
+				"up":{"uv":[7,13,10,3],"texture":"#layer0","cullface":"up"},
+				"down":{"uv":[3,2,13,3],"rotation":90,"texture":"#particle"}
 			}
 		},
 		{

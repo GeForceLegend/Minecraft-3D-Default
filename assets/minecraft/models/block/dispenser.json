@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"front":"block/dispenser_front",
 		"particle":"block/dispenser_front",
+		"front":"block/dispenser_front",
 		"top":"block/furnace_top",
 		"inside":"block/furnace_inside"
 	},
@@ -12,7 +12,9 @@
 			"from":[0,0,0],
 			"to":[16,4,16],
 			"faces":{
-				"north":{"uv":[-0.0314,12,16.0314,16],"texture":"#front","cullface":"north"},
+				"north":{"uv":[0,12,16,16],"texture":"#front","cullface":"north"},
+				"east":{"uv":[0,12,16,16],"texture":"#top","cullface":"east"},
+				"west":{"uv":[0,12,16,16],"texture":"#top","cullface":"west"},
 				"up":{"uv":[0,0,16,16],"texture":"#inside","cullface":"north"},
 				"down":{"uv":[0,0,16,16],"texture":"#top","cullface":"down"}
 			}
@@ -21,7 +23,9 @@
 			"from":[0,8,0],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[-0.0314,-0.0157,16.0314,8.0157],"texture":"#front","cullface":"north"},
+				"north":{"uv":[0,0,16,8],"texture":"#front","cullface":"north"},
+				"east":{"uv":[0,0,16,8],"texture":"#top","cullface":"east"},
+				"west":{"uv":[0,0,16,8],"texture":"#top","cullface":"west"},
 				"up":{"uv":[0,0,16,16],"texture":"#top","cullface":"up"},
 				"down":{"uv":[0,0,16,16],"texture":"#inside","cullface":"north"}
 			}
@@ -45,12 +49,12 @@
 			}
 		},
 		{
-			"from":[0,0,0],
-			"to":[6,16,16],
+			"from":[0,4,0],
+			"to":[6,8,16],
 			"faces":{
-				"north":{"uv":[9.9882,-0.0314,16.0118,16.0314],"texture":"#front","cullface":"north"},
+				"north":{"uv":[10,8,16,12],"texture":"#front","cullface":"north"},
 				"east":{"uv":[8,0,10,16],"rotation":90,"texture":"#inside","cullface":"north"},
-				"west":{"uv":[0,0,16,16],"texture":"#top","cullface":"west"}
+				"west":{"uv":[0,8,16,12],"texture":"#top","cullface":"west"}
 			}
 		},
 		{
@@ -72,12 +76,12 @@
 			}
 		},
 		{
-			"from":[10,0,0],
-			"to":[16,16,16],
+			"from":[10,4,0],
+			"to":[16,8,16],
 			"faces":{
-				"north":{"uv":[-0.0118,-0.0314,6.0118,16.0314],"texture":"#front","cullface":"north"},
-				"east":{"uv":[0,0,16,16],"texture":"#top","cullface":"east"},
-				"west":{"uv":[0,0,16,16],"rotation":90,"texture":"#inside","cullface":"north"}
+				"north":{"uv":[0,8,6,12],"texture":"#front","cullface":"north"},
+				"east":{"uv":[0,8,16,12],"texture":"#top","cullface":"east"},
+				"west":{"uv":[4,0,6,16],"rotation":90,"texture":"#inside","cullface":"north"}
 			}
 		},
 		{

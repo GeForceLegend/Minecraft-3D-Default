@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/thin_block",
 	"textures":{
-		"top":"block/daylight_detector_top",
 		"particle":"block/daylight_detector_top",
+		"top":"block/daylight_detector_top",
 		"side":"block/daylight_detector_side"
 	},
 	"elements":[
@@ -88,39 +88,12 @@
 			}
 		},
 		{
-			"from":[2,5,1],
-			"to":[4,5.5,15],
-			"faces":{
-				"east":{"uv":[3,0.9725,4,15.0275],"rotation":90,"texture":"#top"},
-				"west":{"uv":[2,15.0275,3,0.9725],"rotation":90,"texture":"#top"},
-				"up":{"uv":[2,0.9725,4,15.0275],"texture":"#top"}
-			}
-		},
-		{
 			"from":[1,5,2],
 			"to":[15,5.5,4],
 			"faces":{
 				"north":{"uv":[15.0275,2,0.9725,3],"texture":"#top"},
 				"south":{"uv":[0.9725,3,15.0275,4],"texture":"#top"},
 				"up":{"uv":[0.9725,2,15.0275,4],"texture":"#top"}
-			}
-		},
-		{
-			"from":[7,5,1],
-			"to":[9,5.5,15],
-			"faces":{
-				"east":{"uv":[8,0.9725,9,15.0275],"rotation":90,"texture":"#top"},
-				"west":{"uv":[7,15.0275,8,0.9725],"rotation":90,"texture":"#top"},
-				"up":{"uv":[7,0.9725,9,15.0275],"texture":"#top"}
-			}
-		},
-		{
-			"from":[12,5,1],
-			"to":[14,5.5,15],
-			"faces":{
-				"east":{"uv":[13,0.9725,14,15.0275],"rotation":90,"texture":"#top"},
-				"west":{"uv":[12,15.0275,13,0.9725],"rotation":90,"texture":"#top"},
-				"up":{"uv":[12,0.9725,14,15.0275],"texture":"#top"}
 			}
 		},
 		{
@@ -139,6 +112,114 @@
 				"north":{"uv":[15.0275,12,0.9725,13],"texture":"#top"},
 				"south":{"uv":[0.9725,13,15.0275,14],"texture":"#top"},
 				"up":{"uv":[0.9725,12,15.0275,14],"texture":"#top"}
+			}
+		},
+		{
+			"from":[12,5,14],
+			"to":[14,5.5,15],
+			"faces":{
+				"east":{"uv":[13,14,14,15],"texture":"#top"},
+				"west":{"uv":[12,14,13,15],"texture":"#top"},
+				"up":{"uv":[12,14,14,15],"texture":"#top"}
+			}
+		},
+		{
+			"from":[12,5,9],
+			"to":[14,5.5,12],
+			"faces":{
+				"east":{"uv":[13,9,14,12],"rotation":90,"texture":"#top"},
+				"west":{"uv":[12,12,13,9],"rotation":90,"texture":"#top"},
+				"up":{"uv":[12,9,14,12],"texture":"#top"}
+			}
+		},
+		{
+			"from":[12,5,4],
+			"to":[14,5.5,7],
+			"faces":{
+				"east":{"uv":[13,4,14,7],"rotation":90,"texture":"#top"},
+				"west":{"uv":[12,7,13,4],"rotation":90,"texture":"#top"},
+				"up":{"uv":[12,4,14,7],"texture":"#top"}
+			}
+		},
+		{
+			"from":[12,5,1],
+			"to":[14,5.5,2],
+			"faces":{
+				"east":{"uv":[13,1,14,2],"texture":"#top"},
+				"west":{"uv":[12,1,13,2],"texture":"#top"},
+				"up":{"uv":[12,1,14,2],"texture":"#top"}
+			}
+		},
+		{
+			"from":[7,5,1],
+			"to":[9,5.5,2],
+			"faces":{
+				"east":{"uv":[8,1,9,2],"texture":"#top"},
+				"west":{"uv":[7,1,8,2],"texture":"#top"},
+				"up":{"uv":[7,1,9,2],"texture":"#top"}
+			}
+		},
+		{
+			"from":[7,5,4],
+			"to":[9,5.5,7],
+			"faces":{
+				"east":{"uv":[8,4,9,7],"rotation":90,"texture":"#top"},
+				"west":{"uv":[7,7,8,4],"rotation":90,"texture":"#top"},
+				"up":{"uv":[7,4,9,7],"texture":"#top"}
+			}
+		},
+		{
+			"from":[7,5,9],
+			"to":[9,5.5,12],
+			"faces":{
+				"east":{"uv":[8,9,9,12],"rotation":90,"texture":"#top"},
+				"west":{"uv":[7,12,8,9],"rotation":90,"texture":"#top"},
+				"up":{"uv":[7,9,9,12],"texture":"#top"}
+			}
+		},
+		{
+			"from":[7,5,14],
+			"to":[9,5.5,15],
+			"faces":{
+				"east":{"uv":[8,14,9,15],"texture":"#top"},
+				"west":{"uv":[7,14,8,15],"texture":"#top"},
+				"up":{"uv":[7,14,9,15],"texture":"#top"}
+			}
+		},
+		{
+			"from":[2,5,14],
+			"to":[4,5.5,15],
+			"faces":{
+				"east":{"uv":[3,14,4,15],"texture":"#top"},
+				"west":{"uv":[2,14,3,15],"texture":"#top"},
+				"up":{"uv":[2,14,4,15],"texture":"#top"}
+			}
+		},
+		{
+			"from":[2,5,9],
+			"to":[4,5.5,12],
+			"faces":{
+				"east":{"uv":[3,9,4,12],"rotation":90,"texture":"#top"},
+				"west":{"uv":[2,12,3,9],"rotation":90,"texture":"#top"},
+				"up":{"uv":[2,9,4,12],"texture":"#top"}
+			}
+		},
+		{
+			"from":[2,5,4],
+			"to":[4,5.5,7],
+			"faces":{
+				"east":{"uv":[3,4,4,7],"rotation":90,"texture":"#top"},
+				"west":{"uv":[2,7,3,4],"rotation":90,"texture":"#top"},
+				"up":{"uv":[2,4,4,7],"texture":"#top"}
+			}
+		},
+		{
+			"from":[2,5,1],
+			"to":[4,5.5,2],
+			"faces":{
+				"east":{"uv":[3,1,4,2],"texture":"#top"},
+				"west":{"uv":[2,1,3,2],"texture":"#top"},
+				"up":{"uv":[2,1,4,2],"texture":"#top"}
 			}
 		}
 	]

@@ -3,6 +3,7 @@
 	"parent":"block/activator_rail",
 	"textures":{
 		"particle":"block/activator_rail_on",
-		"rail":"block/activator_rail_on"
+		"rail":"block/activator_rail_on",
+		"wood":"block/rail_wood_redstone_on"
 	}
 }
