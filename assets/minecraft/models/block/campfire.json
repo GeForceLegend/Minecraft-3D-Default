@@ -3,9 +3,9 @@
 	"parent":"block/block",
 	"textures":{
 		"particle":"block/campfire_log",
+		"fire":"block/campfire_fire",
 		"log":"block/campfire_log",
-		"litlog":"block/campfire_log_lit",
-		"fire":"block/campfire_fire"
+		"litlog":"block/campfire_log_lit"
 	},
 	"elements":[
 		{
