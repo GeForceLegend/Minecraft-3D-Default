@@ -195,10 +195,10 @@
 			"from":[13,5,7.6],
 			"to":[14,11,8.4],
 			"faces":{
-				"north":{"uv":[13,4.9883,14,11],"texture":"#pickaxe"},
-				"east":{"uv":[13,4.9883,14,11],"texture":"#pickaxe"},
-				"south":{"uv":[13,4.9883,14,11],"texture":"#pickaxe"},
-				"west":{"uv":[13,4.9883,14,11],"texture":"#pickaxe"},
+				"north":{"uv":[13,4.994,14,11],"texture":"#pickaxe"},
+				"east":{"uv":[13,4.994,14,11],"texture":"#pickaxe"},
+				"south":{"uv":[13,4.994,14,11],"texture":"#pickaxe"},
+				"west":{"uv":[13,4.994,14,11],"texture":"#pickaxe"},
 				"down":{"uv":[13,10,14,11],"texture":"#pickaxe"}
 			}
 		},
@@ -206,11 +206,11 @@
 			"from":[6,12,7.6],
 			"to":[12,13,8.4],
 			"faces":{
-				"north":{"uv":[12.0117,3,6,4],"texture":"#pickaxe"},
-				"south":{"uv":[6,3,12.0117,4],"texture":"#pickaxe"},
+				"north":{"uv":[12.008,3,6,4],"texture":"#pickaxe"},
+				"south":{"uv":[6,3,12.008,4],"texture":"#pickaxe"},
 				"west":{"uv":[6,3,7,4],"texture":"#pickaxe"},
-				"up":{"uv":[6,3,12.0117,4],"texture":"#pickaxe"},
-				"down":{"uv":[6,3,12.0117,4],"texture":"#pickaxe"}
+				"up":{"uv":[6,3,12.008,4],"texture":"#pickaxe"},
+				"down":{"uv":[6,3,12.008,4],"texture":"#pickaxe"}
 			}
 		},
 		{
@@ -218,9 +218,9 @@
 			"to":[11,14,8.2],
 			"faces":{
 				"north":{"uv":[11,2,6,5],"texture":"#pickaxe"},
-				"east":{"uv":[10,1.9942,11,5.0058],"texture":"#pickaxe"},
+				"east":{"uv":[10,1.997,11,5.003],"texture":"#pickaxe"},
 				"south":{"uv":[6,2,11,5],"texture":"#pickaxe"},
-				"west":{"uv":[6,1.9942,7,5.0058],"texture":"#pickaxe"},
+				"west":{"uv":[6,1.997,7,5.003],"texture":"#pickaxe"},
 				"up":{"uv":[6,2,11,3],"texture":"#pickaxe"},
 				"down":{"uv":[6,4,11,5],"texture":"#pickaxe"}
 			}
@@ -244,8 +244,8 @@
 				"east":{"uv":[14,6,15,11],"texture":"#pickaxe"},
 				"south":{"uv":[12,6,15,11],"texture":"#pickaxe"},
 				"west":{"uv":[12,6,13,11],"texture":"#pickaxe"},
-				"up":{"uv":[11.9942,6,15.0058,7],"texture":"#pickaxe"},
-				"down":{"uv":[11.9942,10,15.0058,11],"texture":"#pickaxe"}
+				"up":{"uv":[11.997,6,15.003,7],"texture":"#pickaxe"},
+				"down":{"uv":[11.997,10,15.003,11],"texture":"#pickaxe"}
 			}
 		},
 		{

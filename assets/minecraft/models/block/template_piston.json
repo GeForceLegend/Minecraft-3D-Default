@@ -28,21 +28,21 @@
 			}
 		},
 		{
-			"from":[0,0,15],
-			"to":[16,1,16],
+			"from":[1,0,15],
+			"to":[15,1,16],
 			"faces":{
-				"south":{"uv":[0,15,16,16],"texture":"#bottom","cullface":"south"},
-				"up":{"uv":[0,15,16,16],"texture":"#bottom","cullface":"south"},
-				"down":{"uv":[16,15,0,16],"texture":"#side","cullface":"down"}
+				"south":{"uv":[1,15,15,16],"texture":"#bottom","cullface":"south"},
+				"up":{"uv":[1,15,15,16],"texture":"#bottom","cullface":"south"},
+				"down":{"uv":[1,0,15,1],"texture":"#side","cullface":"down"}
 			}
 		},
 		{
-			"from":[0,15,15],
-			"to":[16,16,16],
+			"from":[1,15,15],
+			"to":[15,16,16],
 			"faces":{
-				"south":{"uv":[0,0,16,1],"texture":"#bottom","cullface":"south"},
-				"up":{"uv":[0,15,16,16],"texture":"#side","cullface":"up"},
-				"down":{"uv":[0,0,16,1],"texture":"#bottom","cullface":"south"}
+				"south":{"uv":[1,0,15,1],"texture":"#bottom","cullface":"south"},
+				"up":{"uv":[1,15,15,16],"texture":"#side","cullface":"up"},
+				"down":{"uv":[1,0,15,1],"texture":"#bottom","cullface":"south"}
 			}
 		},
 		{
@@ -51,7 +51,9 @@
 			"faces":{
 				"east":{"uv":[0,0,1,16],"texture":"#bottom","cullface":"south"},
 				"south":{"uv":[0,0,1,16],"texture":"#bottom","cullface":"south"},
-				"west":{"uv":[16,15,0,16],"rotation":90,"texture":"#side","cullface":"west"}
+				"west":{"uv":[16,15,0,16],"rotation":90,"texture":"#side","cullface":"west"},
+				"up":{"uv":[0,15,1,16],"texture":"#side","cullface":"up"},
+				"down":{"uv":[0,0,1,1],"texture":"#side","cullface":"down"}
 			}
 		},
 		{
@@ -60,7 +62,9 @@
 			"faces":{
 				"east":{"uv":[0,15,16,16],"rotation":90,"texture":"#side","cullface":"east"},
 				"south":{"uv":[15,0,16,16],"texture":"#bottom","cullface":"south"},
-				"west":{"uv":[15,0,16,16],"texture":"#bottom","cullface":"south"}
+				"west":{"uv":[15,0,16,16],"texture":"#bottom","cullface":"south"},
+				"up":{"uv":[15,15,16,16],"texture":"#side","cullface":"up"},
+				"down":{"uv":[15,0,16,1],"texture":"#side","cullface":"down"}
 			}
 		},
 		{

@@ -2,10 +2,10 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/minecart",
 	"textures":{
-		"0":"item/minecart_model",
-		"3":"block/command_block_back",
-		"4":"block/command_block_front",
-		"5":"block/command_block_side",
+		"minecart":"item/minecart_model",
+		"back":"block/command_block_back",
+		"front":"block/command_block_front",
+		"side":"block/command_block_side",
 		"particle":"item/command_block_minecart"
 	},
 	"elements":[
@@ -13,63 +13,63 @@
 			"from":[0,2,-2],
 			"to":[16,4,18],
 			"faces":{
-				"north":{"uv":[5.25,3,5.75,7],"rotation":90,"texture":"#0"},
-				"east":{"uv":[10.25,2.5,5.25,3],"texture":"#0"},
-				"south":{"uv":[5.75,7,5.25,3],"rotation":90,"texture":"#0"},
-				"west":{"uv":[5.25,2.5,10.25,3],"texture":"#0"},
-				"up":{"uv":[5.75,3,10.75,7],"rotation":90,"texture":"#0"},
-				"down":{"uv":[5.25,3,0.25,7],"rotation":90,"texture":"#0"}
+				"north":{"uv":[5.25,3,5.75,7],"rotation":90,"texture":"#minecart"},
+				"east":{"uv":[10.25,2.5,5.25,3],"texture":"#minecart"},
+				"south":{"uv":[5.75,7,5.25,3],"rotation":90,"texture":"#minecart"},
+				"west":{"uv":[5.25,2.5,10.25,3],"texture":"#minecart"},
+				"up":{"uv":[5.75,3,10.75,7],"rotation":90,"texture":"#minecart"},
+				"down":{"uv":[5.25,3,0.25,7],"rotation":90,"texture":"#minecart"}
 			}
 		},
 		{
 			"from":[0,4,0],
 			"to":[2,12,16],
 			"faces":{
-				"east":{"uv":[0.25,0.5,4.25,2.5],"texture":"#0"},
-				"west":{"uv":[4.75,0.5,8.75,2.5],"texture":"#0"},
-				"up":{"uv":[0.25,0.5,4.25,0],"rotation":90,"texture":"#0"}
+				"east":{"uv":[0.25,0.5,4.25,2.5],"texture":"#minecart"},
+				"west":{"uv":[4.75,0.5,8.75,2.5],"texture":"#minecart"},
+				"up":{"uv":[0.25,0.5,4.25,0],"rotation":90,"texture":"#minecart"}
 			}
 		},
 		{
 			"from":[14,4,0],
 			"to":[16,12,16],
 			"faces":{
-				"east":{"uv":[4.75,0.5,8.75,2.5],"texture":"#0"},
-				"west":{"uv":[0.25,0.5,4.25,2.5],"texture":"#0"},
-				"up":{"uv":[0.25,0.5,4.25,0],"rotation":270,"texture":"#0"}
+				"east":{"uv":[4.75,0.5,8.75,2.5],"texture":"#minecart"},
+				"west":{"uv":[0.25,0.5,4.25,2.5],"texture":"#minecart"},
+				"up":{"uv":[0.25,0.5,4.25,0],"rotation":270,"texture":"#minecart"}
 			}
 		},
 		{
 			"from":[0,4,16],
 			"to":[16,12,18],
 			"faces":{
-				"north":{"uv":[0.25,0.5,4.25,2.5],"texture":"#0"},
-				"east":{"uv":[4.75,0.5,4.25,2.5],"texture":"#0"},
-				"south":{"uv":[4.75,0.5,8.75,2.5],"texture":"#0"},
-				"west":{"uv":[4.25,0.5,4.75,2.5],"texture":"#0"},
-				"up":{"uv":[0.25,0.5,4.25,0],"texture":"#0"}
+				"north":{"uv":[0.25,0.5,4.25,2.5],"texture":"#minecart"},
+				"east":{"uv":[4.75,0.5,4.25,2.5],"texture":"#minecart"},
+				"south":{"uv":[4.75,0.5,8.75,2.5],"texture":"#minecart"},
+				"west":{"uv":[4.25,0.5,4.75,2.5],"texture":"#minecart"},
+				"up":{"uv":[0.25,0.5,4.25,0],"texture":"#minecart"}
 			}
 		},
 		{
 			"from":[0,4,-2],
 			"to":[16,12,0],
 			"faces":{
-				"north":{"uv":[4.75,0.5,8.75,2.5],"texture":"#0"},
-				"east":{"uv":[4.25,0.5,4.75,2.5],"texture":"#0"},
-				"south":{"uv":[0.25,0.5,4.25,2.5],"texture":"#0"},
-				"west":{"uv":[4.75,0.5,4.25,2.5],"texture":"#0"},
-				"up":{"uv":[4.25,0,0.25,0.5],"texture":"#0"}
+				"north":{"uv":[4.75,0.5,8.75,2.5],"texture":"#minecart"},
+				"east":{"uv":[4.25,0.5,4.75,2.5],"texture":"#minecart"},
+				"south":{"uv":[0.25,0.5,4.25,2.5],"texture":"#minecart"},
+				"west":{"uv":[4.75,0.5,4.25,2.5],"texture":"#minecart"},
+				"up":{"uv":[4.25,0,0.25,0.5],"texture":"#minecart"}
 			}
 		},
 		{
 			"from":[2,5.5,2],
 			"to":[14,17.5,14],
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#4"},
-				"east":{"uv":[0,0,16,16],"rotation":90,"texture":"#5"},
-				"south":{"uv":[0,0,16,16],"texture":"#3"},
-				"west":{"uv":[0,16,16,0],"rotation":90,"texture":"#5"},
-				"up":{"uv":[0,0,16,16],"texture":"#5"}
+				"north":{"uv":[0,0,16,16],"texture":"#front"},
+				"east":{"uv":[0,0,16,16],"rotation":90,"texture":"#side"},
+				"south":{"uv":[0,0,16,16],"texture":"#back"},
+				"west":{"uv":[0,16,16,0],"rotation":90,"texture":"#side"},
+				"up":{"uv":[0,0,16,16],"texture":"#side"}
 			}
 		}
 	]

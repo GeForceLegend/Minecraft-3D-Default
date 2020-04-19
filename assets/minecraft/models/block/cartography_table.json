@@ -4,8 +4,8 @@
 	"textures":{
 		"down":"block/dark_oak_planks",
 		"up":"block/cartography_table_top",
-		"north":"block/cartography_table_side3",
 		"particle":"block/cartography_table_side3",
+		"north":"block/cartography_table_side3",
 		"south":"block/cartography_table_side1",
 		"west":"block/cartography_table_side2"
 	},
@@ -17,14 +17,13 @@
 				"north":{"uv":[0,0,16,16],"texture":"#north","cullface":"north"},
 				"east":{"uv":[0,0,16,16],"texture":"#north","cullface":"east"},
 				"south":{"uv":[0,0,16,16],"texture":"#south","cullface":"south"},
-				"west":{"uv":[0,0,16,16],"texture":"#west","cullface":"west"},
 				"up":{"uv":[0,0,16,16],"texture":"#up","cullface":"up"},
 				"down":{"uv":[0,0,16,16],"texture":"#down","cullface":"down"}
 			}
 		},
 		{
-			"from":[2.025,16,2.025],
-			"to":[5.975,16.9,5.975],
+			"from":[2.01,16,2.01],
+			"to":[5.99,16.9,5.99],
 			"faces":{
 				"north":{"uv":[6,3,2,2],"texture":"#up","cullface":"up"},
 				"east":{"uv":[5,2,6,6],"rotation":90,"texture":"#up","cullface":"up"},
@@ -32,24 +31,96 @@
 				"west":{"uv":[2,2,3,6],"rotation":270,"texture":"#up","cullface":"up"},
 				"up":{"uv":[2,2,6,6],"texture":"#up","cullface":"up"}
 			}
+		},
+		{
+			"from":[4.01,4.01,16],
+			"to":[5.99,5.99,16.9],
+			"faces":{
+				"east":{"uv":[5,10,5.9,12],"texture":"#south"},
+				"south":{"uv":[4,10,6,12],"texture":"#south"},
+				"west":{"uv":[4,10,4.9,12],"texture":"#south"},
+				"up":{"uv":[4,10,6,10.9],"texture":"#south"},
+				"down":{"uv":[4,11,6,11.9],"texture":"#south"}
+			}
+		},
+		{
+			"from":[0,0,0],
+			"to":[1,16,4],
+			"faces":{
+				"south":{"uv":[3,0,4,16],"texture":"#west"},
+				"west":{"uv":[0,0,4,16],"texture":"#west"}
+			}
+		},
+		{
+			"from":[0,0,11],
+			"to":[1,16,16],
+			"faces":{
+				"north":{"uv":[11,0,12,16],"texture":"#west"},
+				"west":{"uv":[11,0,16,16],"texture":"#west"}
+			}
+		},
+		{
+			"from":[0,8,4],
+			"to":[1,16,11],
+			"faces":{
+				"west":{"uv":[4,0,11,8],"texture":"#west"},
+				"down":{"uv":[11,7,4,8],"rotation":90,"texture":"#west"}
+			}
+		},
+		{
+			"from":[0,0,4],
+			"to":[1,2,11],
+			"faces":{
+				"west":{"uv":[4,14,11,16],"texture":"#west"},
+				"up":{"uv":[4,14,11,15],"rotation":90,"texture":"#west"}
+			}
+		},
+		{
+			"from":[1,2,4],
+			"to":[1,8,12],
+			"faces":{
+				"west":{"uv":[4,8,12,14],"texture":"#west"},
+				"up":{"uv":[4,14,12,15],"rotation":90,"texture":"#west"}
+			}
+		},
+		{
+			"from":[0.5,2,4],
+			"to":[1,5,7],
+			"faces":{
+				"south":{"uv":[6,11,7,14],"texture":"#west"},
+				"west":{"uv":[4,11,7,14],"texture":"#west"},
+				"up":{"uv":[4,11,7,12],"rotation":90,"texture":"#west"}
+			}
+		},
+		{
+			"from":[0.3,2,8],
+			"to":[1,5,11],
+			"faces":{
+				"north":{"uv":[8,11,9,14],"texture":"#west"},
+				"west":{"uv":[8,11,11,14],"texture":"#west"},
+				"up":{"uv":[8,11,11,12],"rotation":90,"texture":"#west"}
+			}
+		},
+		{
+			"from":[0.7,5,5],
+			"to":[1,8,11],
+			"faces":{
+				"north":{"uv":[5,8,6,11],"texture":"#west"},
+				"west":{"uv":[5,8,11,11],"texture":"#west"},
+				"down":{"uv":[11,10,5,11],"rotation":90,"texture":"#west"}
+			}
+		},
+		{
+			"from":[0.7,6,4],
+			"to":[1,7,5],
+			"faces":{
+				"west":{"uv":[4,9,5,10],"texture":"#west"},
+				"up":{"uv":[4,9,5,10],"texture":"#west"},
+				"down":{"uv":[4,9,5,10],"texture":"#west"}
+			}
 		}
 	],
 	"display":{
-		"gui":{
-			"rotation":[30,225,0],
-			"translation":[0,0,0],
-			"scale":[0.625,0.625,0.625]
-		},
-		"ground":{
-			"rotation":[0,0,0],
-			"translation":[0,3,0],
-			"scale":[0.25,0.25,0.25]
-		},
-		"fixed":{
-			"rotation":[0,0,0],
-			"translation":[0,0,0],
-			"scale":[0.5,0.5,0.5]
-		},
 		"thirdperson_righthand":{
 			"rotation":[75,45,0],
 			"translation":[0,2.5,0],
@@ -57,13 +128,22 @@
 		},
 		"firstperson_righthand":{
 			"rotation":[0,45,0],
-			"translation":[0,0,0],
-			"scale":[0.40,0.40,0.40]
+			"scale":[0.4,0.4,0.4]
 		},
 		"firstperson_lefthand":{
 			"rotation":[0,225,0],
-			"translation":[0,0,0],
-			"scale":[0.40,0.40,0.40]
+			"scale":[0.4,0.4,0.4]
+		},
+		"ground":{
+			"translation":[0,3,0],
+			"scale":[0.25,0.25,0.25]
+		},
+		"gui":{
+			"rotation":[30,225,0],
+			"scale":[0.625,0.625,0.625]
+		},
+		"fixed":{
+			"scale":[0.5,0.5,0.5]
 		}
 	}
 }

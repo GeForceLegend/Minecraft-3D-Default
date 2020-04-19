@@ -28,37 +28,38 @@
 			}
 		},
 		{
-			"from":[7.5,10,7.5],
-			"to":[8.5,9,8.5],
-			"rotation":{"angle":45,"axis":"y","origin":[8,1,8]},
+			"from":[8.5,9,7.5],
+			"to":[9.5,11,8.5],
+			"rotation":{"angle":-45,"axis":"y","origin":[8,1,8]},
 			"faces":{
-				"north":{"uv":[13,11,14,12],"texture":"#lantern"},
-				"south":{"uv":[11,11,12,12],"texture":"#lantern"},
-				"down":{"uv":[12,10,13,11],"texture":"#lantern"}
+				"north":{"uv":[11,10,12,12],"texture":"#lantern"},
+				"east":{"uv":[11,10,12,12],"texture":"#lantern"},
+				"south":{"uv":[11,10,12,12],"texture":"#lantern"},
+				"west":{"uv":[11,10,12,12],"texture":"#lantern"},
+				"up":{"uv":[11,10,12,11],"texture":"#lantern"}
 			}
 		},
 		{
-			"from":[7.5,9,6.5],
-			"to":[8.5,11,9.5],
-			"rotation":{"angle":45,"axis":"y","origin":[8,1,8]},
+			"from":[6.5,9,7.5],
+			"to":[7.5,11,8.5],
+			"rotation":{"angle":-45,"axis":"y","origin":[8,1,8]},
 			"faces":{
 				"north":{"uv":[13,10,14,12],"texture":"#lantern"},
-				"east":{"uv":[10.9941,10,14.0059,12],"texture":"#lantern"},
-				"south":{"uv":[11,10,12,12],"texture":"#lantern"},
-				"west":{"uv":[14.0059,10,10.9941,12],"texture":"#lantern"},
-				"up":{"uv":[14,10,11,11],"rotation":90,"texture":"#lantern"}
+				"east":{"uv":[13,10,14,12],"texture":"#lantern"},
+				"south":{"uv":[13,10,14,12],"texture":"#lantern"},
+				"west":{"uv":[13,10,14,12],"texture":"#lantern"},
+				"up":{"uv":[13,10,14,11],"texture":"#lantern"}
 			}
 		},
 		{
-			"from":[7.5,11,7.5],
-			"to":[8.5,12,8.5],
-			"rotation":{"angle":45,"axis":"y","origin":[8,1,8]},
+			"from":[7.5,10,7.5],
+			"to":[8.5,11,8.5],
+			"rotation":{"angle":-45,"axis":"y","origin":[8,1,8]},
 			"faces":{
-				"north":{"uv":[11,1,12,2],"texture":"#lantern"},
-				"east":{"uv":[11,1,12,2],"texture":"#lantern"},
-				"south":{"uv":[11,1,12,2],"texture":"#lantern"},
-				"west":{"uv":[11,1,12,2],"texture":"#lantern"},
-				"up":{"uv":[11,1,12,2],"texture":"#lantern"}
+				"north":{"uv":[12,10,13,11],"texture":"#lantern"},
+				"south":{"uv":[12,10,13,11],"texture":"#lantern"},
+				"up":{"uv":[12,10,13,11],"texture":"#lantern"},
+				"down":{"uv":[12,10,13,11],"texture":"#lantern"}
 			}
 		}
 	]

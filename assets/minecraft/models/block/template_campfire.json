@@ -3,9 +3,7 @@
 	"parent":"block/block",
 	"textures":{
 		"particle":"block/campfire_log",
-		"log":"block/campfire_log",
-		"litlog":"block/campfire_log_lit",
-		"fire":"block/campfire_fire"
+		"log":"block/campfire_log"
 	},
 	"elements":[
 		{
@@ -86,5 +84,10 @@
 				"south":{"uv":[0,0,16,16],"texture":"#fire"}
 			}
 		}
-	]
+	],
+	"display":{
+		"head":{
+			"translation":[0,10.5,0]
+		}
+	}
 }
