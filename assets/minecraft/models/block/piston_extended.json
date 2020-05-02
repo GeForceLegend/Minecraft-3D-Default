@@ -85,7 +85,7 @@
 			"to":[15,1,5],
 			"faces":{
 				"north":{"uv":[1,15,15,16],"texture":"#inside"},
-				"down":{"uv":[1,11,15,12],"texture":"#side","cullface":"down"}
+				"down":{"uv":[1,4,15,5],"texture":"#side","cullface":"down"}
 			}
 		},
 		{
