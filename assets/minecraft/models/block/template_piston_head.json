@@ -1,0 +1,42 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textures":{
+		"arm":"block/piston_arm",
+		"particle":"#platform"
+	},
+	"elements":[
+		{
+			"from":[0,0,0],
+			"to":[16,16,4],
+			"faces":{
+				"north":{"uv":[0,0,16,16],"texture":"#platform","cullface":"north"},
+				"east":{"uv":[0,0,16,4],"rotation":90,"texture":"#side","cullface":"east"},
+				"south":{"uv":[0,0,16,16],"texture":"#unsticky"},
+				"west":{"uv":[0,0,16,4],"rotation":270,"texture":"#side","cullface":"west"},
+				"up":{"uv":[0,0,16,4],"texture":"#side","cullface":"up"},
+				"down":{"uv":[0,0,16,4],"rotation":180,"texture":"#side","cullface":"down"}
+			}
+		},
+		{
+			"from":[6,6,4],
+			"to":[10,10,12],
+			"faces":{
+				"east":{"uv":[9,0,13,8],"rotation":90,"texture":"#arm"},
+				"west":{"uv":[13,8,9,0],"rotation":90,"texture":"#arm"},
+				"up":{"uv":[9,0,13,8],"texture":"#arm"},
+				"down":{"uv":[13,8,9,0],"texture":"#arm"}
+			}
+		},
+		{
+			"from":[5,5,12],
+			"to":[11,11,20],
+			"faces":{
+				"north":{"uv":[2,10,8,16],"texture":"#arm"},
+				"east":{"uv":[8,8,14,16],"rotation":90,"texture":"#arm"},
+				"west":{"uv":[14,16,8,8],"rotation":90,"texture":"#arm"},
+				"up":{"uv":[8,8,14,16],"texture":"#arm"},
+				"down":{"uv":[14,16,8,8],"texture":"#arm"}
+			}
+		}
+	]
+}
