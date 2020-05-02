@@ -310,7 +310,6 @@
 		{
 			"from":[9,10,7.4],
 			"to":[10,11,8.6],
-			"rotation":{"angle":0,"axis":"y","origin":[7,7,8]},
 			"faces":{
 				"north":{"uv":[9,5,10,6],"texture":"#sword"},
 				"south":{"uv":[9,5,10,6],"texture":"#sword"},
@@ -321,7 +320,6 @@
 		{
 			"from":[10,9,7.4],
 			"to":[11,10,8.6],
-			"rotation":{"angle":0,"axis":"y","origin":[7,7,8]},
 			"faces":{
 				"north":{"uv":[10,6,11,7],"texture":"#sword"},
 				"east":{"uv":[10,6,11,7],"texture":"#sword"},
