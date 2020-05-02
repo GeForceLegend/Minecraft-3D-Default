@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/potted_brown_mushroom"},
+			{"model":"block/potted_brown_mushroom","y":90},
+			{"model":"block/potted_brown_mushroom","y":180},
+			{"model":"block/potted_brown_mushroom","y":270}
+		]
+	}
+}
