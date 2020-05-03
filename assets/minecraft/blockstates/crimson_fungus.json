@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/crimson_fungus"},
+			{"model":"block/crimson_fungus","y":90},
+			{"model":"block/crimson_fungus","y":180},
+			{"model":"block/crimson_fungus","y":270}
+		]
+	}
+}
