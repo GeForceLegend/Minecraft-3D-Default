@@ -1,7 +1,0 @@
-{
-	"__comment":"Designed by GeForceLegend",
-	"parent":"block/flower2",
-	"textures":{
-		"cross":"block/lily_of_the_valley"
-	}
-}

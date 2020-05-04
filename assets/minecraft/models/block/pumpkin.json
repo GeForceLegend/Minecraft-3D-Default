@@ -11,45 +11,63 @@
 			"from":[0,0,0],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#side","cullface":"north"},
-				"east":{"uv":[0,0,16,16],"texture":"#side","cullface":"east"},
-				"south":{"uv":[0,0,16,16],"texture":"#side","cullface":"south"},
-				"west":{"uv":[0,0,16,16],"texture":"#side","cullface":"west"},
-				"up":{"uv":[0,0,16,16],"texture":"#end","cullface":"up"},
-				"down":{"uv":[0,0,16,16],"texture":"#end","cullface":"down"}
+				"north":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"north"},
+				"east":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"east"},
+				"south":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"south"},
+				"west":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#side","cullface":"west"},
+				"up":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#end","cullface":"up"},
+				"down":{"uv":[-0.01,-0.01,16.01,16.01],"texture":"#end","cullface":"down"}
+			}
+		},
+	{
+			"from":[5.025,16,6.025],
+			"to":[8.975,16.9,7.975],
+			"faces":{
+				"north":{"uv":[9,6,5,6.9],"texture":"#end","cullface":"up"},
+				"east":{"uv":[7,6,9,6.9],"texture":"#end","cullface":"up"},
+				"south":{"uv":[5,7,9,8],"texture":"#end","cullface":"up"},
+				"west":{"uv":[6,5,8,5.9],"texture":"#end","cullface":"up"},
+				"up":{"uv":[5,6,9,8],"texture":"#end","cullface":"up"}
 			}
 		},
 		{
-			"from":[7.025,16,6.025],
-			"to":[8.975,16.9,9.975],
+			"from":[6.025,16,5.025],
+			"to":[7.975,16.9,8.975],
 			"faces":{
-				"north":{"uv":[8,5,6,6],"texture":"#end","cullface":"up"},
-				"east":{"uv":[8,6,9,10],"rotation":90,"texture":"#end","cullface":"up"},
-				"south":{"uv":[7,9,9,10],"texture":"#end","cullface":"up"},
-				"west":{"uv":[5,6,9,7],"texture":"#end","cullface":"up"},
-				"up":{"uv":[7,6,9,10],"texture":"#end","cullface":"up"}
+				"north":{"uv":[6,5,8,5.9],"texture":"#end","cullface":"up"},
+				"east":{"uv":[9,7,5,8],"texture":"#end","cullface":"up"},
+				"south":{"uv":[5,7,7,8],"texture":"#end","cullface":"up"},
+				"west":{"uv":[5,6,9,6.9],"texture":"#end","cullface":"up"},
+				"up":{"uv":[6,5,8,9],"texture":"#end","cullface":"up"}
 			}
 		},
 		{
-			"from":[5.025,16,5.025],
-			"to":[7.975,16.9,7.975],
+			"from":[6.975,16,8.975],
+			"to":[7.975,16.9,9.975],
 			"faces":{
-				"north":{"uv":[8,5,5,6],"texture":"#end","cullface":"up"},
-				"east":{"uv":[5,5,8,6],"texture":"#end","cullface":"up"},
-				"south":{"uv":[8,5,5,6],"texture":"#end","cullface":"up"},
-				"west":{"uv":[5,5,8,6],"texture":"#end","cullface":"up"},
-				"up":{"uv":[5,5,8,8],"texture":"#end","cullface":"up"}
+				"east":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"},
+				"south":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"},
+				"west":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"},
+				"up":{"uv":[7,9.1,8,10],"texture":"#end","cullface":"up"}
 			}
 		},
 		{
-			"from":[6.025,16,7.975],
-			"to":[9.975,16.9,8.975],
+			"from":[7.975,16,7.975],
+			"to":[8.975,16.9,8.975],
 			"faces":{
-				"north":{"uv":[6,8,10,9],"texture":"#end","cullface":"up"},
-				"east":{"uv":[9,8,10,9],"texture":"#end","cullface":"up"},
-				"south":{"uv":[6,8,10,9],"texture":"#end","cullface":"up"},
-				"west":{"uv":[6,8,7,9],"texture":"#end","cullface":"up"},
-				"up":{"uv":[6,8,10,9],"texture":"#end","cullface":"up"}
+				"east":{"uv":[8,8,9,9],"texture":"#end","cullface":"up"},
+				"south":{"uv":[8,8,9,9],"texture":"#end","cullface":"up"},
+				"up":{"uv":[8,8,9,9],"texture":"#end","cullface":"up"}
+			}
+		},
+		{
+			"from":[8.975,16,6.975],
+			"to":[9.975,16.9,7.975],
+			"faces":{
+				"north":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"},
+				"east":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"},
+				"south":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"},
+				"up":{"uv":[9.1,7,10,8],"texture":"#end","cullface":"up"}
 			}
 		}
 	],
@@ -70,7 +88,7 @@
 			"scale":[0.5,0.5,0.5]
 		},
 		"thirdperson_righthand":{
-			"rotation":[0,135,0],
+			"rotation":[75,45,0],
 			"translation":[0,2.5,0],
 			"scale":[0.375,0.375,0.375]
 		},

@@ -1,5 +1,5 @@
 {
-    "__comment":"Designed by GeForceLegend",
+	"__comment":"Designed by GeForceLegend",
 	"textures":{
 		"bottom":"block/cake_bottom",
 		"top":"block/cake_top",
@@ -18,17 +18,6 @@
 				"west":{"uv":[1,8,15,16],"texture":"#inside"},
 				"up":{"uv":[13,1,15,15],"texture":"#top"},
 				"down":{"uv":[13,1,15,15],"texture":"#bottom","cullface":"down"}
-			}
-		},
-		{
-			"from":[12.999,7.5,9],
-			"to":[14,8.5,10],
-			"faces":{
-				"north":{"uv":[13,9,14,10],"texture":"#top"},
-				"east":{"uv":[13,9,14,10],"texture":"#top"},
-				"south":{"uv":[13,9,14,10],"texture":"#top"},
-				"west":{"uv":[13,9,14,10],"texture":"#top"},
-				"up":{"uv":[13,9,14,10],"texture":"#top"}
 			}
 		}
 	]
