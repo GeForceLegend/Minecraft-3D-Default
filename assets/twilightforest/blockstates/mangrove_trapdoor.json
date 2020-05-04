@@ -1,0 +1,37 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"forge_marker":1,
+	"defaults":{
+		"textures":{
+			"texture1":"twilightforest:blocks/wood/trapdoor/mangrove_trapdoor",
+			"texture2":"twilightforest:blocks/wood/trapdoor/mangrove_trapdoor2"
+		}
+	},
+	"variants":{
+		"inventory":[{"model":"twilightforest:mangrove_trapdoor_bottom","y":180}],
+
+		"facing":{"north":{},"east":{},"south":{},"west":{}},
+		"open":{"true":{},"false":{}},
+		"half":{"bottom":{},"top":{}},
+
+		"facing=south,half=bottom,open=false":{"model":"twilightforest:mangrove_trapdoor_bottom"},
+		"facing=west,half=bottom,open=false":{"model":"twilightforest:mangrove_trapdoor_bottom","y":90},
+		"facing=north,half=bottom,open=false":{"model":"twilightforest:mangrove_trapdoor_bottom","y":180},
+		"facing=east,half=bottom,open=false":{"model":"twilightforest:mangrove_trapdoor_bottom","y":270},
+
+		"facing=south,half=top,open=false":{"model":"twilightforest:mangrove_trapdoor_top"},
+		"facing=west,half=top,open=false":{"model":"twilightforest:mangrove_trapdoor_top","y":90},
+		"facing=north,half=top,open=false":{"model":"twilightforest:mangrove_trapdoor_top","y":180},
+		"facing=east,half=top,open=false":{"model":"twilightforest:mangrove_trapdoor_top","y":270},
+
+		"facing=north,half=bottom,open=true":{"model":"twilightforest:mangrove_trapdoor_open","transform":{"post-rotation":{"z":180}}},
+		"facing=east,half=bottom,open=true":{"model":"twilightforest:mangrove_trapdoor_open","transform":{"post-rotation":{"x":180},"rotation":{"y":90}}},
+		"facing=south,half=bottom,open=true":{"model":"twilightforest:mangrove_trapdoor_open","transform":{"post-rotation":{"z":180},"rotation":{"y":180}}},
+		"facing=west,half=bottom,open=true":{"model":"twilightforest:mangrove_trapdoor_open","transform":{"post-rotation":{"x":180},"rotation":{"y":270}}},
+
+		"facing=north,half=top,open=true":{"model":"twilightforest:mangrove_trapdoor_top_open"},
+		"facing=east,half=top,open=true":{"model":"twilightforest:mangrove_trapdoor_top_open","y":90},
+		"facing=south,half=top,open=true":{"model":"twilightforest:mangrove_trapdoor_top_open","y":180},
+		"facing=west,half=top,open=true":{"model":"twilightforest:mangrove_trapdoor_top_open","y":270}
+	}
+}

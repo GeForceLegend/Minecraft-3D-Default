@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/handheld",
+	"textures":{
+		"layer0":"twilightforest:items/chain_block_thrown"
+	}
+}

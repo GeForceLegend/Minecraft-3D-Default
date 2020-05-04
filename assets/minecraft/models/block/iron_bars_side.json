@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"texture":"blocks/iron_bars",
-		"particle":"blocks/iron_bars"
+		"particle":"blocks/iron_bars",
+		"texture":"blocks/iron_bars"
 	},
 	"elements":[
 		{
@@ -34,7 +34,6 @@
 			"from":[7.5,7,0],
 			"to":[8.5,9,2],
 			"faces":{
-				"north":{"uv":[15.1,7,16,9],"texture":"#texture","cullface":"north"},
 				"up":{"uv":[16,7,14.0056,8],"rotation":90,"texture":"#texture"},
 				"down":{"uv":[16,8,14.0056,9],"texture":"#texture"}
 			}
@@ -67,6 +66,16 @@
 			"faces":{
 				"east":{"uv":[7.992,0.9772,16.018,15.0228],"texture":"#texture"},
 				"west":{"uv":[16.018,0.9772,7.992,15.0228],"texture":"#texture"}
+			}
+		},
+		{
+			"from":[7,1,0],
+			"to":[9,15,1],
+			"faces":{
+				"north":{"uv":[12.005,1,14,15],"texture":"#texture","cullface":"north"},
+				"east":{"uv":[12.1,1,13,15],"texture":"#texture","cullface":"north"},
+				"south":{"uv":[14,1,12.005,15],"texture":"#texture","cullface":"north"},
+				"west":{"uv":[13.1,1,14,15],"texture":"#texture","cullface":"north"}
 			}
 		}
 	]

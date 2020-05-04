@@ -1,0 +1,20 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"forge_marker":1,
+	"defaults":{
+		"transform":"forge:default-item",
+		"model":"ladder",
+		"textures":{
+			"ladder":"tconstruct:blocks/stone_ladder",
+			"particle":"#ladder"
+	}
+	},
+	"variants":{
+		"facing":{
+			"north":{},
+			"east":{"y":90},
+			"south":{"y":180},
+			"west":{"y":270}
+		}
+	}
+}

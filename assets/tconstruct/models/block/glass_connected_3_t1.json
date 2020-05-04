@@ -1,0 +1,13 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"tconstruct:block/glass_connected",
+	"textures":{
+		"particle":"#normal",
+		"down":"#udlr",
+		"up":"#udlr",
+		"north":"#udr",
+		"south":"#udl",
+		"west":"#udlr",
+		"east":"#ud"
+	}
+}
