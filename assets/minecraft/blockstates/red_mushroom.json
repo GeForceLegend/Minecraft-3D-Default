@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"variants":{
+		"":[
+			{"model":"block/red_mushroom"},
+			{"model":"block/red_mushroom","y":90},
+			{"model":"block/red_mushroom","y":180},
+			{"model":"block/red_mushroom","y":270}
+		]
+	}
+}

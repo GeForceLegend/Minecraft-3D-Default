@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"front":"block/dispenser_front",
 		"particle":"block/dispenser_front",
+		"front":"block/dispenser_front",
 		"top":"block/furnace_top",
 		"inside":"block/furnace_inside"
 	},
@@ -27,21 +27,21 @@
 			}
 		},
 		{
-			"from":[0,4,0],
+			"from":[6,4,0],
 			"to":[7,5,16],
 			"faces":{
-				"north":{"uv":[9,11.1,16.017,12],"texture":"#front","cullface":"north"},
+				"north":{"uv":[9.1,11.1,10,12],"texture":"#front","cullface":"north"},
 				"east":{"uv":[4,-0.026,4.9,16.026],"rotation":90,"texture":"#inside","cullface":"north"},
-				"up":{"uv":[0,-0.026,7,16.026],"texture":"#inside","cullface":"north"}
+				"up":{"uv":[6,0,6.9,16],"texture":"#inside","cullface":"north"}
 			}
 		},
 		{
-			"from":[0,7,0],
+			"from":[6,7,0],
 			"to":[7,8,16],
 			"faces":{
-				"north":{"uv":[9,8,16.017,9],"texture":"#front","cullface":"north"},
+				"north":{"uv":[9.1,8,10,9],"texture":"#front","cullface":"north"},
 				"east":{"uv":[5,-0.026,5.9,16.026],"rotation":90,"texture":"#inside","cullface":"north"},
-				"down":{"uv":[0,-0.026,7,16.026],"texture":"#inside","cullface":"north"}
+				"down":{"uv":[6,0,6.9,16],"texture":"#inside","cullface":"north"}
 			}
 		},
 		{
@@ -55,20 +55,20 @@
 		},
 		{
 			"from":[9,4,0],
-			"to":[16,5,16],
+			"to":[10,5,16],
 			"faces":{
-				"north":{"uv":[-0.017,11.1,7,12],"texture":"#front","cullface":"north"},
+				"north":{"uv":[6,11.1,6.9,12],"texture":"#front","cullface":"north"},
 				"west":{"uv":[7,-0.026,8,16.026],"rotation":90,"texture":"#inside","cullface":"north"},
-				"up":{"uv":[9,-0.026,16,16.026],"texture":"#inside","cullface":"north"}
+				"up":{"uv":[9.1,0,10,16],"texture":"#inside","cullface":"north"}
 			}
 		},
 		{
 			"from":[9,7,0],
-			"to":[16,8,16],
+			"to":[10,8,16],
 			"faces":{
-				"north":{"uv":[-0.017,8,7,9],"texture":"#front","cullface":"north"},
+				"north":{"uv":[6,8,6.9,9],"texture":"#front","cullface":"north"},
 				"west":{"uv":[7,-0.026,8,16.026],"rotation":90,"texture":"#inside","cullface":"north"},
-				"down":{"uv":[9,-0.026,16,16.026],"texture":"#inside","cullface":"north"}
+				"down":{"uv":[9.1,0,10,16],"texture":"#inside","cullface":"north"}
 			}
 		},
 		{
@@ -122,21 +122,6 @@
 		}
 	],
 	"display":{
-		"gui":{
-			"rotation":[30,225,0],
-			"translation":[0,0,0],
-			"scale":[0.625,0.625,0.625]
-		},
-		"ground":{
-			"rotation":[0,0,0],
-			"translation":[0,3,0],
-			"scale":[0.25,0.25,0.25]
-		},
-		"fixed":{
-			"rotation":[0,0,0],
-			"translation":[0,0,0],
-			"scale":[0.5,0.5,0.5]
-		},
 		"thirdperson_righthand":{
 			"rotation":[75,45,0],
 			"translation":[0,2.5,0],
@@ -144,13 +129,22 @@
 		},
 		"firstperson_righthand":{
 			"rotation":[0,45,0],
-			"translation":[0,0,0],
-			"scale":[0.40,0.40,0.40]
+			"scale":[0.4,0.4,0.4]
 		},
 		"firstperson_lefthand":{
 			"rotation":[0,225,0],
-			"translation":[0,0,0],
-			"scale":[0.40,0.40,0.40]
+			"scale":[0.4,0.4,0.4]
+		},
+		"ground":{
+			"translation":[0,3,0],
+			"scale":[0.25,0.25,0.25]
+		},
+		"gui":{
+			"rotation":[30,225,0],
+			"scale":[0.625,0.625,0.625]
+		},
+		"fixed":{
+			"scale":[0.5,0.5,0.5]
 		}
 	}
 }

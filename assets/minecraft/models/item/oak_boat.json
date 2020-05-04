@@ -2,6 +2,6 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/boat",
 	"textures":{
-		"0":"item/oak_boat_model"
+		"boat":"item/oak_boat_model"
 	}
 }

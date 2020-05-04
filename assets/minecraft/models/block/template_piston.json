@@ -1,10 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"textures":{
-		"side":"block/piston_side",
-		"particle":"block/piston_side",
-		"platform":"block/piston_top",
-		"bottom":"block/piston_bottom"
+		"particle":"#side"
 	},
 	"elements":[
 		{
