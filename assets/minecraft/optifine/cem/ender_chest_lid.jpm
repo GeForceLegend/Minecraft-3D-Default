@@ -1,0 +1,43 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[64,64],
+	"boxes":[
+		{
+			"coordinates":[1,8,1,14,1,14],
+			"uvNorth":[14,14,28,15],
+			"uvEast":[0,14,14,15],
+			"uvSouth":[42,14,56,15],
+			"uvWest":[28,14,42,15],
+			"uvUp":[14,0,28,14],
+			"uvDown":[14,0,28,14]
+		},
+		{
+			"coordinates":[1,9,1,14,4,1],
+			"uvNorth":[14,15,28,19],
+			"uvEast":[13,15,14,19],
+			"uvSouth":[42,15,56,19],
+			"uvWest":[28,15,29,19],
+			"uvDown":[28,13,42,14]
+		},
+		{
+			"coordinates":[1,9,14,14,4,1],
+			"uvNorth":[42,15,56,19],
+			"uvEast":[0,15,1,19],
+			"uvSouth":[42,15,56,19],
+			"uvWest":[41,15,42,19],
+			"uvDown":[28,0,42,1]
+		},
+		{
+			"coordinates":[1,9,2,1,4,12],
+			"uvEast":[29,15,41,19],
+			"uvWest":[29,15,41,19],
+			"uvDown":[41,1,42,13]
+		},
+		{
+			"coordinates":[14,9,2,1,4,12],
+			"uvEast":[1,15,13,19],
+			"uvWest":[1,15,13,19],
+			"uvDown":[28,1,29,13]
+		}
+	]
+}

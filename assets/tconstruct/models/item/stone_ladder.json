@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/ladder",
+	"textures":{
+		"ladder":"tconstruct:blocks/stone_ladder"
+	}
+}
