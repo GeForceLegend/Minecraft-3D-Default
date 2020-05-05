@@ -1,0 +1,22 @@
+{
+	"forge_marker":1,
+	"defaults":{
+		"model":"twilightforest:uncrafting_table",
+		"textures":{
+			"particle":"twilightforest:blocks/uncrafting_particle",
+			"top":"twilightforest:blocks/uncrafting_particle",
+			"side":"twilightforest:blocks/uncrafting_side",
+			"bottom":"blocks/planks_jungle"
+		}
+	},
+	"variants":{
+		"normal":[{}],
+		"ctm":[{
+			"model":"twilightforest:util/cube_bottom_double_top",
+			"textures":{
+				"top":"twilightforest:blocks/uncrafting_top",
+				"glow":"twilightforest:blocks/uncrafting_glow"
+			}
+		}]
+	}
+}

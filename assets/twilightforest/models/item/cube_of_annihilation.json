@@ -1,0 +1,15 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/handheld",
+	"textures":{
+		"layer0":"twilightforest:items/cube_of_annihilation"
+	},
+	"overrides":[
+		{
+			"predicate":{
+				"twilightforest:thrown":1
+			},
+			"model":"twilightforest:item/cube_of_annihilation_thrown"
+		}
+	]
+}

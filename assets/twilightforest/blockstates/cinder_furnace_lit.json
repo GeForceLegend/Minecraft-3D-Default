@@ -1,0 +1,15 @@
+{
+  "forge_marker":1,
+  "defaults":{
+    "model":"lit_furnace"
+  },
+  "inventory":[{}],
+  "variants":{
+    "facing":{
+      "north":{},
+      "south":{"y":180},
+      "west":{"y":270},
+      "east":{"y":90}
+    }
+  }
+}

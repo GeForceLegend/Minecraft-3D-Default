@@ -1,0 +1,36 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"forge_marker":1,
+	"defaults":{
+		"transform":"forge:default-block",
+		"model":"tconstruct:smeltery_controller",
+		"uvlock":true
+	},
+	"variants":{
+		"active":{
+			"true":{
+				"model":"tconstruct:smeltery_controller_on"
+			},
+			"false":{
+				"textures":{"front":"tconstruct:blocks/smeltery/smeltery_inactive"}
+			}
+		},
+		"facing":{
+			"north":{
+				"__comment":"nothingtorotate"
+			},
+			"east":{
+				"y":90
+			},
+			"south":{
+				"y":180
+			},
+			"west":{
+				"y":270
+			}
+		},
+		"inventory":{
+			"model":"tconstruct:smeltery_controller"
+		}
+	}
+}

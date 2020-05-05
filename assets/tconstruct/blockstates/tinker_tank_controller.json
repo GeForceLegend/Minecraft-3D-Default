@@ -1,0 +1,21 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"forge_marker":1,
+	"defaults":{
+		"model":"tconstruct:tinker_tank_controller",
+		"uvlock":true
+	},
+	"variants":{
+		"facing":{
+			"north":{},
+			"south":{"y":180},
+			"west":{"y":270},
+			"east":{"y":90}
+		},
+		"active":{
+			"true":{"model":"tconstruct:tinker_tank_controller_active"},
+			"false":{}
+		},
+		"inventory":[{}]
+	}
+}
