@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/soul_fire_lantern",
+	"parent":"block/soul_lantern",
 	"display":{
 		"gui":{
 			"rotation":[30,225,0],

@@ -2,7 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/torch",
 	"textures":{
-		"torch":"block/soul_fire_torch",
-		"particle":"block/soul_fire_torch"
+		"torch":"block/soul_torch",
+		"particle":"block/soul_torch"
 	}
 }

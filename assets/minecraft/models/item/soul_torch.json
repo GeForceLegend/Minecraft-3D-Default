@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/soul_fire_torch",
+	"parent":"block/soul_torch",
 	"display":{
 		"ground":{
 			"rotation":[0,0,0],
