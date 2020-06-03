@@ -4,7 +4,7 @@
 		"minecart":"items/minecart_model",
 		"top":"blocks/tnt_top",
 		"side":"blocks/tnt_side",
-		"particle":"items/tnt_minecart"
+		"particle":"items/minecart_tnt"
 	},
 	"elements":[
 		{
@@ -257,7 +257,6 @@
 			"scale":[0.375,0.375,0.375]
 		},
 		"gui":{
-			"rotation":[0,-90,0],
 			"scale":[0.9,0.9,0.9]
 		},
 		"fixed":{
