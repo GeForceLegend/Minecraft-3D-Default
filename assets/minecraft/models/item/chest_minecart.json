@@ -4,7 +4,7 @@
 	"textures":{
 		"minecart":"items/minecart_model",
 		"chest":"items/chest_model",
-		"particle":"items/chest_minecart"
+		"particle":"items/minecart_chest"
 	},
 	"elements":[
 		{
