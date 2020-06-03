@@ -4,7 +4,7 @@
 	"textures":{
 		"minecart":"items/minecart_model",
 		"side":"blocks/furnace_side",
-		"particle":"items/furnace_minecart",
+		"particle":"items/minecart_furnace",
 		"top":"blocks/furnace_top",
 		"front":"blocks/furnace_front_off",
 		"inside":"blocks/furnace_in"
