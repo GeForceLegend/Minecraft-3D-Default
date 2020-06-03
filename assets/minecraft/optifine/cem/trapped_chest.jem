@@ -1,0 +1,24 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[64,64],
+	"models":[
+		{
+			"model":"chest_base.jpm",
+			"part":"base",
+			"translate":[1,0,1],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"chest_knob.jpm",
+			"part":"knob",
+			"translate":[0,-8,15],
+			"rotate":[0,0,0]
+		},
+		{
+			"model":"chest_lid.jpm",
+			"part":"lid",
+			"translate":[1,5,14],
+			"rotate":[0,0,0]
+		}
+	]
+}
