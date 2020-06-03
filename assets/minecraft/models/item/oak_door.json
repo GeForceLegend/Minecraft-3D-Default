@@ -6,7 +6,7 @@
 		"layer1":"blocks/oak_door_top1",
 		"layer2":"blocks/oak_door_top2",
 		"top":"blocks/door_wood_upper",
-		"particle":"items/door_wooden"
+		"particle":"items/door_wood"
 	},
 	"elements":[
 		{

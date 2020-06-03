@@ -4,7 +4,7 @@
 		"minecart":"items/minecart_model",
 		"top":"blocks/hopper_top",
 		"side":"blocks/hopper_outside",
-		"particle":"items/hopper_minecart",
+		"particle":"items/minecart_hopper",
 		"inside":"blocks/hopper_inside"
 	},
 	"elements":[
@@ -212,7 +212,6 @@
 			"scale":[0.375,0.375,0.375]
 		},
 		"gui":{
-			"rotation":[0,-90,0],
 			"scale":[0.9,0.9,0.9]
 		},
 		"fixed":{

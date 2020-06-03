@@ -3,7 +3,7 @@
 	"textures":{
 		"minecart":"items/minecart_model",
 		"side":"blocks/furnace_side",
-		"particle":"items/furnace_minecart",
+		"particle":"items/minecart_furnace",
 		"top":"blocks/furnace_top",
 		"front":"blocks/furnace_front_off",
 		"inside":"blocks/furnace_in"
@@ -202,7 +202,6 @@
 			"scale":[0.375,0.375,0.375]
 		},
 		"gui":{
-			"rotation":[0,-90,0],
 			"scale":[0.9,0.9,0.9]
 		},
 		"fixed":{
