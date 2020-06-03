@@ -6,7 +6,7 @@
 		"back":"blocks/command_block_back",
 		"front":"blocks/command_block_front",
 		"side":"blocks/command_block_side",
-		"particle":"items/command_block_minecart"
+		"particle":"items/minecart_command_block"
 	},
 	"elements":[
 		{
