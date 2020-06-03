@@ -1,5 +1,5 @@
 {
-	"__comment":"Designed by GeForceLegend",
+    "__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
 		"down":"block/dark_oak_planks",
@@ -16,7 +16,6 @@
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#north","cullface":"north"},
 				"east":{"uv":[0,0,16,16],"texture":"#north","cullface":"east"},
-				"south":{"uv":[0,0,16,16],"texture":"#south","cullface":"south"},
 				"up":{"uv":[0,0,16,16],"texture":"#up","cullface":"up"},
 				"down":{"uv":[0,0,16,16],"texture":"#down","cullface":"down"}
 			}
@@ -33,14 +32,21 @@
 			}
 		},
 		{
-			"from":[4.01,4.01,16],
-			"to":[5.99,5.99,16.9],
+			"from":[4.01,4.01,15.5],
+			"to":[5.99,5.99,16.49],
 			"faces":{
-				"east":{"uv":[5,10,5.9,12],"texture":"#south"},
-				"south":{"uv":[4,10,6,12],"texture":"#south"},
-				"west":{"uv":[4,10,4.9,12],"texture":"#south"},
-				"up":{"uv":[4,10,6,10.9],"texture":"#south"},
-				"down":{"uv":[4,11,6,11.9],"texture":"#south"}
+				"east":{"uv":[5,10,5.9,12],"texture":"#south","cullface":"south"},
+				"south":{"uv":[4,10,6,12],"texture":"#south","cullface":"south"},
+				"west":{"uv":[4,10,4.9,12],"texture":"#south","cullface":"south"},
+				"up":{"uv":[4,10,6,10.9],"texture":"#south","cullface":"south"},
+				"down":{"uv":[4,11,6,11.9],"texture":"#south","cullface":"south"}
+			}
+		},
+		{
+			"from":[4,2,15.5],
+			"to":[11,8,15.5],
+			"faces":{
+				"south":{"uv":[4,8,11,14],"texture":"#south","cullface":"south"}
 			}
 		},
 		{
@@ -53,10 +59,36 @@
 		},
 		{
 			"from":[0,0,11],
-			"to":[1,16,16],
+			"to":[4,16,16],
 			"faces":{
 				"north":{"uv":[11,0,12,16],"texture":"#west"},
+				"east":{"uv":[3,0,4,16],"texture":"#south","cullface":"south"},
+				"south":{"uv":[0,0,4,16],"texture":"#south","cullface":"south"},
 				"west":{"uv":[11,0,16,16],"texture":"#west"}
+			}
+		},
+		{
+			"from":[11,0,15],
+			"to":[16,16,16],
+			"faces":{
+				"south":{"uv":[11,0,16,16],"texture":"#south","cullface":"south"},
+				"west":{"uv":[11,0,12,16],"texture":"#south","cullface":"south"}
+			}
+		},
+		{
+			"from":[4,8,11],
+			"to":[11,16,16],
+			"faces":{
+				"south":{"uv":[4,0,11,8],"texture":"#south","cullface":"south"},
+				"down":{"uv":[4,7,11,8],"texture":"#south","cullface":"south"}
+			}
+		},
+		{
+			"from":[4,0,15],
+			"to":[11,2,16],
+			"faces":{
+				"south":{"uv":[4,14,11,16],"texture":"#south","cullface":"south"},
+				"up":{"uv":[4,14,11,15],"texture":"#south","cullface":"south"}
 			}
 		},
 		{
