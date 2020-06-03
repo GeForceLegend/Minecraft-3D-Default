@@ -5,7 +5,7 @@
 		"minecart":"items/minecart_model",
 		"top":"blocks/tnt_top",
 		"side":"blocks/tnt_side",
-		"particle":"items/tnt_minecart"
+		"particle":"items/minecart_tnt"
 	},
 	"elements":[
 		{
