@@ -24,14 +24,14 @@
 		{
 			"model":"bed_leg.jpm",
 			"part":"leg2",
-			"translate":[32,9,0],
-			"rotate":[0,0,0]
+			"translate":[0,9,16],
+			"rotate":[0,180,0]
 		},
 		{
 			"model":"bed_leg.jpm",
 			"part":"leg3",
-			"translate":[16,9,-16],
-			"rotate":[0,0,0]
+			"translate":[-16,9,0],
+			"rotate":[0,180,0]
 		},
 		{
 			"model":"bed_leg.jpm",
