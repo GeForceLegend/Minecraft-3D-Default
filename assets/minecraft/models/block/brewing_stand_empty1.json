@@ -7,7 +7,7 @@
 	"elements":[
 		{
 			"from":[5,3,7.5],
-			"to":[7,14,8.5],
+			"to":[7,14.01,8.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,8,8]},
 			"faces":{
 				"north":{"uv":[9,2,11,13],"texture":"#texture"},
