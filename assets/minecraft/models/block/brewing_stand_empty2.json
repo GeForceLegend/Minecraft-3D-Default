@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"ambientocclusion":false,
 	"textures":{
 		"texture":"blocks/brewing_stand",
 		"particle":"blocks/brewing_stand"
@@ -13,8 +12,8 @@
 			"faces":{
 				"east":{"uv":[9.1,2,10,13],"texture":"#texture"},
 				"west":{"uv":[10.1,2,11,13],"texture":"#texture"},
-				"up":{"uv":[11,2.9,9,2],"texture":"#texture"},
-				"down":{"uv":[11,12.1,9,13],"texture":"#texture"}
+				"up":{"uv":[11,2.9,9.0012,2],"texture":"#texture"},
+				"down":{"uv":[11,12.1,9.0012,13],"texture":"#texture"}
 			}
 		},
 		{
