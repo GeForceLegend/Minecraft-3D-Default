@@ -1,5 +1,5 @@
 # GeForceLegend's 3D Default
-# ![img lost](https://raw.githubusercontent.com/GeForceLegend/Minecraft-Default-3D/1.14-All/pack.png)
+# ![img](https://raw.githubusercontent.com/GeForceLegend/Minecraft-3D-Default/1.15-1.16_All/pack.png)
 
 *This resourcepack is for Minecraft Java Edition only.*
 
@@ -18,5 +18,7 @@ If you want to use my models in your own resourcepack, please follow the [licenc
 - Optifine self-illuminating textures(not support 1.8);
 
 - Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition. Please choose no-Optifine edition when you are not using Optifine.)
+
+- PBR self-illuminating textures(Only supported by few shaders such as [Wisom Shader](https://github.com/bobcao3/Wisdom-Shaders).)
 
 - More features are coming soom.
