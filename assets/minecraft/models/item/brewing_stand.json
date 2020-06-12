@@ -97,6 +97,7 @@
 			"to":[11,14,8.5],
 			"faces":{
 				"east":{"uv":[10.1,2,11,13],"texture":"#stand"},
+				"west":{"uv":[9.1,2,10,13],"texture":"#stand"},
 				"up":{"uv":[9,2.9,11,2],"texture":"#stand"},
 				"down":{"uv":[9,12.1,11,13],"texture":"#stand"}
 			}
