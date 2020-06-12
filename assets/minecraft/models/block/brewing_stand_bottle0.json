@@ -51,15 +51,14 @@
 			}
 		},
 		{
-			"from":[12.5,6,7.5],
+			"from":[12.5,7,7.5],
 			"to":[13.5,10,8.5],
 			"faces":{
-				"north":{"uv":[12,6,12.9,10],"texture":"#texture"},
-				"east":{"uv":[12,6,12.9,10],"texture":"#texture"},
-				"south":{"uv":[12,6,12.9,10],"texture":"#texture"},
-				"west":{"uv":[12,6,12.9,10],"texture":"#texture"},
-				"up":{"uv":[12.1,6.1,12.9,6.9],"texture":"#texture"},
-				"down":{"uv":[12.1,9.1,13,10],"texture":"#texture"}
+				"north":{"uv":[12,6,12.9,9],"texture":"#texture"},
+				"east":{"uv":[12,6,12.9,9],"texture":"#texture"},
+				"south":{"uv":[12,6,12.9,9],"texture":"#texture"},
+				"west":{"uv":[12,6,12.9,9],"texture":"#texture"},
+				"up":{"uv":[12.1,6.1,12.9,6.9],"texture":"#texture"}
 			}
 		},
 		{
