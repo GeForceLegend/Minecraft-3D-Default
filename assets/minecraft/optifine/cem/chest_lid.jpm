@@ -1,40 +1,39 @@
 {
-	"texture": "normal",
-	"textureSize": [64, 64],
-	"credit": "Made with Blockbench",
-	"boxes": [
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[64,64],
+	"boxes":[
 		{
-			"coordinates": [0, -1, -14, 14, 1, 14],
-			"uvUp": [28, 0, 42, 14],
-			"uvDown": [28, 0, 42, 14]
+			"coordinates":[0,-1,-14,14,1,14],
+			"uvUp":[28,0,42,14],
+			"uvDown":[28,0,42,14]
 		},
 		{
-			"coordinates": [0, -5, -14, 14, 5, 1],
-			"uvNorth": [14, 14, 28, 19],
-			"uvEast": [13, 14, 14, 19],
-			"uvSouth": [14, 14, 28, 19],
-			"uvWest": [28, 14, 29, 19],
-			"uvUp": [14, 13, 28, 14]
+			"coordinates":[0,-5,-14,14,5,1],
+			"uvNorth":[14,14,28,19],
+			"uvEast":[13,14,14,19],
+			"uvSouth":[14,14,28,19],
+			"uvWest":[28,14,29,19],
+			"uvUp":[14,13,28,14]
 		},
 		{
-			"coordinates": [0, -5, -1, 14, 5, 1],
-			"uvNorth": [14, 14, 28, 19],
-			"uvEast": [0, 14, 1, 19],
-			"uvSouth": [42, 14, 56, 19],
-			"uvWest": [41, 14, 42, 19],
-			"uvUp": [14, 0, 28, 1]
+			"coordinates":[0,-5,-1,14,5,1],
+			"uvNorth":[14,14,28,19],
+			"uvEast":[0,14,1,19],
+			"uvSouth":[42,14,56,19],
+			"uvWest":[41,14,42,19],
+			"uvUp":[14,0,28,1]
 		},
 		{
-			"coordinates": [13, -5, -13, 1, 5, 12],
-			"uvEast": [29, 14, 41, 19],
-			"uvWest": [29, 14, 41, 19],
-			"uvUp": [27, 1, 28, 13]
+			"coordinates":[13,-5,-13,1,5,12],
+			"uvEast":[29,14,41,19],
+			"uvWest":[29,14,41,19],
+			"uvUp":[27,1,28,13]
 		},
 		{
-			"coordinates": [0, -5, -13, 1, 5, 12],
-			"uvEast": [1, 14, 13, 19],
-			"uvWest": [1, 14, 13, 19],
-			"uvUp": [14, 1, 15, 13]
+			"coordinates":[0,-5,-13,1,5,12],
+			"uvEast":[1,14,13,19],
+			"uvWest":[1,14,13,19],
+			"uvUp":[14,1,15,13]
 		}
 	]
 }

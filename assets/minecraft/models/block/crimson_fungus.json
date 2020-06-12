@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"minecraft:block/cross",
 	"textures":{
 		"base":"block/crimson_fungus_base",
 		"particle":"block/crimson_fungus"

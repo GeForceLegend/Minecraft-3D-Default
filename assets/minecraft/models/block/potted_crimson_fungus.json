@@ -5,7 +5,7 @@
 		"flowerpot":"block/flower_pot",
 		"dirt":"block/dirt",
 		"base":"block/crimson_fungus_base",
-		"particle":"block/crimson_fungus"
+		"particle":"block/flower_pot"
 	},
 	"elements":[
 		{
