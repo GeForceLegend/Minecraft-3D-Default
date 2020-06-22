@@ -1,5 +1,5 @@
 # GeForceLegend's 3D Default
-# ![img](https://raw.githubusercontent.com/GeForceLegend/Minecraft-3D-Default/1.15-1.16_All/pack.png)
+# ![img](https://attachment.mcbbs.net/forum/202005/10/130802js188ia9tdt111gz.png)
 ## More information can be [found here](https://www.mcbbs.net/thread-914350-1-1.html) (Written in Chinese)
 
 *This resourcepack is for Minecraft Java Edition only.*
