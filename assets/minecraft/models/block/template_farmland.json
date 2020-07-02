@@ -1,6 +1,9 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/block",
+	"textures":{
+		"particle":"#dirt"
+	},
 	"elements":[
 		{
 			"from":[13,15,0],
