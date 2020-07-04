@@ -2,20 +2,19 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"block/allium",
-		"particle":"block/allium"
+		"particle":"block/allium",
+		"cross":"block/allium"
 	},
 	"elements":[
 		{
 			"from":[7.5,0,7.5],
-			"to":[8.5,14,8.5],
+			"to":[8.5,8,8.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,11,8]},
 			"faces":{
-				"north":{"uv":[7,2,8,16],"texture":"#cross"},
-				"east":{"uv":[7,2,8,16],"texture":"#cross"},
-				"south":{"uv":[7,2,8,16],"texture":"#cross"},
-				"west":{"uv":[7,2,8,16],"texture":"#cross"},
-				"up":{"uv":[7,2,8,3],"texture":"#cross"},
+				"north":{"uv":[7,8,8,16],"texture":"#cross"},
+				"east":{"uv":[7,8,8,16],"texture":"#cross"},
+				"south":{"uv":[7,8,8,16],"texture":"#cross"},
+				"west":{"uv":[7,8,8,16],"texture":"#cross"},
 				"down":{"uv":[7,15,8,16],"texture":"#cross","cullface":"down"}
 			}
 		},
