@@ -77,7 +77,6 @@
 			"from":[8,0,12],
 			"to":[9,1,15],
 			"faces":{
-				"north":{"uv":[9,13,8,14],"texture":"#line","tintindex":0},
 				"east":{"uv":[8,12,9,15],"texture":"#line","tintindex":0},
 				"south":{"uv":[8,14,9,15],"texture":"#line","tintindex":0},
 				"west":{"uv":[8,12,9,15],"texture":"#line","tintindex":0},
