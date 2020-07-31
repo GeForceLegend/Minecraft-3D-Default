@@ -3,8 +3,8 @@
 	"ambientocclusion":false,
 	"textures":{
 		"cross":"block/red_mushroom",
-		"flowerpot":"block/flower_pot",
 		"particle":"block/flower_pot",
+		"flowerpot":"block/flower_pot",
 		"dirt":"block/dirt"
 	},
 	"elements":[
@@ -28,7 +28,7 @@
 				"east":{"uv":[11,11,5,13],"texture":"#cross"},
 				"south":{"uv":[12,11,10,13],"texture":"#cross"},
 				"west":{"uv":[4,11,12,13],"texture":"#cross"},
-				"up":{"uv":[4,11,8,13],"rotation":270,"texture":"#cross"},
+				"up":{"uv":[9,10,11,12],"texture":"#cross"},
 				"down":{"uv":[12,11,4,13],"rotation":90,"texture":"#cross"}
 			}
 		},
@@ -41,7 +41,7 @@
 				"east":{"uv":[6,11,4,13],"texture":"#cross"},
 				"south":{"uv":[11,11,5,13],"texture":"#cross"},
 				"west":{"uv":[12,11,10,13],"texture":"#cross"},
-				"up":{"uv":[4,11,8,13],"texture":"#cross"},
+				"up":{"uv":[11,10,9,12],"texture":"#cross"},
 				"down":{"uv":[12,11,4,13],"texture":"#cross"}
 			}
 		},
