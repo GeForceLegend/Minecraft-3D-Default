@@ -1,5 +1,5 @@
 {
-	"__comment":"DesignedbyGeForceLegend",
+	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
 		"line":"blocks/redstone_dust_line",
@@ -67,10 +67,10 @@
 		},
 		{
 			"from":[9,0,8],
-			"to":[11,1,9],
+			"to":[10,1,9],
 			"faces":{
-				"north":{"uv":[11,8,9.0012,9],"texture":"#line","tintindex":0},
-				"south":{"uv":[9.0012,8,11,9],"texture":"#line","tintindex":0},
+				"north":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0},
+				"south":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0},
 				"west":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0}
 			}
 		},
@@ -80,17 +80,16 @@
 			"faces":{
 				"north":{"uv":[11,7,10.1,8],"texture":"#line","tintindex":0},
 				"east":{"uv":[11,10,10.1,7],"rotation":270,"texture":"#line","tintindex":0},
-				"south":{"uv":[10.1,9.1,11,10],"texture":"#line","tintindex":0},
 				"west":{"uv":[10.1,7,11,10],"rotation":270,"texture":"#line","tintindex":0}
 			}
 		},
 		{
-			"from":[11,0,9],
+			"from":[10,0,9],
 			"to":[12,1,10],
 			"faces":{
 				"north":{"uv":[12,9.1,11.1,10],"texture":"#line","tintindex":0},
 				"east":{"uv":[12,10,11.1,9.1],"texture":"#line","tintindex":0},
-				"south":{"uv":[11.1,9.1,12,10],"texture":"#line","tintindex":0}
+				"south":{"uv":[10.0025,9.1,12,10],"texture":"#line","tintindex":0}
 			}
 		},
 		{
@@ -173,19 +172,18 @@
 			}
 		},
 		{
-			"from":[15,5,7],
+			"from":[15,6,7],
 			"to":[16,7,8],
 			"faces":{
-				"north":{"uv":[9.0012,8,11,9],"rotation":90,"texture":"#line","tintindex":0},
-				"south":{"uv":[11,8,9.0012,9],"rotation":270,"texture":"#line","tintindex":0},
-				"up":{"uv":[10,9,9.1,8],"texture":"#line","tintindex":0}
+				"north":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0},
+				"south":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0},
+				"up":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0}
 			}
 		},
 		{
 			"from":[15,5,6],
 			"to":[16,6,9],
 			"faces":{
-				"north":{"uv":[10.1,9.1,11,10],"texture":"#line","tintindex":0},
 				"south":{"uv":[11,7,10.1,8],"texture":"#line","tintindex":0},
 				"up":{"uv":[11,10,10.1,7],"texture":"#line","tintindex":0},
 				"down":{"uv":[11,7,10.1,10],"texture":"#line","tintindex":0}
@@ -193,9 +191,9 @@
 		},
 		{
 			"from":[15,4,6],
-			"to":[16,5,7],
+			"to":[16,6,7],
 			"faces":{
-				"north":{"uv":[11.1,9.1,12,10],"texture":"#line","tintindex":0},
+				"north":{"uv":[10.0025,9.1,12,10],"rotation":90,"texture":"#line","tintindex":0},
 				"south":{"uv":[12,9.1,11.1,10],"texture":"#line","tintindex":0},
 				"down":{"uv":[12,10,11.1,9.1],"texture":"#line","tintindex":0}
 			}
@@ -280,12 +278,12 @@
 			}
 		},
 		{
-			"from":[0,5,8],
+			"from":[0,6,8],
 			"to":[1,7,9],
 			"faces":{
-				"north":{"uv":[11,8,9.0012,9],"rotation":270,"texture":"#line","tintindex":0},
-				"south":{"uv":[9.0012,8,11,9],"rotation":90,"texture":"#line","tintindex":0},
-				"up":{"uv":[10,9,9.1,8],"texture":"#line","tintindex":0}
+				"north":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0},
+				"south":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0},
+				"up":{"uv":[9.1,8,10,9],"texture":"#line","tintindex":0}
 			}
 		},
 		{
@@ -293,17 +291,16 @@
 			"to":[1,6,10],
 			"faces":{
 				"north":{"uv":[11,7,10.1,8],"texture":"#line","tintindex":0},
-				"south":{"uv":[10.1,9.1,11,10],"texture":"#line","tintindex":0},
 				"up":{"uv":[11,7,10.1,10],"texture":"#line","tintindex":0},
 				"down":{"uv":[11,10,10.1,7],"texture":"#line","tintindex":0}
 			}
 		},
 		{
 			"from":[0,4,9],
-			"to":[1,5,10],
+			"to":[1,6,10],
 			"faces":{
 				"north":{"uv":[12,9.1,11.1,10],"texture":"#line","tintindex":0},
-				"south":{"uv":[11.1,9.1,12,10],"texture":"#line","tintindex":0},
+				"south":{"uv":[10.0025,9.1,12,10],"rotation":90,"texture":"#line","tintindex":0},
 				"down":{"uv":[12,10,11.1,9.1],"texture":"#line","tintindex":0}
 			}
 		},
