@@ -3,10 +3,11 @@
 	"textures":{
 		"bottle":"blocks/brewing_stand_bottle",
 		"base":"blocks/brewing_stand_base",
-		"stand":"blocks/brewing_stand",
-		"particle":"blocks/brewing_stand"
+		"particle":"blocks/brewing_stand",
+		"stand":"blocks/brewing_stand"
 	},
-	"elements":[{
+	"elements":[
+		{
 			"from":[7,1,7],
 			"to":[9,13.99,9],
 			"faces":{
@@ -94,23 +95,21 @@
 		},
 		{
 			"from":[9,3,7.5],
-			"to":[11,14,8.5],
+			"to":[11,12,8.5],
 			"faces":{
-				"north":{"uv":[5,2,6.9988,13],"texture":"#stand"},
-				"east":{"uv":[5,2,5.9,13],"texture":"#stand"},
-				"south":{"uv":[6.9988,2,5,13],"texture":"#stand"},
-				"west":{"uv":[6,2,6.9,13],"texture":"#stand"},
-				"up":{"uv":[6.9988,2,5,2.9],"texture":"#stand"},
+				"north":{"uv":[5,4,6.9988,13],"texture":"#stand"},
+				"east":{"uv":[5,4,5.9,13],"texture":"#stand"},
+				"south":{"uv":[6.9988,4,5,13],"texture":"#stand"},
 				"down":{"uv":[6.9988,12.1,5,13],"texture":"#stand"}
 			}
 		},
 		{
-			"from":[11,12,7.5],
+			"from":[9,12,7.5],
 			"to":[12,14,8.5],
 			"faces":{
-				"north":{"uv":[4,2,4.9,3.995],"texture":"#stand"},
-				"south":{"uv":[4,2,4.9,3.995],"texture":"#stand"},
-				"up":{"uv":[4,2,4.9,2.9],"texture":"#stand"},
+				"north":{"uv":[4,2,6.9988,3.995],"texture":"#stand"},
+				"south":{"uv":[4,2,6.9988,3.995],"texture":"#stand"},
+				"up":{"uv":[4,2,6.9988,2.9],"texture":"#stand"},
 				"down":{"uv":[4,3,4.9,3.9],"texture":"#stand"}
 			}
 		},
@@ -145,8 +144,7 @@
 				"east":{"uv":[0,0,10,10],"texture":"#bottle"},
 				"south":{"uv":[0,0,10,10],"texture":"#bottle"},
 				"west":{"uv":[0,0,10,10],"texture":"#bottle"},
-				"up":{"uv":[0,0,10,10],"texture":"#bottle"},
-				"down":{"uv":[0,0,10,10],"texture":"#bottle"}
+				"up":{"uv":[0,0,10,10],"texture":"#bottle"}
 			}
 		},
 		{
@@ -297,8 +295,7 @@
 				"east":{"uv":[0,0,10,10],"texture":"#bottle"},
 				"south":{"uv":[0,0,10,10],"texture":"#bottle"},
 				"west":{"uv":[0,0,10,10],"texture":"#bottle"},
-				"up":{"uv":[0,0,10,10],"texture":"#bottle"},
-				"down":{"uv":[0,0,10,10],"texture":"#bottle"}
+				"up":{"uv":[0,0,10,10],"texture":"#bottle"}
 			}
 		},
 		{
@@ -449,8 +446,7 @@
 				"east":{"uv":[0,0,10,10],"texture":"#bottle"},
 				"south":{"uv":[0,0,10,10],"texture":"#bottle"},
 				"west":{"uv":[0,0,10,10],"texture":"#bottle"},
-				"up":{"uv":[0,0,10,10],"texture":"#bottle"},
-				"down":{"uv":[0,0,10,10],"texture":"#bottle"}
+				"up":{"uv":[0,0,10,10],"texture":"#bottle"}
 			}
 		},
 		{
