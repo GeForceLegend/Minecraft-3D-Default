@@ -2,24 +2,23 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"texture":"blocks/brewing_stand",
-		"particle":"blocks/brewing_stand"
+		"particle":"blocks/brewing_stand",
+		"texture":"blocks/brewing_stand"
 	},
 	"elements":[
 		{
 			"from":[9,3,7.5],
 			"to":[11,14,8.5],
 			"faces":{
-				"east":{"uv":[10.1,2,10.9,13],"texture":"#texture"},
-				"up":{"uv":[9.0012,2.9,11,2],"texture":"#texture"},
+				"east":{"uv":[10.1,2,11,13],"texture":"#texture"},
 				"down":{"uv":[9.0012,12.1,11,13],"texture":"#texture"}
 			}
 		},
 		{
-			"from":[11,12,7.5],
+			"from":[9,12,7.5],
 			"to":[12,14,8.5],
 			"faces":{
-				"up":{"uv":[11.1,2.9,12,2],"texture":"#texture"},
+				"up":{"uv":[9.0012,2.9,12,2],"texture":"#texture"},
 				"down":{"uv":[11.1,3,12,3.9],"texture":"#texture"}
 			}
 		},
@@ -27,10 +26,10 @@
 			"from":[12,7,7.5],
 			"to":[13,16,8.5],
 			"faces":{
-				"east":{"uv":[12.1,0,12.9,9],"texture":"#texture"},
-				"west":{"uv":[12.1,0,12.9,9],"texture":"#texture"},
-				"up":{"uv":[12.1,0.1,12.9,0.9],"texture":"#texture","cullface":"up"},
-				"down":{"uv":[12.1,8.1,12.9,8.9],"texture":"#texture"}
+				"east":{"uv":[12.1,0,13,9],"texture":"#texture"},
+				"west":{"uv":[12.1,0,13,9],"texture":"#texture"},
+				"up":{"uv":[12.1,0.1,13,0.9],"texture":"#texture","cullface":"up"},
+				"down":{"uv":[12.1,8.1,13,8.9],"texture":"#texture"}
 			}
 		},
 		{
