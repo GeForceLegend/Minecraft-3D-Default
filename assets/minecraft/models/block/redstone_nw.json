@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"cross":"blocks/redstone_dust_cross",
-		"particle":"blocks/redstone_dust_cross"
+		"particle":"blocks/redstone_dust_cross",
+		"cross":"blocks/redstone_dust_cross"
 	},
 	"elements":[
 		{
@@ -13,7 +13,7 @@
 				"north":{"uv":[0.9,7,0,8],"texture":"#cross","tintindex":0},
 				"east":{"uv":[0.9,8,0,7],"rotation":270,"texture":"#cross","tintindex":0},
 				"south":{"uv":[0,7,0.9,8],"texture":"#cross","tintindex":0},
-				"west":{"uv":[0,7,0.9,8],"rotation":270,"texture":"#cross","tintindex":0,"cullface":"west"}
+				"west":{"uv":[0,7,0.9,8],"rotation":270,"texture":"#cross","cullface":"west","tintindex":0}
 			}
 		},
 		{
@@ -28,10 +28,10 @@
 		},
 		{
 			"from":[3,0,8],
-			"to":[11,1,9],
+			"to":[9,1,9],
 			"faces":{
-				"north":{"uv":[11,8,3,9],"texture":"#cross","tintindex":0},
-				"south":{"uv":[3,8,11,9],"texture":"#cross","tintindex":0},
+				"north":{"uv":[9,8,3,9],"texture":"#cross","tintindex":0},
+				"south":{"uv":[3,8,9,9],"texture":"#cross","tintindex":0},
 				"west":{"uv":[3,8,3.9,9],"rotation":270,"texture":"#cross","tintindex":0}
 			}
 		},
@@ -83,7 +83,7 @@
 			"from":[8,0,0],
 			"to":[9,1,1],
 			"faces":{
-				"north":{"uv":[9,0,8,0.9],"texture":"#cross","tintindex":0,"cullface":"north"},
+				"north":{"uv":[9,0,8,0.9],"texture":"#cross","cullface":"north","tintindex":0},
 				"east":{"uv":[9,0.9,8,0],"rotation":270,"texture":"#cross","tintindex":0},
 				"south":{"uv":[8,0,9,0.9],"texture":"#cross","tintindex":0},
 				"west":{"uv":[8,0,9,0.9],"rotation":270,"texture":"#cross","tintindex":0}
@@ -101,10 +101,10 @@
 		},
 		{
 			"from":[8,0,5],
-			"to":[10,1,6],
+			"to":[9,1,6],
 			"faces":{
-				"north":{"uv":[10,5,8,5.9],"texture":"#cross","tintindex":0},
-				"west":{"uv":[8,5,9,5.9],"rotation":270,"texture":"#cross","tintindex":0}
+				"north":{"uv":[8,5,9,5.9],"texture":"#cross","tintindex":0},
+				"west":{"uv":[8,5,9,5.9],"texture":"#cross","tintindex":0}
 			}
 		},
 		{
@@ -140,7 +140,7 @@
 			"to":[11,1,11],
 			"faces":{
 				"up":{"uv":[-0.021,-0.021,11.0147,11.0147],"texture":"#cross","tintindex":0},
-				"down":{"uv":[-0.021,11.0147,11.0147,-0.021],"texture":"#cross","tintindex":0,"cullface":"down"}
+				"down":{"uv":[-0.021,11.0147,11.0147,-0.021],"texture":"#cross","cullface":"down","tintindex":0}
 			}
 		}
 	]
