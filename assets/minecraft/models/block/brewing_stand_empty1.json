@@ -1,8 +1,8 @@
 {
-	"__comment":"DesignedbyGeForceLegend",
+	"__comment":"Designed by GeForceLegend",
 	"textures":{
-		"texture":"block/brewing_stand",
-		"particle":"block/brewing_stand"
+		"particle":"block/brewing_stand",
+		"texture":"block/brewing_stand"
 	},
 	"elements":[
 		{
@@ -12,16 +12,15 @@
 			"faces":{
 				"east":{"uv":[9.1,2,10,13],"texture":"#texture"},
 				"west":{"uv":[10.1,2,11,13],"texture":"#texture"},
-				"up":{"uv":[11,2.9,9.0012,2],"texture":"#texture"},
 				"down":{"uv":[11,12.1,9.0012,13],"texture":"#texture"}
 			}
 		},
 		{
 			"from":[4,12,7.5],
-			"to":[5,14,8.5],
+			"to":[7,14,8.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,7,8]},
 			"faces":{
-				"up":{"uv":[11.1,2.9,12,2],"texture":"#texture"},
+				"up":{"uv":[9.0012,2.9,12,2],"texture":"#texture"},
 				"down":{"uv":[11.1,3,12,3.9],"texture":"#texture"}
 			}
 		},
