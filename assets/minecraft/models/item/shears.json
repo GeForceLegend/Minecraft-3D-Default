@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/handheld",
 	"textures":{
-		"layer0":"item/shears",
-		"particle":"item/shears"
+		"particle":"item/shears",
+		"layer0":"item/shears"
 	},
 	"elements":[
 		{
@@ -305,25 +305,24 @@
 		},
 		{
 			"from":[11,6,7.5],
-			"to":[12,8,8.5],
+			"to":[12,7,8.5],
 			"faces":{
-				"north":{"uv":[11,8,12,10],"texture":"#layer0"},
-				"east":{"uv":[11,8,12,10],"texture":"#layer0"},
-				"south":{"uv":[11,8,12,10],"texture":"#layer0"},
-				"west":{"uv":[11,8,12,10],"texture":"#layer0"},
-				"up":{"uv":[11,8,12,9],"texture":"#layer0"},
+				"north":{"uv":[11,9,12,10],"texture":"#layer0"},
+				"east":{"uv":[11,9,12,10],"texture":"#layer0"},
+				"south":{"uv":[11,9,12,10],"texture":"#layer0"},
 				"down":{"uv":[11,9,12,10],"texture":"#layer0"}
 			}
 		},
 		{
-			"from":[12,7,7.5],
+			"from":[11,7,7.5],
 			"to":[13,8,8.5],
 			"faces":{
-				"north":{"uv":[12,8,13,9],"texture":"#layer0"},
+				"north":{"uv":[13,8,11,9],"texture":"#layer0"},
 				"east":{"uv":[12,8,13,9],"texture":"#layer0"},
-				"south":{"uv":[12,8,13,9],"texture":"#layer0"},
-				"up":{"uv":[12,8,13,9],"texture":"#layer0"},
-				"down":{"uv":[12,8,13,9],"texture":"#layer0"}
+				"south":{"uv":[11,8,13,9],"texture":"#layer0"},
+				"west":{"uv":[11,8,12,9],"texture":"#layer0"},
+				"up":{"uv":[11,8,13,9],"texture":"#layer0"},
+				"down":{"uv":[11,8,13,9],"texture":"#layer0"}
 			}
 		},
 		{
