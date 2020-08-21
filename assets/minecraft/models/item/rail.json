@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/rail_flat",
+	"parent":"block/normal_rail_flat",
 	"display":{
 		"thirdperson_righthand":{
 			"rotation":[90,0,0],
