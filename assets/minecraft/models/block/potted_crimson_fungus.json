@@ -2,11 +2,11 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
+		"particle":"block/flower_pot",
 		"flowerpot":"block/flower_pot",
 		"dirt":"block/dirt",
 		"base":"block/crimson_fungus_base",
-		"fungus":"block/crimson_fungus",
-		"particle":"block/flower_pot"
+		"fungus":"block/crimson_fungus"
 	},
 	"elements":[
 		{
@@ -181,7 +181,6 @@
 				"north":{"uv":[10,7,8,9],"texture":"#base"},
 				"east":{"uv":[3,8,13,10],"texture":"#base"},
 				"south":{"uv":[5,8,3,10],"texture":"#base"},
-				"west":{"uv":[3,10,13,8],"texture":"#base"},
 				"up":{"uv":[13,10,3,8],"rotation":90,"texture":"#base"},
 				"down":{"uv":[13,8,3,10],"rotation":270,"texture":"#base"}
 			}
@@ -193,7 +192,6 @@
 			"faces":{
 				"north":{"uv":[3,8,13,10],"texture":"#base"},
 				"east":{"uv":[5,8,3,10],"texture":"#base"},
-				"south":{"uv":[3,10,13,8],"texture":"#base"},
 				"west":{"uv":[10,7,8,9],"texture":"#base"},
 				"up":{"uv":[13,10,3,8],"texture":"#base"},
 				"down":{"uv":[13,8,3,10],"texture":"#base"}
@@ -205,7 +203,6 @@
 			"rotation":{"angle":-45,"axis":"y","origin":[8,10,8]},
 			"faces":{
 				"north":{"uv":[5,8,3,10],"texture":"#base"},
-				"east":{"uv":[3,10,13,8],"texture":"#base"},
 				"south":{"uv":[10,7,8,9],"texture":"#base"},
 				"west":{"uv":[3,8,13,10],"texture":"#base"},
 				"up":{"uv":[3,8,13,10],"rotation":90,"texture":"#base"},
@@ -217,7 +214,6 @@
 			"to":[11.75,10,9.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,10,8]},
 			"faces":{
-				"north":{"uv":[3,10,13,8],"texture":"#base"},
 				"east":{"uv":[10,7,8,9],"texture":"#base"},
 				"south":{"uv":[3,8,13,10],"texture":"#base"},
 				"west":{"uv":[5,8,3,10],"texture":"#base"},
@@ -282,8 +278,7 @@
 				"east":{"uv":[9,5,10,8],"texture":"#base"},
 				"south":{"uv":[6,5,10,8],"texture":"#base"},
 				"west":{"uv":[10,5,6,8],"texture":"#base"},
-				"up":{"uv":[8,5,10,6],"texture":"#base"},
-				"down":{"uv":[0,0,0,0],"texture":"#base"}
+				"up":{"uv":[8,5,10,6],"texture":"#base"}
 			}
 		},
 		{
