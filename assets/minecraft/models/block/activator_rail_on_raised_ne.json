@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/activator_rail_raised",
+	"parent":"block/activator_rail_raised_ne",
 	"textures":{
 		"particle":"block/activator_rail_on",
 		"rail":"block/activator_rail_on"
