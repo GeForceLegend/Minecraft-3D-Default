@@ -1,0 +1,9 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/powered_rail_raised_sw",
+	"textures":{
+		"rail":"block/powered_rail_on",
+		"particle":"block/powered_rail_on",
+		"wood":"block/rail_wood_redstone_on"
+	}
+}
