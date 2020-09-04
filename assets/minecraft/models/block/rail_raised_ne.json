@@ -2,7 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"texture":"blocks/rail_normal",
+		"rail":"blocks/rail_normal",
 		"particle":"blocks/rail_normal"
 	},
 	"elements":[
