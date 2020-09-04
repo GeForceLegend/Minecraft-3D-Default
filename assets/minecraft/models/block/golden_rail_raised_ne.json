@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"rail":"blocks/rail_golden",
-		"particle":"blocks/rail_golden"
+		"particle":"blocks/rail_golden",
+		"rail":"blocks/rail_golden"
 	},
 	"elements":[
 		{
@@ -102,7 +102,7 @@
 			"to":[15,9,19.3137],
 			"rotation":{"angle":45,"axis":"x","origin":[8,8,8]},
 			"faces":{
-				"south":{"uv":[15.0088,15.1,0.9912,16],"texture":"#rail"},
+				"south":{"uv":[15.0088,15.1,0.9912,16],"texture":"#rail","cullface":"south"},
 				"up":{"uv":[15.0088,-0.01,0.9912,16.01],"texture":"#rail"},
 				"down":{"uv":[15.0088,16.01,0.9912,-0.01],"texture":"#rail"}
 			}
