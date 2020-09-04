@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/golden_rail_raised",
+	"parent":"block/golden_rail_raised_sw",
 	"textures":{
 		"rail":"blocks/rail_golden_powered",
 		"particle":"blocks/rail_golden_powered"
