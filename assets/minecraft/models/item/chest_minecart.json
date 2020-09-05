@@ -77,8 +77,8 @@
 				"north":{"uv":[0.5,0.5,1.5,2.5],"texture":"#chest"},
 				"east":{"uv":[0,0.5,0.5,2.5],"texture":"#chest"},
 				"west":{"uv":[1.5,0.5,2,2.5],"texture":"#chest"},
-				"up":{"uv":[0.5,0,1.5,0.5],"texture":"#chest"},
-				"down":{"uv":[1.5,0,2.5,0.5],"texture":"#chest"}
+				"up":{"uv":[1.5,0,0.5,0.5],"texture":"#chest"},
+				"down":{"uv":[2.5,0,1.5,0.5],"texture":"#chest"}
 			}
 		}
 	]
