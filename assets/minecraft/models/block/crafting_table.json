@@ -76,7 +76,7 @@
 		},
 		{
 			"from":[-0.9,11.99,12.01],
-			"to":[0,12.99,12.99],
+			"to":[0,12.99,13.01],
 			"faces":{
 				"west":{"uv":[12,3,13,4],"texture":"#north","cullface":"west"},
 				"up":{"uv":[12,3,13,4],"texture":"#north","cullface":"west"},
@@ -116,7 +116,7 @@
 			}
 		},
 		{
-			"from":[3.01,11.99,-0.9],
+			"from":[2.99,11.99,-0.9],
 			"to":[3.99,12.99,0],
 			"faces":{
 				"north":{"uv":[12,3,13,4],"texture":"#north","cullface":"north"},
