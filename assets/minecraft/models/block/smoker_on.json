@@ -38,8 +38,8 @@
 			"from":[13,8,0],
 			"to":[14,12,1],
 			"faces":{
-				"north":{"uv":[2,4,3,8],"texture":"#front_on","cullface":"north"},
-				"west":{"uv":[2,4,3,8],"texture":"#front_on","cullface":"north"}
+				"north":{"uv":[2,4,3,8],"texture":"#front","cullface":"north"},
+				"west":{"uv":[2,4,3,8],"texture":"#front","cullface":"north"}
 			}
 		},
 		{
