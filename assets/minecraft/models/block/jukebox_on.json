@@ -150,7 +150,6 @@
 			"to":[8,11,5],
 			"faces":{
 				"north":{"uv":[15,7,16,8],"texture":"#stylus","cullface":"up"},
-				"east":{"uv":[15,7,16,8],"texture":"#stylus","cullface":"up"},
 				"south":{"uv":[15,7,16,8],"texture":"#stylus","cullface":"up"},
 				"up":{"uv":[15,7,16,8],"texture":"#stylus","cullface":"up"},
 				"down":{"uv":[15,7,16,8],"texture":"#stylus","cullface":"up"}
