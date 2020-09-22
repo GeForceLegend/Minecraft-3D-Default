@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/piston_inventory_normal",
+	"textures":{
+		"top":"blocks/piston_top_sticky"
+	}
+}
