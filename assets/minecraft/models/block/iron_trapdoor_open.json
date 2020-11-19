@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/trapdoor_open",
+	"parent":"block/wooden_trapdoor_open",
 	"textures":{
 		"layer1":"blocks/iron_trapdoor_1",
 		"layer2":"blocks/iron_trapdoor_2",
