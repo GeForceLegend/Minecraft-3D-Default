@@ -4,12 +4,22 @@
 	"display":{
 		"gui":{
 			"rotation":[30,45,0],
-			"translation":[0,0.2,0],
+			"translation":[0,0,0],
 			"scale":[0.9,0.9,0.9]
 		},
 		"ground":{
 			"rotation":[0,0,0],
 			"translation":[0,4,0],
+			"scale":[0.5,0.5,0.5]
+		},
+		"thirdperson_righthand":{
+			"rotation":[0,0,0],
+			"translation":[0,4,1],
+			"scale":[0.55,0.55,0.55]
+		},
+		"firstperson_righthand":{
+			"rotation":[0,-90,25],
+			"translation":[1.13,2.8,1.13],
 			"scale":[0.5,0.5,0.5]
 		}
 	}
