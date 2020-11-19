@@ -2,7 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/block",
 	"textures":{
-		"all":"blocks/noteblock"
+		"all":"blocks/noteblock",
+		"particle":"blocks/noteblock"
 	},
 	"elements":[
 		{
