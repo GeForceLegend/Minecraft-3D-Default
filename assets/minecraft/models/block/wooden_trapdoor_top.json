@@ -1,9 +1,49 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/trapdoor_top",
+	"ambientocclusion":false,
 	"textures":{
 		"layer1":"blocks/oak_trapdoor_1",
 		"layer2":"blocks/oak_trapdoor_2",
 		"particle":"blocks/trapdoor"
-	}
+	},
+	"elements":[
+		{
+			"from":[3,13,13],
+			"to":[13,16,3],
+			"faces":{
+				"north":{"uv":[13,13.0063,3,16],"texture":"#layer2"},
+				"east":{"uv":[13.0063,13,16,3],"rotation":90,"texture":"#layer1"},
+				"south":{"uv":[3,0,13,2.9937],"texture":"#layer2"},
+				"west":{"uv":[0,3,2.9937,13],"rotation":90,"texture":"#layer1"}
+			}
+		},
+		{
+			"from":[3,13,6],
+			"to":[13,16,10],
+			"faces":{
+				"north":{"uv":[3,5,13,8],"texture":"#layer1"},
+				"south":{"uv":[3,8,13,11],"texture":"#layer1"}
+			}
+		},
+		{
+			"from":[6,13,3],
+			"to":[10,16,13],
+			"faces":{
+				"east":{"uv":[8,3,11,13],"rotation":90,"texture":"#layer2"},
+				"west":{"uv":[5,13,8,3],"rotation":90,"texture":"#layer2"}
+			}
+		},
+		{
+			"from":[0,13,0],
+			"to":[16,16,16],
+			"faces":{
+				"north":{"uv":[-0.026,-0.013,16.026,2.9967],"texture":"#layer1","cullface":"north"},
+				"east":{"uv":[13.0033,-0.026,16.013,16.026],"rotation":90,"texture":"#layer2","cullface":"east"},
+				"south":{"uv":[-0.026,13.0033,16.026,16.013],"texture":"#layer1","cullface":"south"},
+				"west":{"uv":[-0.013,16.026,2.9967,-0.026],"rotation":90,"texture":"#layer2","cullface":"west"},
+				"up":{"uv":[-0.026,-0.026,16.026,16.026],"texture":"#particle","cullface":"up"},
+				"down":{"uv":[-0.026,16.026,16.026,-0.026],"texture":"#particle"}
+			}
+		}
+	]
 }
