@@ -2,9 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/thin_block",
 	"textures":{
-		"particle":"block/daylight_detector_top",
-		"top":"block/daylight_detector_top",
-		"side":"block/daylight_detector_side"
+		"particle":"#top"
 	},
 	"elements":[
 		{

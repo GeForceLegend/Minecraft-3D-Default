@@ -3,8 +3,7 @@
 	"parent":"block/block",
 	"textures":{
 		"body":"block/anvil",
-		"particle":"block/anvil",
-		"top":"block/anvil_top"
+		"particle":"block/anvil"
 	},
 	"elements":[
 		{
