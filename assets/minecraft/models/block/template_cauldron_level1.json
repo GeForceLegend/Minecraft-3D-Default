@@ -6,8 +6,7 @@
 		"bottom":"block/cauldron_bottom",
 		"side":"block/cauldron_side",
 		"particle":"block/cauldron_side",
-		"inside":"block/cauldron_inner",
-		"water":"block/water_still"
+		"inside":"block/cauldron_inner"
 	},
 	"elements":[
 		{
@@ -140,9 +139,9 @@
 		},
 		{
 			"from":[2,4,2],
-			"to":[14,12,14],
+			"to":[14,9,14],
 			"faces":{
-				"up":{"uv":[2,2,14,14],"texture":"#water","cullface":"up","tintindex":0}
+				"up":{"uv":[2,2,14,14],"texture":"#content","cullface":"up","tintindex":0}
 			}
 		}
 	]
