@@ -2,8 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/block",
 	"textures":{
-		"all":"block/turtle_egg",
-		"particle":"block/turtle_egg"
+		"particle":"#all"
 	},
 	"elements":[
 		{
