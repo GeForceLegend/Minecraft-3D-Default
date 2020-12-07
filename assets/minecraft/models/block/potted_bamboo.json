@@ -65,7 +65,7 @@
 				"east":{"uv":[6,0,8,16],"texture":"#bamboo"},
 				"south":{"uv":[6,0,8,16],"texture":"#bamboo"},
 				"west":{"uv":[6,0,8,16],"texture":"#bamboo"},
-				"up":{"uv":[13,0,15,2],"texture":"#bamboo","cullface":"up"}
+				"up":{"uv":[13,0,15,2],"texture":"#bamboo"}
 			}
 		},
 		{
