@@ -359,39 +359,39 @@
 		},
 		{
 			"from":[7.5,12,9.5],
-			"to":[8.5,15,10.5],
+			"to":[8.5,13,10.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,12,8]},
 			"faces":{
-				"north":{"uv":[10,1,11,4],"texture":"#cross"},
-				"east":{"uv":[10,1,11,4],"texture":"#cross"},
-				"south":{"uv":[10,1,11,4],"texture":"#cross"},
-				"west":{"uv":[10,1,11,4],"texture":"#cross"},
-				"up":{"uv":[10,1,11,2],"rotation":270,"texture":"#cross"},
-				"down":{"uv":[10,3,11,4],"rotation":90,"texture":"#cross"}
+				"north":{"uv":[10,3,11,4],"texture":"#cross"},
+				"east":{"uv":[10,3,11,4],"texture":"#cross"},
+				"south":{"uv":[10,3,11,4],"texture":"#cross"},
+				"west":{"uv":[10,3,11,4],"texture":"#cross"},
+				"down":{"uv":[10,3,11,4],"texture":"#cross"}
 			}
 		},
 		{
-			"from":[7.5,14,10.5],
-			"to":[8.5,16,12.5],
+			"from":[7.5,14,9.5],
+			"to":[8.5,15,12.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,12,8]},
 			"faces":{
-				"north":{"uv":[11,0,12,2],"texture":"#cross"},
-				"east":{"uv":[13,0,11,2],"texture":"#cross"},
-				"south":{"uv":[12,0,13,2],"texture":"#cross"},
-				"west":{"uv":[11,0,13,2],"texture":"#cross"},
-				"up":{"uv":[13,0,11,1],"rotation":270,"texture":"#cross"},
+				"north":{"uv":[10,1,11,2],"texture":"#cross"},
+				"east":{"uv":[13,1,10,2],"texture":"#cross"},
+				"south":{"uv":[12,1,13,2],"texture":"#cross"},
+				"west":{"uv":[10,1,13,2],"texture":"#cross"},
+				"up":{"uv":[10,1,11,2],"texture":"#cross"},
 				"down":{"uv":[13,1,11,2],"rotation":90,"texture":"#cross"}
 			}
 		},
 		{
-			"from":[7.5,15,12.5],
+			"from":[7.5,15,10.5],
 			"to":[8.5,16,13.5],
 			"rotation":{"angle":-45,"axis":"y","origin":[8,12,8]},
 			"faces":{
-				"east":{"uv":[13,0,14,1],"texture":"#cross"},
+				"north":{"uv":[11,0,12,1],"texture":"#cross"},
+				"east":{"uv":[14,0,11,1],"texture":"#cross"},
 				"south":{"uv":[13,0,14,1],"texture":"#cross"},
-				"west":{"uv":[13,0,14,1],"texture":"#cross"},
-				"up":{"uv":[13,0,14,1],"rotation":270,"texture":"#cross"},
+				"west":{"uv":[11,0,14,1],"texture":"#cross"},
+				"up":{"uv":[11,0,14,1],"rotation":90,"texture":"#cross"},
 				"down":{"uv":[13,0,14,1],"rotation":90,"texture":"#cross"}
 			}
 		},
