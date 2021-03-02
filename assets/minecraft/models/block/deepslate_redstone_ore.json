@@ -2,6 +2,6 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/redstone_ore",
 	"textures":{
-		"all":"block/redstone_ore_on"
+		"all":"block/deepslate_redstone_ore"
 	}
 }
