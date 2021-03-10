@@ -1,5 +1,13 @@
 # GeForceLegend's 3D Default
-# ![img](https://attachment.mcbbs.net/forum/202005/10/130802js188ia9tdt111gz.png)
+
+[![totalDownload](https://img.shields.io/github/downloads/geforcelegend/minecraft-3d-default/total)](https://github.com/GeForceLegend/Minecraft-3D-Default/releases)
+[![downloads](https://img.shields.io/github/downloads/geforcelegend/minecraft-3d-default/latest/total)](https://github.com/GeForceLegend/Minecraft-3D-Default/releases/latest)
+[![licence](https://img.shields.io/github/license/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default/blob/1.17_snapshot/LICENSE)
+[![stars](https://img.shields.io/github/stars/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default)
+[![release](https://img.shields.io/github/v/release/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default/releases/latest)
+
+# ![img](https://attachment.mcbbs.net/data/myattachment/forum/202005/10/130802js188ia9tdt111gz.png)
+
 ## More information can be found [here](https://www.mcbbs.net/thread-914350-1-1.html) (Written in Chinese)
 
 *This resourcepack is for Minecraft Java Edition only.*
@@ -20,14 +28,14 @@ Donation: https://afdian.net/@geforcelegend (Please use CNY)
 
 - Optifine self-illuminating textures(not support 1.8 with Optifine version below L5);
 
-- Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition. Please choose no_Optifine edition when you are not using Optifine.)
+- Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition in Minecraft 1.8.9 to 1.13.2 . Please choose NonOf edition when you are not using Optifine in these Minecraft versions.)
 
 - PBR self-illuminating textures(Only supported by few shaders such as [Wisom Shader](https://github.com/bobcao3/Wisdom-Shaders).)
 
 - 3D Models for few mods:
 
- > TwilightForest(1.12, waiting for TF updates to higher Minecraft version)
-TinkersConstruct(1.10-1.12)
+  - TwilightForest(1.12, waiting for TF updates to higher Minecraft version)
 
+  - TinkersConstruct(1.10-1.12)
 
 - More features are coming soom.
