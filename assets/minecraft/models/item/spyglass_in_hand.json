@@ -1,7 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"textures":{
-		"spyglass":"item/spyglass"
+		"spyglass":"item/spyglass_model"
 	},
 	"elements":[
 		{
