@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"minecraft:block/cube_column",
+	"parent":"block/cube_column",
 	"textures":{
 		"end":"block/lodestone_top",
 		"side":"block/lodestone_side"
