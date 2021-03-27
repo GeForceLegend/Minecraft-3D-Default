@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"models":[
+		{
+			"model":"conduit_base.jpm",
+			"part":"base",
+			"translate":[3,3,-3],
+			"rotate":[0,0,0]
+		}
+	]
+}
