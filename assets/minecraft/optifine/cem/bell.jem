@@ -4,7 +4,6 @@
 	"models":[
 		{
 			"part":"body",
-			"id":"body",
 			"invertAxis":"xy",
 			"translate":[-4,-1,-4],
 			"animations":[
