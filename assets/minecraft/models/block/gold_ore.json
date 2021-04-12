@@ -147,15 +147,6 @@
 			}
 		},
 		{
-			"from":[9,15,10],
-			"to":[10,16,11],
-			"faces":{
-				"east":{"uv":[9,10,10,11],"texture":"#all","cullface":"up"},
-				"south":{"uv":[9,10,10,11],"texture":"#all","cullface":"up"},
-				"up":{"uv":[9,10,10,11],"texture":"#all","cullface":"up"}
-			}
-		},
-		{
 			"from":[13,15,8],
 			"to":[15,16,11],
 			"faces":{
@@ -178,10 +169,12 @@
 		},
 		{
 			"from":[6,15,9],
-			"to":[7,16,10],
+			"to":[10,15.99,11],
 			"faces":{
 				"north":{"uv":[6,9,7,10],"texture":"#all","cullface":"up"},
-				"up":{"uv":[6,9,7,10],"texture":"#all","cullface":"up"}
+				"east":{"uv":[9,9,10,11],"rotation":90,"texture":"#all","cullface":"up"},
+				"south":{"uv":[6,10,10,11],"texture":"#all","cullface":"up"},
+				"up":{"uv":[6,9,10,11],"texture":"#all","cullface":"up"}
 			}
 		},
 		{
@@ -389,11 +382,13 @@
 			}
 		},
 		{
-			"from":[6,0,6],
-			"to":[7,1,7],
+			"from":[6,0.01,5],
+			"to":[10,1,7],
 			"faces":{
+				"north":{"uv":[10,10,9,11],"texture":"#all","cullface":"down"},
+				"east":{"uv":[9,11,10,9],"rotation":90,"texture":"#all","cullface":"down"},
 				"south":{"uv":[7,9,6,10],"texture":"#all","cullface":"down"},
-				"down":{"uv":[6,9,7,10],"texture":"#all","cullface":"down"}
+				"down":{"uv":[6,9,10,11],"texture":"#all","cullface":"down"}
 			}
 		},
 		{
@@ -415,15 +410,6 @@
 				"south":{"uv":[7,7,13,8],"texture":"#all","cullface":"down"},
 				"west":{"uv":[7,10,8,7],"rotation":270,"texture":"#all","cullface":"down"},
 				"down":{"uv":[7,7,13,10],"texture":"#all","cullface":"down"}
-			}
-		},
-		{
-			"from":[9,0,5],
-			"to":[10,1,6],
-			"faces":{
-				"north":{"uv":[10,10,9,11],"texture":"#all","cullface":"down"},
-				"east":{"uv":[9,10,10,11],"rotation":180,"texture":"#all","cullface":"down"},
-				"down":{"uv":[9,10,10,11],"texture":"#all","cullface":"down"}
 			}
 		},
 		{
@@ -1002,10 +988,10 @@
 			"from":[15,5,6],
 			"to":[15.99,7,10],
 			"faces":{
-				"north":{"uv":[6,9,7,10],"texture":"#all","cullface":"east"},
+				"north":{"uv":[9,9,10,11],"texture":"#all","cullface":"east"},
 				"east":{"uv":[6,9,10,11],"texture":"#all","cullface":"east"},
 				"up":{"uv":[6,9,7,10],"texture":"#all","cullface":"east"},
-				"down":{"uv":[6,9,7,10],"texture":"#all","cullface":"east"}
+				"down":{"uv":[6,10,10,11],"rotation":90,"texture":"#all","cullface":"east"}
 			}
 		},
 		{
