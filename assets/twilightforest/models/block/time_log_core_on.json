@@ -1,0 +1,9 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"twilightforest:block/time_log_core",
+	"textures":{
+		"end":"twilightforest:block/time_log_top",
+		"side":"twilightforest:block/time_log_core_on",
+		"particle":"twilightforest:block/time_log_core_on"
+	}
+}

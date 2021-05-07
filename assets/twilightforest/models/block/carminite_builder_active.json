@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"twilightforest:block/template_tower_device_all",
+	"textures":{
+		"all":"twilightforest:block/towerdev_builder_on"
+	}
+}

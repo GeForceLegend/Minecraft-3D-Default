@@ -1,0 +1,9 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"twilightforest:block/template_jar",
+	"textures":{
+		"side":"twilightforest:block/fireflyjar_side",
+		"end":"twilightforest:block/fireflyjar_top",
+		"cork":"twilightforest:block/fireflyjar_cork"
+	}
+}

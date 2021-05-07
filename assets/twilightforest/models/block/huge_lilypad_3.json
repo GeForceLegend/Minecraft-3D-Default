@@ -1,0 +1,7 @@
+{
+	"parent":"twilightforest:block/huge_lilypad",
+	"textures":{
+		"texture":"twilightforest:block/huge_lilypad_3",
+		"particle":"#texture"
+	}
+}

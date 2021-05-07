@@ -1,0 +1,10 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"twilightforest:block/template_tower_device_top_on",
+	"textures":{
+		"top":"twilightforest:block/towerdev_ghasttraplid_on",
+		"top2":"twilightforest:block/towerdev_ghasttraplid_off",
+		"side":"twilightforest:block/towerdev_ghasttrap_on",
+		"bottom":"twilightforest:block/tower_wood_encased"
+	}
+}

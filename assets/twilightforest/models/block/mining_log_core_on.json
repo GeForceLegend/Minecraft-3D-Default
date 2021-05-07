@@ -1,0 +1,9 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"twilightforest:block/mining_log_core",
+	"textures":{
+		"end":"twilightforest:block/mining_log_top",
+		"side":"twilightforest:block/mining_log_core_on",
+		"particle":"twilightforest:block/mining_log_core_on"
+	}
+}
