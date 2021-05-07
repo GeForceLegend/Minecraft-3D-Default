@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"gui_light":"front",
 	"textures":{
 		"layer1":"item/empty",
 		"particle":"#layer0"
@@ -559,11 +560,6 @@
 			"rotation":[0,180,0],
 			"translation":[0,0,0.6],
 			"scale":[1,1,1]
-		},
-		"gui":{
-			"rotation":[-30,0,0],
-			"translation":[0,0,0],
-			"scale":[1,1.15,0.1]
 		}
 	}
 }
