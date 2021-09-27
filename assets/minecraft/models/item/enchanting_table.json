@@ -5,8 +5,8 @@
 		"book":"item/enchanting_table_book",
 		"bottom":"block/enchanting_table_bottom",
 		"top":"block/enchanting_table_top",
-		"side":"block/enchanting_table_side",
-		"particle":"block/enchanting_table_side"
+		"particle":"block/enchanting_table_side",
+		"side":"block/enchanting_table_side"
 	},
 	"elements":[
 		{
@@ -136,8 +136,8 @@
 				"east":{"uv":[9,5.5,9.5,9.5],"texture":"#book"},
 				"south":{"uv":[6.5,5,9,5.5],"texture":"#book"},
 				"west":{"uv":[6,5.5,6.5,9.5],"texture":"#book"},
-				"up":{"uv":[6.5,5.5,9,9.5],"texture":"#book"},
-				"down":{"uv":[6.5,9.5,9,5.5],"texture":"#book"}
+				"up":{"uv":[12,9.5,9.5,5.5],"texture":"#book"},
+				"down":{"uv":[6.5,5.5,9,9.5],"texture":"#book"}
 			}
 		},
 		{
@@ -149,8 +149,8 @@
 				"east":{"uv":[6.5,5.5,6,9.5],"texture":"#book"},
 				"south":{"uv":[9,5,6.5,5.5],"texture":"#book"},
 				"west":{"uv":[9.5,5.5,9,9.5],"texture":"#book"},
-				"up":{"uv":[0.5,5.5,3,9.5],"texture":"#book"},
-				"down":{"uv":[0.5,9.5,3,5.5],"texture":"#book"}
+				"up":{"uv":[3,9.5,0.5,5.5],"texture":"#book"},
+				"down":{"uv":[3.5,5.5,6,9.5],"texture":"#book"}
 			}
 		},
 		{
@@ -158,8 +158,8 @@
 			"to":[13,14.01,12],
 			"rotation":{"angle":45,"axis":"z","origin":[8,14,8]},
 			"faces":{
-				"up":{"uv":[2.5,9.5,5,13.5],"texture":"#book"},
-				"down":{"uv":[5,9.5,2.5,13.5],"texture":"#book"}
+				"up":{"uv":[5,13.5,2.5,9.5],"texture":"#book"},
+				"down":{"uv":[0,9.5,2.5,13.5],"texture":"#book"}
 			}
 		},
 		{
@@ -167,8 +167,8 @@
 			"to":[8,14.01,12],
 			"rotation":{"angle":-45,"axis":"z","origin":[8,14,8]},
 			"faces":{
-				"up":{"uv":[0,9.5,2.5,13.5],"texture":"#book"},
-				"down":{"uv":[2.5,9.5,0,13.5],"texture":"#book"}
+				"up":{"uv":[2.5,13.5,0,9.5],"texture":"#book"},
+				"down":{"uv":[2.5,9.5,5,13.5],"texture":"#book"}
 			}
 		}
 	],
