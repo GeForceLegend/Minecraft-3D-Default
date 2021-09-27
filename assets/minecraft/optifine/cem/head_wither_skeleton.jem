@@ -1,0 +1,13 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textureSize":[64,32],
+	"shadowSize":0.5,
+	"models":[
+		{
+			"model":"skeleton_head.jpm",
+			"part":"head",
+			"translate":[-8,-8,-8],
+			"rotate":[0,0,0]
+		}
+	]
+}
