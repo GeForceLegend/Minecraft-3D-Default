@@ -6,7 +6,7 @@
 [![stars](https://img.shields.io/github/stars/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default)
 [![release](https://img.shields.io/github/v/release/geforcelegend/minecraft-3d-default)](https://github.com/GeForceLegend/Minecraft-3D-Default/releases/latest)
 
-# ![img](https://attachment.mcbbs.net/data/myattachment/forum/202005/10/130802js188ia9tdt111gz.png)
+# ![img](https://z3.ax1x.com/2021/06/28/RNPwgU.png)
 
 ## More information can be found [here](https://www.mcbbs.net/thread-914350-1-1.html) (Written in Chinese)
 
