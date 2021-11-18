@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"item/generated",
+	"parent":"item/display_generated",
 	"textures":{
 		"back":"items/clock_back",
 		"layer0":"items/clock_00"
