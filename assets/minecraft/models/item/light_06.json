@@ -1,7 +1,0 @@
-{
-	"__comment":"Designed by GeForceLegend",
-    "parent":"item/generated_builtin",
-    "textures":{
-        "layer0":"item/light_06"
-    }
-}
