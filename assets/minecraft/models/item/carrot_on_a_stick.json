@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"item/handheld_rod",
+	"parent":"item/display_handheld_rod",
 	"textures":{
 		"particle":"item/carrot_on_a_stick",
 		"layer0":"item/carrot_on_a_stick"
