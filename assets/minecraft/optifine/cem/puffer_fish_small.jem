@@ -4,40 +4,120 @@
 	"shadowSize":0.4,
 	"models":[
 		{
-			"model":"puffer_fish_small_body.jpm",
 			"part":"body",
 			"translate":[0,0,0],
-			"rotate":[0,0,0]
+			"rotate":[0,0,0],
+			"boxes":[
+				{
+					"coordinates":[-1.5,-2,-1.5,3,2,3],
+					"uvNorth":[3,30,6,32],
+					"uvEast":[0,30,3,32],
+					"uvSouth":[9,30,12,32],
+					"uvWest":[6,30,9,32],
+					"uvUp":[3,30,6,27],
+					"uvDown":[6,27,9,30]
+				}
+			]
 		},
 		{
-			"model":"puffer_fish_small_eye.jpm",
 			"part":"eye_left",
 			"translate":[1,0,0],
-			"rotate":[0,0,0]
+			"rotate":[0,0,0],
+			"boxes":[
+				{
+					"coordinates":[-0.5,0,-1.5,1,1,1],
+					"uvNorth":[25,7,26,8],
+					"uvEast":[24,7,25,8],
+					"uvSouth":[27,7,28,8],
+					"uvWest":[26,7,27,8],
+					"uvUp":[25,6,26,7]
+				}
+			]
 		},
 		{
-			"model":"puffer_fish_small_eye.jpm",
 			"part":"eye_right",
 			"translate":[-1,0,0],
-			"rotate":[0,0,0]
+			"rotate":[0,0,0],
+			"boxes":[
+				{
+					"coordinates":[-0.5,0,-1.5,1,1,1],
+					"uvNorth":[25,7,26,8],
+					"uvEast":[24,7,25,8],
+					"uvSouth":[27,7,28,8],
+					"uvWest":[26,7,27,8],
+					"uvUp":[25,6,26,7]
+				}
+			]
 		},
 		{
-			"model":"puffer_fish_small_tail.jpm",
 			"part":"tail",
 			"translate":[0,0,0],
-			"rotate":[0,0,0]
+			"rotate":[0,0,0],
+			"boxes":[
+				{
+					"coordinates":[-1.49,-0.3,0,2.98,0.6,1],
+					"uvNorth":[0,2,1,3],
+					"uvEast":[0,2,1,3],
+					"uvSouth":[0,2,1,3],
+					"uvWest":[0,2,1,3],
+					"uvUp":[0,2,1,3],
+					"uvDown":[0,2,1,3]
+				},
+				{
+					"coordinates":[-1.5,-0.1,1,3,0.2,1],
+					"uvEast":[2,1,3,2],
+					"uvSouth":[0,1,3,2],
+					"uvWest":[0,1,1,2],
+					"uvUp":[0,1,3,2],
+					"uvDown":[0,1,3,2]
+				},
+				{
+					"coordinates":[0.5,-0.1,2,1,0.2,1],
+					"uvEast":[0,0,1,1],
+					"uvSouth":[0,0,1,1],
+					"uvWest":[0,0,1,1],
+					"uvUp":[0,0,1,1],
+					"uvDown":[0,0,1,1]
+				},
+				{
+					"coordinates":[-1.5,-0.1,2,1,0.2,1],
+					"uvEast":[2,0,3,1],
+					"uvSouth":[2,0,3,1],
+					"uvWest":[2,0,3,1],
+					"uvUp":[2,0,3,1],
+					"uvDown":[2,0,3,1]
+				}
+			]
 		},
 		{
-			"model":"puffer_fish_small_fin.jpm",
 			"part":"fin_right",
 			"translate":[0,0,0],
-			"rotate":[0,0,0]
+			"rotate":[0,0,0],
+			"boxes":[
+				{
+					"coordinates":[-1,0,0.01,1,0.1,2],
+					"uvNorth":[27,0,28,1],
+					"uvEast":[27,0,28,1],
+					"uvSouth":[27,0,28,1],
+					"uvUp":[27,0,28,1],
+					"uvDown":[27,0,28,1]
+				}
+			]
 		},
 		{
-			"model":"puffer_fish_small_fin.jpm",
 			"part":"fin_left",
 			"translate":[1,0,0],
-			"rotate":[0,0,0]
+			"rotate":[0,0,0],
+			"boxes":[
+				{
+					"coordinates":[-1,0,0.01,1,0.1,2],
+					"uvNorth":[27,0,28,1],
+					"uvSouth":[27,0,28,1],
+					"uvWest":[27,0,28,1],
+					"uvUp":[27,0,28,1],
+					"uvDown":[27,0,28,1]
+				}
+			]
 		}
 	]
 }
