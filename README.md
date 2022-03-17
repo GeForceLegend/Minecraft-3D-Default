@@ -14,7 +14,7 @@
 
 *The name of each branch is the Minecraft version supported.*
 
-*This resource pack supports Minecraft Java Edition 1.8~1.17 shapshot.*
+*This resource pack supports Minecraft Java Edition 1.8~1.19 shapshot.*
 
 If you want to use my models in your own resourcepack, please follow the [licence](./LICENCE).
 
