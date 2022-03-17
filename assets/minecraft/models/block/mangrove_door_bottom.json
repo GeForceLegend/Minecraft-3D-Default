@@ -151,7 +151,7 @@
 				"east":{"uv":[13,0,14,3],"texture":"#particle"},
 				"south":{"uv":[13,0,14,3],"texture":"#particle"},
 				"west":{"uv":[13,0,14,3],"texture":"#particle","cullface":"west"},
-				"down":{"uv":[13.01,2.01,14.01,2.99],"texture":"#particle"}
+				"down":{"uv":[13,2,14,3],"texture":"#particle"}
 			}
 		}
 	]
