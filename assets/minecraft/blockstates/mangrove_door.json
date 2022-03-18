@@ -1,4 +1,5 @@
 {
+	"__comment":"Designed by GeForceLegend",
 	"variants":{
 		"facing=east,half=lower,hinge=left,open=false":{"model":"block/mangrove_door_bottom"},
 		"facing=east,half=lower,hinge=left,open=true":{"model":"block/mangrove_door_bottom_hinge","y":90},
