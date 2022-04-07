@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"gui_light":"front",
 	"textures":{
 		"spyglass":"item/spyglass_model"
 	},
@@ -89,7 +90,6 @@
 			}
 		}
 	],
-	"gui_light":"front",
 	"display":{
 		"thirdperson_righthand":{
 			"translation":[0,-2,0]

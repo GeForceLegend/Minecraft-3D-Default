@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/recovery_compass",
+	"textures":{
+		"layer0":"item/recovery_compass_06"
+	}
+}
