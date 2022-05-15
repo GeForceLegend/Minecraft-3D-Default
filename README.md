@@ -8,6 +8,10 @@
 
 # ![img](https://z3.ax1x.com/2021/06/28/RNPwgU.png)
 
+
+
+## [CurseForge Link](https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-default)
+
 ## More information can be found [here](https://www.mcbbs.net/thread-914350-1-1.html) (Written in Chinese)
 
 *This resourcepack is for Minecraft Java Edition only.*
