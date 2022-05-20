@@ -2,20 +2,20 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"cocoa":"block/cocoa_stage2",
-		"particle":"block/cocoa_stage2"
+		"particle":"block/cocoa_stage2",
+		"cocoa":"block/cocoa_stage2"
 	},
 	"elements":[
 		{
 			"from":[4,3,7],
 			"to":[12,12,15],
 			"faces":{
-				"north":{"uv":[7,4,15,13],"texture":"#cocoa"},
-				"east":{"uv":[7,4,15,13],"texture":"#cocoa"},
-				"south":{"uv":[7,4,15,13],"texture":"#cocoa"},
-				"west":{"uv":[7,4,15,13],"texture":"#cocoa"},
-				"up":{"uv":[0,0,7,7],"texture":"#cocoa"},
-				"down":{"uv":[0,0,7,7],"texture":"#cocoa"}
+				"north":{"uv":[8,4,16,13],"texture":"#cocoa"},
+				"east":{"uv":[8,4,16,13],"texture":"#cocoa"},
+				"south":{"uv":[8,4,16,13],"texture":"#cocoa"},
+				"west":{"uv":[8,4,16,13],"texture":"#cocoa"},
+				"up":{"uv":[0,0,8,8],"texture":"#cocoa"},
+				"down":{"uv":[0,0,8,8],"texture":"#cocoa"}
 			}
 		},
 		{
