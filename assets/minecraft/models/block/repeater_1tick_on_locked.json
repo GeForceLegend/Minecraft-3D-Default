@@ -1,12 +1,12 @@
 {
-    "__comment":"Designed by GeForceLegend",
+	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
 		"slab":"block/smooth_stone",
 		"top":"block/repeater_on",
 		"particle":"block/repeater_on",
 		"lock":"block/bedrock",
-        "lit":"block/redstone_torch"
+		"lit":"block/redstone_torch"
 	},
 	"elements":[
 		{
