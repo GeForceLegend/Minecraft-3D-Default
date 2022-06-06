@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/copper_ore",
+	"textures":{
+		"all":"block/deepslate_copper_ore"
+	}
+}
