@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"minecraft:block/template_sculk_shrieker",
+	"textures":{
+		"inner_top":"minecraft:block/sculk_shrieker_can_summon_inner_top"
+	}
+}

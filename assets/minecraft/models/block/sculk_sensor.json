@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/block",
 	"textures":{
-		"particle":"block/sculk_sensor_bottom",
-		"bottom":"block/sculk_sensor_bottom",
+		"particle":"block/sculk",
+		"bottom":"block/sculk",
 		"side":"block/sculk_sensor_side",
 		"tendrils":"block/sculk_sensor_tendril_inactive",
 		"top":"block/sculk_sensor_top"
