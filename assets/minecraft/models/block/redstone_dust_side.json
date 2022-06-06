@@ -2,6 +2,6 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-        "particle":"block/redstone_dust_dot"
-    }
+		"particle":"block/redstone_dust_dot"
+	}
 }
