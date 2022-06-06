@@ -2,9 +2,9 @@
 	"__comment":"Designed by GeForceLegend",
 	"ambientocclusion":false,
 	"textures":{
-		"particle":"block/rail",
 		"rail":"block/rail",
-		"wood":"block/rail_wood"
+		"wood":"block/rail_wood",
+		"particle":"block/rail"
 	},
 	"elements":[
 		{
@@ -172,7 +172,7 @@
 			"to":[15,1.01,12],
 			"rotation":{"angle":-22.5,"axis":"y","origin":[2,0,13]},
 			"faces":{
-				"north":{"uv":[15,13,1,14],"texture":"#wood"},
+				"north":{"uv":[1,13,15,14],"texture":"#wood"},
 				"east":{"uv":[14,13,15,15],"rotation":90,"texture":"#wood"},
 				"south":{"uv":[1,14,15,15],"texture":"#wood"},
 				"west":{"uv":[1,15,2,13],"rotation":90,"texture":"#wood"},
@@ -186,7 +186,7 @@
 			"rotation":{"angle":22.5,"axis":"y","origin":[13,0,2]},
 			"faces":{
 				"north":{"uv":[1,3,2,1],"rotation":90,"texture":"#wood"},
-				"east":{"uv":[15,1,1,2],"texture":"#wood"},
+				"east":{"uv":[1,1,15,2],"texture":"#wood"},
 				"south":{"uv":[14,1,15,3],"rotation":90,"texture":"#wood"},
 				"west":{"uv":[1,2,15,3],"texture":"#wood"},
 				"up":{"uv":[1,1,15,3],"rotation":90,"texture":"#wood"},
@@ -198,7 +198,7 @@
 			"to":[19.1,0.99,7],
 			"rotation":{"angle":-45,"axis":"y","origin":[6,0,6]},
 			"faces":{
-				"north":{"uv":[15,9,1,10],"texture":"#wood"},
+				"north":{"uv":[1,9,15,10],"texture":"#wood"},
 				"east":{"uv":[14,9,15,11],"rotation":90,"texture":"#wood"},
 				"south":{"uv":[1,10,15,11],"texture":"#wood"},
 				"west":{"uv":[1,11,2,9],"rotation":90,"texture":"#wood"},
