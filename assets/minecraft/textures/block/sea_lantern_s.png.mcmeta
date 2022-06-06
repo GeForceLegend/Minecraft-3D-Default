@@ -1,5 +1,6 @@
 {
-    "animation": {
-        "frametime": 5
-    }
+	"__comment":"Designed by GeForceLegend",
+	"animation":{
+		"frametime":5
+	}
 }
