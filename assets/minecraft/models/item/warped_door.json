@@ -1,5 +1,5 @@
 {
-    "__comment":"Designed by GeForceLegend",
+	"__comment":"Designed by GeForceLegend",
 	"parent":"item/door",
 	"textures":{
 		"bottom":"block/warped_door_bottom",
