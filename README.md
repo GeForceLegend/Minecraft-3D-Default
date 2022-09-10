@@ -42,4 +42,4 @@ Donation: https://afdian.net/@geforcelegend (Please use CNY)
 
   - TinkersConstruct(1.10-1.12)
 
-- More features are coming soom.
+- More features are coming soon.
