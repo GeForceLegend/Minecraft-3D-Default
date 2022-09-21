@@ -6,16 +6,16 @@
 	},
 	"elements":[
 		{
-			"from":[5,3,7.5],
+			"from":[5,2,7.5],
 			"to":[7,14.01,8.5],
 			"rotation":{"angle":45,"axis":"y","origin":[8,8,8]},
 			"faces":{
-				"north":{"uv":[9,2,11,13],"texture":"#texture"},
-				"east":{"uv":[9,2,10,13],"texture":"#texture"},
-				"south":{"uv":[11,2,9,13],"texture":"#texture"},
-				"west":{"uv":[11,2,10,13],"texture":"#texture"},
+				"north":{"uv":[9,2,11,14],"texture":"#texture"},
+				"east":{"uv":[9,2,10,14],"texture":"#texture"},
+				"south":{"uv":[11,2,9,14],"texture":"#texture"},
+				"west":{"uv":[11,2,10,14],"texture":"#texture"},
 				"up":{"uv":[11,3,9,2],"texture":"#texture"},
-				"down":{"uv":[11,12,9,13],"texture":"#texture"}
+				"down":{"uv":[11,13,9,14],"texture":"#texture"}
 			}
 		},
 		{
