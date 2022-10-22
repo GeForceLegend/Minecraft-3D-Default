@@ -134,7 +134,7 @@
 			"faces":{
 				"north":{"uv":[3,2,13,5],"texture":"#top2"},
 				"south":{"uv":[13,2,3,5],"texture":"#top2"},
-				"up":{"uv":[14,0,4,3],"texture":"#top2"},
+				"up":{"uv":[13,0,3,3],"texture":"#top2"},
 				"down":{"uv":[13,4,3,7],"texture":"#top2"}
 			}
 		},
