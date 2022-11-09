@@ -1,0 +1,8 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/template_bamboo_block_y",
+	"textures":{
+		"side":"block/stripped_bamboo_block",
+		"top":"block/stripped_bamboo_block_top"
+	}
+}
