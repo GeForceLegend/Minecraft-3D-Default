@@ -1,4 +1,5 @@
 {
+	"__comment":"Designed by GeForceLegend",
 	"parent":"block/block",
 	"textures":{
 		"particle":"#lantern"
