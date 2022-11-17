@@ -1,0 +1,16 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textures":{
+		"texture":"block/chiseled_bookshelf_occupied"
+	},
+	"elements":[
+		{
+			"from":[11,1,0.6],
+			"to":[15,7,6],
+			"faces":{
+				"north":{"uv":[1,9,5,15],"texture":"#texture","cullface":"north"},
+				"west":{"uv":[1,9,5,15],"texture":"#texture","cullface":"north"}
+			}
+		}
+	]
+}
