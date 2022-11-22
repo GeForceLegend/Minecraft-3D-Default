@@ -1,0 +1,19 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"textures":{
+		"side":"block/chiseled_bookshelf_side",
+		"top":"block/chiseled_bookshelf_top"
+	},
+	"elements":[
+		{
+			"from":[0,0,0],
+			"to":[16,16,16],
+			"faces":{
+				"east":{"uv":[0,0,16,16],"texture":"#side","cullface":"east"},
+				"west":{"uv":[0,0,16,16],"texture":"#side","cullface":"west"},
+				"up":{"uv":[0,0,16,16],"texture":"#top","cullface":"up"},
+				"down":{"uv":[0,0,16,16],"texture":"#top","cullface":"down"}
+			}
+		}
+	]
+}
