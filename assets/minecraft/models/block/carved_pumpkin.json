@@ -126,7 +126,7 @@
 			"from":[2,7,0],
 			"to":[13,8,1],
 			"faces":{
-				"north":{"uv":[2.9784,8,14.0216,9],"texture":"#front","cullface":"north"},
+				"north":{"uv":[3,8,14,9],"texture":"#front","cullface":"north"},
 				"up":{"uv":[14,8,3,9],"texture":"#front","cullface":"north"},
 				"down":{"uv":[14,8,3,9],"texture":"#front","cullface":"north"}
 			}
