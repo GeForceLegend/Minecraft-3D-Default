@@ -11,6 +11,7 @@
 
 
 ## [CurseForge Link](https://www.curseforge.com/minecraft/texture-packs/minecraft-3d-default)
+## [Modrinth Link](https://modrinth.com/resourcepack/3d-default)
 
 ## More information can be found [here](https://www.mcbbs.net/thread-914350-1-1.html) (Written in Chinese)
 
@@ -18,7 +19,7 @@
 
 *The name of each branch is the Minecraft version supported.*
 
-*This resource pack supports Minecraft Java Edition 1.8~1.19 shapshot.*
+*This resource pack supports Minecraft Java Edition 1.8~1.20 shapshot.*
 
 If you want to use my models in your own resourcepack, please follow the [licence](./LICENCE).
 
@@ -26,7 +27,7 @@ Donation: https://afdian.net/@geforcelegend (Please use CNY)
 
 ## Features
 
-- 3D Models with default textures;
+- 3D Models with default textures, including some item models with their *actual* look;
 
 - Optifine Custom Entity Models(not support 1.8 with Optifine version below L5);
 
