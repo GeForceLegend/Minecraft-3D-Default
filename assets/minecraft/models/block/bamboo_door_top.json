@@ -32,7 +32,7 @@
 			"from":[0,13,3],
 			"to":[3,16,13],
 			"faces":{
-				"east":{"uv":[13,0,3,3],"texture":"#layer0","cullface":"west"},
+				"east":{"uv":[13,0,3,3],"texture":"#layer0"},
 				"west":{"uv":[3,0,13,3],"texture":"#layer0","cullface":"west"},
 				"up":{"uv":[6,3,9,13],"texture":"#layer1","cullface":"up"},
 				"down":{"uv":[3,2,13,3],"rotation":90,"texture":"#layer0"}
