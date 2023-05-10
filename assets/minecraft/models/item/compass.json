@@ -12,9 +12,9 @@
 			"from":[5,2,7.5],
 			"to":[11,6,8.5],
 			"faces":{
-				"east":{"uv":[10,9.9922,11,14.0078],"texture":"#front"},
+				"east":{"uv":[10,13,11,14],"texture":"#front"},
 				"south":{"uv":[5,10,11,14],"texture":"#front"},
-				"west":{"uv":[5,9.9922,6,14.0078],"texture":"#front"},
+				"west":{"uv":[5,13,6,14],"texture":"#front"},
 				"up":{"uv":[5,10,11,11],"texture":"#front"},
 				"down":{"uv":[5,13,11,14],"texture":"#front"}
 			}
@@ -23,9 +23,9 @@
 			"from":[3,3,7.5],
 			"to":[5,7,8.5],
 			"faces":{
-				"east":{"uv":[4,8.9922,5,13.0078],"texture":"#front"},
+				"east":{"uv":[4,9,5,10],"texture":"#front"},
 				"south":{"uv":[3,9,5,13],"texture":"#front"},
-				"west":{"uv":[3,8.9922,4,13.0078],"texture":"#front"},
+				"west":{"uv":[3,12,4,13],"texture":"#front"},
 				"up":{"uv":[3,9,5,10],"texture":"#front"},
 				"down":{"uv":[3,12,5,13],"texture":"#front"}
 			}
@@ -34,9 +34,9 @@
 			"from":[11,3,7.5],
 			"to":[13,7,8.5],
 			"faces":{
-				"east":{"uv":[12,8.9922,13,13.0078],"texture":"#front"},
+				"east":{"uv":[12,12,13,13],"texture":"#front"},
 				"south":{"uv":[11,9,13,13],"texture":"#front"},
-				"west":{"uv":[11,8.9922,12,13.0078],"texture":"#front"},
+				"west":{"uv":[11,9,12,10],"texture":"#front"},
 				"up":{"uv":[11,9,13,10],"texture":"#front"},
 				"down":{"uv":[11,12,13,13],"texture":"#front"}
 			}
@@ -45,9 +45,9 @@
 			"from":[2,4,7.5],
 			"to":[3,8,8.5],
 			"faces":{
-				"east":{"uv":[2,7.9922,3,12.0078],"texture":"#front"},
+				"east":{"uv":[2,8,3,9],"texture":"#front"},
 				"south":{"uv":[2,8,3,12],"texture":"#front"},
-				"west":{"uv":[2,7.9922,3,12.0078],"texture":"#front"},
+				"west":{"uv":[2,11,3,12],"texture":"#front"},
 				"up":{"uv":[2,8,3,9],"texture":"#front"},
 				"down":{"uv":[2,11,3,12],"texture":"#front"}
 			}
@@ -56,9 +56,9 @@
 			"from":[13,4,7.5],
 			"to":[14,8,8.5],
 			"faces":{
-				"east":{"uv":[2,7.9922,3,12.0078],"texture":"#front"},
+				"east":{"uv":[2,11,3,12],"texture":"#front"},
 				"south":{"uv":[2,8,3,12],"texture":"#front"},
-				"west":{"uv":[2,7.9922,3,12.0078],"texture":"#front"},
+				"west":{"uv":[2,8,3,9],"texture":"#front"},
 				"up":{"uv":[2,8,3,9],"texture":"#front"},
 				"down":{"uv":[2,11,3,12],"texture":"#front"}
 			}

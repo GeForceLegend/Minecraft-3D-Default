@@ -14,7 +14,7 @@
 			"from":[0,0,1],
 			"to":[16,16,16],
 			"faces":{
-				"north":{"uv":[-0.0314,-0.0314,16.0314,16.0314],"texture":"#front_on","cullface":"north"},
+				"north":{"uv":[0,0,16,16],"texture":"#front_on","cullface":"north"},
 				"south":{"uv":[0,0,16,16],"texture":"#side","cullface":"south"}
 			}
 		},
