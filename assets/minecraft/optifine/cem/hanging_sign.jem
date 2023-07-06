@@ -38,7 +38,6 @@
 			"part":"chain_left1",
 			"invertAxis":"xy",
 			"translate":[-5,-16,0],
-			"rotate":[0,45,0],
 			"submodels":[
 				{
 					"invertAxis":"xy",
@@ -113,11 +112,6 @@
 						}
 					]
 				}
-			],
-			"animations":[
-				{
-					"this.ry":0
-				}
 			]
 		},
 		{
@@ -130,7 +124,6 @@
 			"part":"chain_right1",
 			"invertAxis":"xy",
 			"translate":[5,-16,0],
-			"rotate":[0,45,0],
 			"submodels":[
 				{
 					"invertAxis":"xy",
@@ -204,11 +197,6 @@
 							"uvDown":[2,7,3,8]
 						}
 					]
-				}
-			],
-			"animations":[
-				{
-					"this.ry":0
 				}
 			]
 		},
