@@ -913,7 +913,7 @@
 		},
 		{
 			"from":[0,10,12],
-			"to":[2,16,13],
+			"to":[1,16,13],
 			"faces":{
 				"north":{"uv":[12,0,13,6],"texture":"#all","cullface":"west"},
 				"west":{"uv":[12,0,13,6],"texture":"#all","cullface":"west"},
