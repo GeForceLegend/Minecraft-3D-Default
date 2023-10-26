@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"credit":"DesignedbyGeForceLegend",
 	"parent":"block/block",
 	"textures":{
 		"amethyst":"block/calibrated_sculk_sensor_amethyst",

@@ -1,0 +1,11 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/copper_door",
+	"textures":{
+		"bottom1":"block/oxidized_copper_door_bottom1",
+		"bottom":"block/oxidized_copper_door_bottom",
+		"top2":"block/oxidized_copper_door_top2",
+		"top1":"block/oxidized_copper_door_top1",
+		"particle":"block/oxidized_copper_door_top"
+	}
+}

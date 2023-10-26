@@ -1,0 +1,9 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/copper_door_bottom_hinge",
+	"textures":{
+		"bottom":"block/weathered_copper_door_bottom",
+		"bottom1":"block/weathered_copper_door_bottom1",
+		"particle":"block/weathered_copper_door_bottom"
+	}
+}
