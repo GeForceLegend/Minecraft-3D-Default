@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/copper_bulb",
+	"textures":{
+		"all":"block/weathered_copper_bulb_lit"
+	}
+}
