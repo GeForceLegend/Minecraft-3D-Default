@@ -2,9 +2,9 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/copper_trapdoor_open",
 	"textures":{
-		"particle": "block/oxidized_copper_trapdoor",
-		"texture": "block/oxidized_copper_trapdoor",
-		"texture1": "block/oxidized_copper_trapdoor1",
-		"texture2": "block/oxidized_copper_trapdoor2"
+		"particle":"block/oxidized_copper_trapdoor",
+		"texture":"block/oxidized_copper_trapdoor",
+		"texture1":"block/oxidized_copper_trapdoor1",
+		"texture2":"block/oxidized_copper_trapdoor2"
 	}
 }
