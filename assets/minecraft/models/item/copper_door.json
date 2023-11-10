@@ -1,7 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/door",
-	"ambientocclusion":false,
 	"textures":{
 		"bottom1":"block/copper_door_bottom1",
 		"bottom":"block/copper_door_bottom",
