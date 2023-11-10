@@ -6,6 +6,7 @@
 		"bottom":"block/oxidized_copper_door_bottom",
 		"top2":"block/oxidized_copper_door_top2",
 		"top1":"block/oxidized_copper_door_top1",
-		"particle":"block/oxidized_copper_door_top"
+		"top":"block/oxidized_copper_door_top",
+		"particle":"item/oxidized_copper_door"
 	}
 }

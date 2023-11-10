@@ -6,6 +6,7 @@
 		"bottom":"block/exposed_copper_door_bottom",
 		"top2":"block/exposed_copper_door_top2",
 		"top1":"block/exposed_copper_door_top1",
-		"particle":"block/exposed_copper_door_top"
+		"top":"block/exposed_copper_door_top",
+		"particle":"item/exposed_copper_door"
 	}
 }

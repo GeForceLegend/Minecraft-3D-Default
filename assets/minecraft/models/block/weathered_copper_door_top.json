@@ -3,6 +3,7 @@
 	"parent":"block/copper_door_top",
 	"textures":{
 		"particle":"block/weathered_copper_door_top",
+		"top":"block/weathered_copper_door_top",
 		"top1":"block/weathered_copper_door_top1",
 		"top2":"block/weathered_copper_door_top2"
 	}

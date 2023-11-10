@@ -3,6 +3,7 @@
 	"parent":"block/copper_door_top_hinge",
 	"textures":{
 		"particle":"block/exposed_copper_door_top",
+		"top":"block/exposed_copper_door_top",
 		"top1":"block/exposed_copper_door_top1",
 		"top2":"block/exposed_copper_door_top2"
 	}
