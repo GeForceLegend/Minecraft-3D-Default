@@ -8,7 +8,7 @@
 		"south":"block/crafter_south_triggered",
 		"east":"block/crafter_east_crafting",
 		"west":"block/crafter_west_crafting",
-		"particle":"block/crafter_north"
+		"particle":"block/crafter_north_crafting"
 	},
 	"elements":[
 		{
