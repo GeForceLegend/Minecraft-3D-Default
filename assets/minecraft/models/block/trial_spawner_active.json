@@ -1,8 +1,8 @@
 {
-	"parent": "block/trial_spawner",
-	"textures": {
-		"side": "minecraft:block/trial_spawner_side_active",
-		"top": "minecraft:block/trial_spawner_top_active",
-		"particle": "minecraft:block/trial_spawner_side_active"
+	"parent":"block/trial_spawner",
+	"textures":{
+		"side":"minecraft:block/trial_spawner_side_active",
+		"top":"minecraft:block/trial_spawner_top_active",
+		"particle":"minecraft:block/trial_spawner_side_active"
 	}
 }

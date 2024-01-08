@@ -3,8 +3,8 @@
 	"parent":"block/block",
 	"textures":{
 		"amethyst":"block/calibrated_sculk_sensor_amethyst",
-		"particle":"block/sculk_sensor_bottom",
-		"bottom":"block/sculk_sensor_bottom",
+		"particle":"block/sculk",
+		"bottom":"block/sculk",
 		"side":"block/sculk_sensor_side",
 		"calibrated_side":"block/calibrated_sculk_sensor_input_side",
 		"tendrils":"block/sculk_sensor_tendril_inactive",
