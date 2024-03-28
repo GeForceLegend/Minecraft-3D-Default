@@ -1,7 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"minecraft:block/template_sculk_shrieker",
+	"parent":"block/template_sculk_shrieker",
 	"textures":{
-		"inner_top":"minecraft:block/sculk_shrieker_inner_top"
+		"inner_top":"block/sculk_shrieker_inner_top"
 	}
 }

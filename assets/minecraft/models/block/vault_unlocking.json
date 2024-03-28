@@ -2,9 +2,9 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/vault",
 	"textures":{
-		"bottom":"minecraft:block/vault_bottom",
-		"front":"minecraft:block/vault_front_ejecting",
-		"side":"minecraft:block/vault_side_on",
-		"top":"minecraft:block/vault_top"
+		"bottom":"block/vault_bottom",
+		"front":"block/vault_front_ejecting",
+		"side":"block/vault_side_on",
+		"top":"block/vault_top"
 	}
 }

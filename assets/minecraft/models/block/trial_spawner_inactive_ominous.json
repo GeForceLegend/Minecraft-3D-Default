@@ -1,0 +1,8 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/template_trial_spawner",
+	"textures":{
+		"side":"block/trial_spawner_side_inactive_ominous",
+		"top":"block/trial_spawner_top_inactive_ominous"
+	}
+}

@@ -2,7 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/template_trial_spawner_ejecting_reward",
 	"textures":{
-		"side":"block/trial_spawner_side_active",
-		"top":"block/trial_spawner_top_ejecting_reward"
+		"side":"block/trial_spawner_side_active_ominous",
+		"top":"block/trial_spawner_top_ejecting_reward_ominous"
 	}
 }
