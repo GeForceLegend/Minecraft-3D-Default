@@ -4,21 +4,21 @@
 	"shadowSize":0.5,
 	"models":[
 		{
-			"model":"skeleton_head.jpm",
-			"part":"head",
-			"translate":[-8,-8,-8],
+			"model":"null.jpm",
+			"part":"headwear",
+			"translate":[0,-24,0],
 			"rotate":[0,0,0]
 		},
 		{
-			"model":"null.jpm",
-			"part":"headwear",
-			"translate":[-8,-8,-8],
+			"model":"skeleton_head.jpm",
+			"part":"head",
+			"translate":[0,0,0],
 			"rotate":[0,0,0]
 		},
 		{
 			"model":"skeleton_body.jpm",
 			"part":"body",
-			"translate":[-8,0,-8],
+			"translate":[0,0,0],
 			"rotate":[0,0,0]
 		},
 		{

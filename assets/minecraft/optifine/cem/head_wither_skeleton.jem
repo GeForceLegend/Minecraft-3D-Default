@@ -6,7 +6,7 @@
 		{
 			"model":"skeleton_head.jpm",
 			"part":"head",
-			"translate":[-8,-8,-8],
+			"translate":[0,0,0],
 			"rotate":[0,0,0]
 		}
 	]
