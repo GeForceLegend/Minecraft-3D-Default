@@ -1,8 +1,0 @@
-{
-	"__comment":"Designed by GeForceLegend",
-	"parent":"block/wall_torch",
-	"textures":{
-		"torch":"block/soul_torch",
-		"particle":"block/soul_torch"
-	}
-}
