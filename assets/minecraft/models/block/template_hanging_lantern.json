@@ -8,6 +8,7 @@
 		{
 			"from":[5,1,5],
 			"to":[11,8,11],
+			"light_emission":15,
 			"faces":{
 				"north":{"uv":[0,2,6,9],"texture":"#lantern"},
 				"east":{"uv":[0,2,6,9],"texture":"#lantern"},
@@ -20,6 +21,7 @@
 		{
 			"from":[6,8,6],
 			"to":[10,10,10],
+			"light_emission":15,
 			"faces":{
 				"north":{"uv":[1,0,5,2],"texture":"#lantern"},
 				"east":{"uv":[1,0,5,2],"texture":"#lantern"},

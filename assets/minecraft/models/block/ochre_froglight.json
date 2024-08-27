@@ -1,0 +1,8 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/cube_column_emissive",
+	"textures":{
+		"end":"block/ochre_froglight_top",
+		"side":"block/ochre_froglight_side"
+	}
+}

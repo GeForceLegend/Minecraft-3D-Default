@@ -23,6 +23,7 @@
 		{
 			"from":[3,3,3],
 			"to":[13,14,13],
+			"light_emission":15,
 			"faces":{
 				"north":{"uv":[3,2,13,13],"texture":"#beacon"},
 				"east":{"uv":[3,2,13,13],"texture":"#beacon"},

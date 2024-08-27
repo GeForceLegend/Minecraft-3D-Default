@@ -7,7 +7,7 @@
 		{
 			"from":[7,8,7],
 			"to":[9,10,9],
-            "light_emission":15,
+			"light_emission":15,
 			"faces":{
 				"north":{"uv":[7,6,9,8],"texture":"#torch"},
 				"east":{"uv":[7,6,9,8],"texture":"#torch"},

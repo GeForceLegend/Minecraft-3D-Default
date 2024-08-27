@@ -1,0 +1,13 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/cube_emissive",
+	"textures":{
+		"north":"#all",
+		"south":"#all",
+		"east":"#all",
+		"west":"#all",
+		"up":"#all",
+		"down":"#all",
+		"particle":"#all"
+	}
+}

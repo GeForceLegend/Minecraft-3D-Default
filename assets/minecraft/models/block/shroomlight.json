@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/cube_all_emissive",
+	"textures":{
+		"all":"block/shroomlight"
+	}
+}

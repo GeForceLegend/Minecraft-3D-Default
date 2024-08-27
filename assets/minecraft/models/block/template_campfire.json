@@ -68,6 +68,7 @@
 			"from":[0.8,1,7.99],
 			"to":[15.2,17,8.01],
 			"shade":false,
+			"light_emission":15,
 			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#fire"},
@@ -78,6 +79,7 @@
 			"from":[0.8,1,7.99],
 			"to":[15.2,17,8.01],
 			"shade":false,
+			"light_emission":15,
 			"rotation":{"angle":-45,"axis":"y","origin":[8,8,8],"rescale":true},
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#fire"},
