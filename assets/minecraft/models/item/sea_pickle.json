@@ -32,6 +32,7 @@
 			"from":[7.5,5.2,7.99],
 			"to":[8.5,8.7,8.01],
 			"shade":false,
+			"light_emission":15,
 			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
 			"faces":{
 				"north":{"uv":[1,0,3,5],"texture":"#all"},
@@ -42,6 +43,7 @@
 			"from":[7.99,5.2,7.5],
 			"to":[8.01,8.7,8.5],
 			"shade":false,
+			"light_emission":15,
 			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
 			"faces":{
 				"east":{"uv":[13,0,15,5],"texture":"#all"},
