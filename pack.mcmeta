@@ -1,7 +1,7 @@
 {
 	"pack":{
-		"pack_format":15,
-		"supported_formats":[15,34],
+		"pack_format":35,
+		"supported_formats":[35,37],
 		"description":"3D Default by GeForceLegend"
 	}
 }
