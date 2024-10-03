@@ -22,7 +22,7 @@
 			"scale":[0.275,0.275,0.275]
 		},
 		"firstperson_righthand":{
-			"rotation":[0,-90,25],
+			"rotation":[0,90,-25],
 			"translation":[1.13,1.6,1.13],
 			"scale":[0.34,0.34,0.34]
 		},

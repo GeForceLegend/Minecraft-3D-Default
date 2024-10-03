@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/boat",
+	"textures":{
+		"boat":"item/pale_oak_boat_model"
+	}
+}
