@@ -54,7 +54,7 @@
 		{
 			"from":[5,0,11],
 			"to":[11,1.3,13],
-			"light_emission": 7,
+			"light_emission":7,
 			"faces":{
 				"up":{"uv":[5,11,11,13],"texture":"#top"}
 			}
