@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"model":{
+		"type":"minecraft:model",
+		"model":"minecraft:item/enchanting_table"
+	}
+}
