@@ -1,7 +1,8 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"textures":{
-		"bottle":"item/potion"
+		"bottle":"item/potion",
+		"particle":"item/potion"
 	},
 	"elements":[
 		{

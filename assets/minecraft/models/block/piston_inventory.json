@@ -4,7 +4,8 @@
 	"textures":{
 		"bottom":"block/piston_bottom",
 		"side":"block/piston_side",
-		"top":"block/piston_top"
+		"top":"block/piston_top",
+		"particle":"block/piston_side"
 	},
 	"elements":[
 		{

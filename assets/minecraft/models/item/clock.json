@@ -3,7 +3,8 @@
 	"parent":"item/display_generated",
 	"textures":{
 		"back":"item/clock_back",
-		"layer0":"item/clock_00"
+		"layer0":"item/clock_00",
+		"particle":"item/clock_00"
 	},
 	"elements":[
 		{

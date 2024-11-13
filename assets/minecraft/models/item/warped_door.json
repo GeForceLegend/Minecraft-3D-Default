@@ -5,7 +5,8 @@
 		"bottom":"block/warped_door_bottom",
 		"bottom1":"block/warped_door_bottom1",
 		"top":"block/warped_door_top",
-		"top1":"block/warped_door_top1"
+		"top1":"block/warped_door_top1",
+		"particle":"item/warped_door"
 	},
 	"elements":[
 		{

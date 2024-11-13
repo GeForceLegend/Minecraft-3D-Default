@@ -5,7 +5,8 @@
 		"bottom1":"block/mangrove_door_bottom1",
 		"bottom":"block/mangrove_door_bottom",
 		"top1":"block/mangrove_door_top1",
-		"top":"block/mangrove_door_top"
+		"top":"block/mangrove_door_top",
+		"particle":"item/mangrove_door"
 	},
 	"elements":[
 		{

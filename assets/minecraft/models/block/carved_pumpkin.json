@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/orientable_with_bottom",
+	"parent":"block/display_orientable",
 	"ambientocclusion":false,
 	"textures":{
 		"top":"block/pumpkin_top",

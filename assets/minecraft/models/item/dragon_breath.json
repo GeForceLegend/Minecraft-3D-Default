@@ -1,7 +1,8 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"textures":{
-		"bottle":"item/dragon_breath"
+		"bottle":"item/dragon_breath",
+		"particle":"item/dragon_breath"
 	},
 	"elements":[
 		{
