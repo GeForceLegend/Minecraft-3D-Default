@@ -1,0 +1,45 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"multipart":[
+		{
+			"apply":{
+				"model":"minecraft:block/acacia_hanging_sign"
+			}
+		},
+		{
+			"apply":{
+				"model":"minecraft:block/wall_hanging_sign_chain"
+			},
+			"when":{
+				"facing":"north"
+			}
+		},
+		{
+			"apply":{
+				"model":"minecraft:block/wall_hanging_sign_chain",
+				"y":90
+			},
+			"when":{
+				"facing":"east"
+			}
+		},
+		{
+			"apply":{
+				"model":"minecraft:block/wall_hanging_sign_chain",
+				"y":180
+			},
+			"when":{
+				"facing":"south"
+			}
+		},
+		{
+			"apply":{
+				"model":"minecraft:block/wall_hanging_sign_chain",
+				"y":270
+			},
+			"when":{
+				"facing":"west"
+			}
+		}
+	]
+}
