@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"gui_light":"front",
 	"textures":{
 		"particle":"item/crossbow_standby",
 		"layer0":"item/crossbow_standby",
@@ -487,10 +488,6 @@
 		"ground":{
 			"translation":[0,2,0],
 			"scale":[0.5,0.5,0.5]
-		},
-		"gui":{
-			"rotation":[-30,0,0],
-			"scale":[1,1.15,0.1]
 		},
 		"fixed":{
 			"rotation":[0,180,0],

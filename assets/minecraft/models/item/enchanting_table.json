@@ -2,11 +2,12 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"block/block",
 	"textures":{
-		"book":"item/enchanting_table_book",
 		"bottom":"block/enchanting_table_bottom",
 		"top":"block/enchanting_table_top",
 		"particle":"block/enchanting_table_side",
-		"side":"block/enchanting_table_side"
+		"side":"block/enchanting_table_side",
+		"cover":"item/enchanting_table_book_cover",
+		"paper":"item/enchanting_table_book_paper"
 	},
 	"elements":[
 		{
@@ -109,10 +110,10 @@
 			"from":[7,13,3],
 			"to":[9,13.1,13],
 			"faces":{
-				"north":{"uv":[6,0,7,0.5],"texture":"#book"},
-				"south":{"uv":[6,4.5,7,5],"texture":"#book"},
-				"up":{"uv":[7,0,8,5],"texture":"#book"},
-				"down":{"uv":[6,0,7,5],"texture":"#book"}
+				"north":{"uv":[14,3,16,4],"texture":"#cover"},
+				"south":{"uv":[14,12,16,13],"texture":"#cover"},
+				"up":{"uv":[14,3,16,13],"texture":"#cover"},
+				"down":{"uv":[12,3,14,13],"texture":"#cover"}
 			}
 		},
 		{
@@ -120,11 +121,11 @@
 			"to":[7,13.1,13],
 			"rotation":{"angle":-22.5,"axis":"z","origin":[7,13,8]},
 			"faces":{
-				"north":{"uv":[3,0,6,0.5],"texture":"#book"},
-				"south":{"uv":[6,4.5,3,5],"texture":"#book"},
-				"west":{"uv":[5.5,0,6,5],"rotation":90,"texture":"#book"},
-				"up":{"uv":[0,0,3,5],"texture":"#book"},
-				"down":{"uv":[6,0,3,5],"texture":"#book"}
+				"north":{"uv":[6,3,12,4],"texture":"#cover"},
+				"south":{"uv":[12,12,6,13],"texture":"#cover"},
+				"west":{"uv":[11,3,12,13],"texture":"#cover"},
+				"up":{"uv":[0,3,6,13],"texture":"#cover"},
+				"down":{"uv":[12,3,6,13],"texture":"#cover"}
 			}
 		},
 		{
@@ -132,11 +133,11 @@
 			"to":[15,13.1,13],
 			"rotation":{"angle":22.5,"axis":"z","origin":[9,13,8]},
 			"faces":{
-				"north":{"uv":[11,0,14,0.5],"texture":"#book"},
-				"east":{"uv":[11,0,11.5,5],"rotation":90,"texture":"#book"},
-				"south":{"uv":[14,4.5,11,5],"texture":"#book"},
-				"up":{"uv":[8,0,11,5],"texture":"#book"},
-				"down":{"uv":[14,0,11,5],"texture":"#book"}
+				"north":{"uv":[12,3,6,4],"texture":"#cover"},
+				"east":{"uv":[11,3,12,13],"texture":"#cover"},
+				"south":{"uv":[6,12,12,13],"texture":"#cover"},
+				"up":{"uv":[6,3,0,13],"texture":"#cover"},
+				"down":{"uv":[6,3,12,13],"texture":"#cover"}
 			}
 		},
 		{
@@ -144,12 +145,12 @@
 			"to":[13.5,14.3,12],
 			"rotation":{"angle":22.5,"axis":"z","origin":[9,12.9,8]},
 			"faces":{
-				"north":{"uv":[6.5,5,9,5.5],"texture":"#book"},
-				"east":{"uv":[9,5.5,9.5,9.5],"texture":"#book"},
-				"south":{"uv":[6.5,5,9,5.5],"texture":"#book"},
-				"west":{"uv":[6,5.5,6.5,9.5],"texture":"#book"},
-				"up":{"uv":[12,9.5,9.5,5.5],"texture":"#book"},
-				"down":{"uv":[6.5,5.5,9,9.5],"texture":"#book"}
+				"north":{"uv":[8,0,9,1],"texture":"#paper"},
+				"east":{"uv":[8,0,9,8],"texture":"#paper"},
+				"south":{"uv":[8,0,9,1],"texture":"#paper"},
+				"west":{"uv":[2,0,3,8],"texture":"#paper"},
+				"up":{"uv":[14,8,9,0],"texture":"#paper"},
+				"down":{"uv":[3,0,8,8],"texture":"#paper"}
 			}
 		},
 		{
@@ -157,12 +158,12 @@
 			"to":[7.5,14.3,12],
 			"rotation":{"angle":-22.5,"axis":"z","origin":[7,12.9,8]},
 			"faces":{
-				"north":{"uv":[9,5,6.5,5.5],"texture":"#book"},
-				"east":{"uv":[6.5,5.5,6,9.5],"texture":"#book"},
-				"south":{"uv":[9,5,6.5,5.5],"texture":"#book"},
-				"west":{"uv":[9.5,5.5,9,9.5],"texture":"#book"},
-				"up":{"uv":[3,9.5,0.5,5.5],"texture":"#book"},
-				"down":{"uv":[3.5,5.5,6,9.5],"texture":"#book"}
+				"north":{"uv":[8,8,9,9],"texture":"#paper"},
+				"east":{"uv":[2,8,3,16],"texture":"#paper"},
+				"south":{"uv":[8,8,9,9],"texture":"#paper"},
+				"west":{"uv":[8,8,9,16],"texture":"#paper"},
+				"up":{"uv":[8,16,3,8],"texture":"#paper"},
+				"down":{"uv":[9,8,14,16],"texture":"#paper"}
 			}
 		},
 		{
@@ -170,8 +171,8 @@
 			"to":[13,14.01,12],
 			"rotation":{"angle":45,"axis":"z","origin":[8,14,8]},
 			"faces":{
-				"up":{"uv":[5,13.5,2.5,9.5],"texture":"#book"},
-				"down":{"uv":[0,9.5,2.5,13.5],"texture":"#book"}
+				"up":{"uv":[14,8,9,0],"texture":"#paper"},
+				"down":{"uv":[3,0,8,8],"texture":"#paper"}
 			}
 		},
 		{
@@ -179,8 +180,8 @@
 			"to":[8,14.01,12],
 			"rotation":{"angle":-45,"axis":"z","origin":[8,14,8]},
 			"faces":{
-				"up":{"uv":[2.5,13.5,0,9.5],"texture":"#book"},
-				"down":{"uv":[2.5,9.5,5,13.5],"texture":"#book"}
+				"up":{"uv":[8,8,3,0],"texture":"#paper"},
+				"down":{"uv":[9,0,14,8],"texture":"#paper"}
 			}
 		}
 	],

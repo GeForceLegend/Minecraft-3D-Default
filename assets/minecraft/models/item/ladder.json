@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"gui_light":"front",
 	"textures":{
 		"ladder":"block/ladder",
 		"particle":"block/ladder"
@@ -98,11 +99,6 @@
 		},
 		"fixed":{
 			"rotation":[0,180,0]
-		},
-		"gui":{
-			"rotation":[-30,0,0],
-			"translation":[0,0,0],
-			"scale":[1,1.15,0.01]
 		}
 	}
 }

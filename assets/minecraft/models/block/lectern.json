@@ -1,6 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/block",
+	"parent":"block/display_orientable",
 	"textures":{
 		"bottom":"block/oak_planks",
 		"base":"block/lectern_base",
@@ -103,11 +103,5 @@
 				"up":{"uv":[6,9,7,10],"texture":"#front"}
 			}
 		}
-	],
-	"display":{
-		"firstperson_righthand":{
-			"rotation":[0,135,0],
-			"scale":[0.4,0.4,0.4]
-		}
-	}
+	]
 }

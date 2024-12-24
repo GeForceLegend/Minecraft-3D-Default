@@ -1,6 +1,5 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent":"block/block",
 	"textures":{
 		"particle":"block/vault_side_off_ominous",
 		"side":"block/vault_side_off_ominous",
