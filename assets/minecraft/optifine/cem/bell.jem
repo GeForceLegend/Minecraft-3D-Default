@@ -96,6 +96,9 @@
 					"this:pendulum.rz":"-0.5*body.rz"
 				}
 			]
+		},
+		{
+			"part":"base"
 		}
 	]
 }
