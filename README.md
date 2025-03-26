@@ -29,7 +29,7 @@ Donation: https://afdian.net/@geforcelegend (Please use CNY)
 
 - Optifine self-illuminating textures(not support 1.8 with Optifine version below L5);
 
-- Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition in Minecraft 1.8.9 to 1.13.2 . Please choose NonOf edition when you are not using Optifine in these Minecraft versions.)
+- **[This is disabled after 1.19.3 due to mod and other resource pack compatibility]** Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition in Minecraft 1.8.9 to 1.13.2 . Please choose NonOf edition when you are not using Optifine in these Minecraft versions.)
 
 - PBR self-illuminating textures(Using OldPBR/SEUSPBR format, as emissive channel of LabPBR will not get interpolated)
 
