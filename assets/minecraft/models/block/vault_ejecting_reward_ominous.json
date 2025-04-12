@@ -1,8 +1,8 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"textures":{
-		"particle":"block/vault_side_off_ominous",
-		"side":"block/vault_side_off_ominous",
+		"particle":"block/vault_side_on_ominous",
+		"side":"block/vault_side_on_ominous",
 		"front":"block/vault_front_ejecting_ominous",
 		"top":"block/vault_top_ejecting_ominous",
 		"bottom":"block/vault_bottom_ominous"
