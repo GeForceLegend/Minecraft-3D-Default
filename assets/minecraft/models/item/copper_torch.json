@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"item/template_torch",
+	"textures":{
+		"torch":"block/copper_torch"
+	}
+}

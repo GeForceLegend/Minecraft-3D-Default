@@ -2,6 +2,6 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"minecraft:block/template_chain",
 	"textures":{
-		"all":"block/chain"
+		"all":"block/exposed_copper_chain"
 	}
 }

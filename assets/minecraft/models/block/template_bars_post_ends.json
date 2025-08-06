@@ -1,0 +1,33 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"ambientocclusion":false,
+	"textures":{
+		"particle":"#bars"
+	},
+	"elements":[
+		{
+			"from":[7,0,7],
+			"to":[9,1,9],
+			"faces":{
+				"north":{"uv":[12,8,14,9],"texture":"#bars"},
+				"east":{"uv":[12,7,13,9],"rotation":270,"texture":"#bars"},
+				"south":{"uv":[14,7,12,8],"texture":"#bars"},
+				"west":{"uv":[13,7,14,9],"rotation":90,"texture":"#bars"},
+				"up":{"uv":[14,9,12,7],"texture":"#bars"},
+				"down":{"uv":[14,7,12,9],"texture":"#bars","cullface":"down"}
+			}
+		},
+		{
+			"from":[7,15,7],
+			"to":[9,16,9],
+			"faces":{
+				"north":{"uv":[12,8,14,9],"texture":"#bars"},
+				"east":{"uv":[12,7,13,9],"rotation":270,"texture":"#bars"},
+				"south":{"uv":[14,7,12,8],"texture":"#bars"},
+				"west":{"uv":[13,7,14,9],"rotation":90,"texture":"#bars"},
+				"up":{"uv":[14,9,12,7],"texture":"#bars","cullface":"up"},
+				"down":{"uv":[14,7,12,9],"texture":"#bars"}
+			}
+		}
+	]
+}
