@@ -491,7 +491,7 @@
 		},
 		"fixed":{
 			"rotation":[0,180,0],
-			"translation":[0,0,0.1]
+			"translation":[0,0,-0.5]
 		}
 	}
 }

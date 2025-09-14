@@ -3,7 +3,8 @@
 	"parent":"item/display_generated",
 	"textures":{
 		"back":"item/clock_back",
-		"layer0":"item/clock_00"
+		"layer0":"item/clock_00",
+		"particle":"item/clock_00"
 	},
 	"elements":[
 		{
@@ -189,7 +190,7 @@
 		},
 		{
 			"from":[3,7,7.5],
-			"to":[13,14,8],
+			"to":[13,14,8.1],
 			"faces":{
 				"south":{"uv":[3,2,13,9],"texture":"#layer0"}
 			}
