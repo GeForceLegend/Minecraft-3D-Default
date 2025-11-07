@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/minecart",
 	"textures":{
-		"minecart":"item/minecart_model",
-		"chest":"item/chest_model",
+		"minecart":"block/minecart_model",
+		"chest":"block/chest_model",
 		"particle":"item/chest_minecart"
 	},
 	"elements":[

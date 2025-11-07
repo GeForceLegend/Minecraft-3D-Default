@@ -2,7 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/minecart",
 	"textures":{
-		"minecart":"item/minecart_model",
+		"minecart":"block/minecart_model",
 		"side":"block/furnace_side",
 		"top":"block/furnace_top",
 		"front":"block/furnace_front",

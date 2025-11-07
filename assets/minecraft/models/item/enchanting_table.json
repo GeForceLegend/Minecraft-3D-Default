@@ -6,8 +6,8 @@
 		"top":"block/enchanting_table_top",
 		"particle":"block/enchanting_table_side",
 		"side":"block/enchanting_table_side",
-		"cover":"item/enchanting_table_book_cover",
-		"paper":"item/enchanting_table_book_paper"
+		"cover":"block/enchanting_table_book_cover",
+		"paper":"block/enchanting_table_book_paper"
 	},
 	"elements":[
 		{

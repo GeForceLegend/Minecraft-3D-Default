@@ -2,8 +2,8 @@
 	"__comment":"Designed by GeForceLegend",
 	"textures":{
 		"plank":"block/oak_planks",
-		"body":"item/armor_stand_body",
-		"layer0":"item/armor_stand_end",
+		"body":"block/armor_stand_body",
+		"layer0":"block/armor_stand_end",
 		"particle":"item/armor_stand"
 	},
 	"elements":[

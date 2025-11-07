@@ -2,10 +2,11 @@
 	"__comment":"Designed by GeForceLegend",
 	"parent":"item/minecart",
 	"textures":{
-		"minecart":"item/minecart_model",
+		"minecart":"block/minecart_model",
 		"top":"block/hopper_top",
 		"side":"block/hopper_outside",
-		"inside":"block/hopper_inside"
+		"inside":"block/hopper_inside",
+		"particle":"item/hopper_minecart"
 	},
 	"elements":[
 		{
