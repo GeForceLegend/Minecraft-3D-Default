@@ -3,7 +3,7 @@
 		"pack_format":35,
 		"supported_formats":[35,64],
 		"min_format":[35,0],
-		"max_format":[75,114514],
+		"max_format":[81,114514],
 		"description":"3D Default by GeForceLegend"
 	},
 	"overlays":{
@@ -12,19 +12,19 @@
 				"directory":"1_21_4",
 				"formats":[44,64],
 				"min_format":[44,0],
-				"max_format":[75,114514]
+				"max_format":[81,114514]
 			},
 			{
 				"directory":"1_21_6",
 				"formats":[63,64],
 				"min_format":[63,0],
-				"max_format":[75,114514]
+				"max_format":[81,114514]
 			},
 			{
 				"directory":"1_21_11",
-				"formats":[73,75],
+				"formats":[73,81],
 				"min_format":[73,0],
-				"max_format":[75,114514]
+				"max_format":[81,114514]
 			}
 		]
 	}
