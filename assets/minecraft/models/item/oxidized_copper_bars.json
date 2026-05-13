@@ -1,7 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
-	"parent": "item/template_bars",
-	"textures": {
-		"layer0": "block/oxidized_copper_bars"
+	"parent":"item/template_bars",
+	"textures":{
+		"layer0":"block/oxidized_copper_bars"
 	}
 }
