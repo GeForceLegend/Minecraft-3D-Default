@@ -44,8 +44,7 @@
 				"east":{"uv":[0,0,16,5],"texture":"#top"},
 				"south":{"uv":[3,0,0,5],"texture":"#top1","cullface":"south"},
 				"west":{"uv":[16,0,0,5],"texture":"#top","cullface":"west"},
-				"up":{"uv":[7,16,10,0],"texture":"#top1"},
-				"down":{"uv":[11,0,12,8],"texture":"#top1"}
+				"up":{"uv":[7,16,10,0],"texture":"#top1"}
 			}
 		},
 		{
