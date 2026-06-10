@@ -125,7 +125,6 @@
 			"faces":{
 				"north":{"uv":[12,2,13,3],"texture":"#particle"},
 				"east":{"uv":[12,2,13,3],"texture":"#particle"},
-				"south":{"uv":[12,2,13,3],"texture":"#particle"},
 				"west":{"uv":[12,2,13,3],"texture":"#particle"},
 				"up":{"uv":[12,2,13,3],"texture":"#particle"},
 				"down":{"uv":[12,2,13,3],"texture":"#particle"}
@@ -137,7 +136,6 @@
 			"faces":{
 				"north":{"uv":[12,2,13,3],"texture":"#particle","cullface":"west"},
 				"east":{"uv":[12,2,13,3],"texture":"#particle","cullface":"west"},
-				"south":{"uv":[12,2,13,3],"texture":"#particle","cullface":"west"},
 				"west":{"uv":[12,2,13,3],"texture":"#particle","cullface":"west"},
 				"up":{"uv":[12,2,13,3],"texture":"#particle","cullface":"west"},
 				"down":{"uv":[12,2,13,3],"texture":"#particle","cullface":"west"}

@@ -3,5 +3,13 @@
 		"pack_format":15,
 		"supported_formats":[15,34],
 		"description":"3D Default by GeForceLegend"
+	},
+	"overlays":{
+		"entries":[
+			{
+				"directory":"1_21",
+				"formats":[34,34]
+			}
+		]
 	}
 }

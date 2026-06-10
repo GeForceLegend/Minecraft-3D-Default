@@ -126,8 +126,8 @@
 			"to":[3,13,12],
 			"faces":{
 				"north":{"uv":[3,7,0,8],"texture":"#layer2"},
-				"east":{"uv":[5,2,4,5],"texture":"#particle"},
-				"west":{"uv":[5,2,4,5],"texture":"#particle","cullface":"west"},
+				"east":{"uv":[5,3,4,5],"texture":"#particle"},
+				"west":{"uv":[5,3,4,5],"texture":"#particle","cullface":"west"},
 				"down":{"uv":[0,8,3,7],"texture":"#layer2"}
 			}
 		},
