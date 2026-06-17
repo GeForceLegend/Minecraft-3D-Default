@@ -5,7 +5,8 @@
 		"bottom1":"block/mangrove_door_bottom1",
 		"bottom":"block/mangrove_door_bottom",
 		"top1":"block/mangrove_door_top1",
-		"top":"block/mangrove_door_top"
+		"top":"block/mangrove_door_top",
+		"particle":"item/mangrove_door"
 	},
 	"elements":[
 		{
@@ -128,7 +129,6 @@
 				"north":{"uv":[12,2,13,3],"texture":"#bottom"},
 				"east":{"uv":[12,2,13,3],"texture":"#bottom"},
 				"south":{"uv":[12,2,13,3],"texture":"#bottom"},
-				"west":{"uv":[12,2,13,3],"texture":"#bottom"},
 				"up":{"uv":[12,2,13,3],"rotation":90,"texture":"#bottom"},
 				"down":{"uv":[12,2,13,3],"rotation":270,"texture":"#bottom"}
 			}
@@ -140,7 +140,6 @@
 				"north":{"uv":[12,2,13,3],"texture":"#bottom"},
 				"east":{"uv":[12,2,13,3],"texture":"#bottom"},
 				"south":{"uv":[12,2,13,3],"texture":"#bottom"},
-				"west":{"uv":[12,2,13,3],"texture":"#bottom"},
 				"up":{"uv":[12,2,13,3],"rotation":90,"texture":"#bottom"},
 				"down":{"uv":[12,2,13,3],"rotation":270,"texture":"#bottom"}
 			}
@@ -307,7 +306,6 @@
 				"north":{"uv":[12,13,13,14],"texture":"#top"},
 				"east":{"uv":[12,13,13,14],"texture":"#top"},
 				"south":{"uv":[12,13,13,14],"texture":"#top"},
-				"west":{"uv":[12,13,13,14],"texture":"#top"},
 				"up":{"uv":[12,13,13,14],"rotation":90,"texture":"#top"},
 				"down":{"uv":[12,13,13,14],"rotation":90,"texture":"#top"}
 			}
@@ -319,7 +317,6 @@
 				"north":{"uv":[12,13,13,14],"texture":"#top"},
 				"east":{"uv":[12,13,13,14],"texture":"#top"},
 				"south":{"uv":[12,13,13,14],"texture":"#top"},
-				"west":{"uv":[12,13,13,14],"texture":"#top"},
 				"up":{"uv":[12,13,13,14],"rotation":90,"texture":"#top"},
 				"down":{"uv":[12,13,13,14],"rotation":270,"texture":"#top"}
 			}
