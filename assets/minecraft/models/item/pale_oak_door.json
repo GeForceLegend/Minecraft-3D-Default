@@ -197,8 +197,7 @@
 				"east":{"uv":[0,0,3,5],"texture":"#top1","cullface":"north"},
 				"south":{"uv":[16,0,0,5],"texture":"#top"},
 				"west":{"uv":[13,0,16,5],"texture":"#top1","cullface":"south"},
-				"up":{"uv":[7,0,10,16],"rotation":90,"texture":"#top1"},
-				"down":{"uv":[11,8,12,0],"rotation":270,"texture":"#top1"}
+				"up":{"uv":[7,0,10,16],"rotation":90,"texture":"#top1"}
 			}
 		},
 		{
