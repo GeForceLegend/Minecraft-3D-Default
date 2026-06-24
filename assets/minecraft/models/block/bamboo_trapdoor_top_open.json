@@ -1,5 +1,6 @@
 {
 	"__comment":"Designed by GeForceLegend",
+	"ambientocclusion":false,
 	"textures":{
 		"particle":"block/bamboo_trapdoor",
 		"layer0":"block/bamboo_trapdoor",
