@@ -1,6 +1,7 @@
 {
 	"__comment":"Designed by GeForceLegend",
 	"animation":{
-		"frametime":3
+		"frametime":3,
+		"interpolate":true
 	}
 }

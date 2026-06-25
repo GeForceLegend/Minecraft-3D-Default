@@ -2,6 +2,7 @@
 	"__comment":"Designed by GeForceLegend",
 	"animation":{
 		"frametime":2,
+		"interpolate":true,
 		"frames":[
 			0,
 			1,
