@@ -1,0 +1,7 @@
+{
+	"__comment":"Designed by GeForceLegend",
+	"parent":"block/leaves",
+	"textures":{
+		"all":"block/yellow_poplar_leaves"
+	}
+}
