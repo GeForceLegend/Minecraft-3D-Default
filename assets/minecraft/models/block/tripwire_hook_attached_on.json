@@ -12,6 +12,7 @@
 			"from":[7.75,1.5,4],
 			"to":[8.25,1.5,7.9],
 			"shade":false,
+			"shade_direction_override":"up",
 			"faces":{
 				"up":{"uv":[0,4,16,6],"rotation":90,"texture":"#tripwire"},
 				"down":{"uv":[0,6,16,4],"rotation":90,"texture":"#tripwire"}
@@ -21,6 +22,7 @@
 			"from":[7.75,1.5,0],
 			"to":[8.25,1.5,4],
 			"shade":false,
+			"shade_direction_override":"up",
 			"faces":{
 				"up":{"uv":[0,4,16,6],"rotation":90,"texture":"#tripwire"},
 				"down":{"uv":[0,6,16,4],"rotation":90,"texture":"#tripwire"}

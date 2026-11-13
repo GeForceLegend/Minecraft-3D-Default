@@ -499,6 +499,7 @@
 			"from":[8,8,5],
 			"to":[8,20,11],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":45,"axis":"y","origin":[8,9,8],"rescale":true},
 			"faces":{
 				"east":{"uv":[4,4,11,16],"texture":"#amethyst"},
@@ -509,6 +510,7 @@
 			"from":[5,8,8],
 			"to":[11,20,8],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":45,"axis":"y","origin":[8,9,8],"rescale":true},
 			"faces":{
 				"north":{"uv":[4,4,11,16],"texture":"#amethyst"},

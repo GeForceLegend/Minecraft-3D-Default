@@ -10,6 +10,7 @@
 			"from":[5,8.2,8],
 			"to":[13,8.2,16],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"x","origin":[8,8.2,8]},
 			"faces":{
 				"up":{"uv":[16,0,0,16],"texture":"#texture","tintindex":0},
@@ -20,6 +21,7 @@
 			"from":[3,4.2,8],
 			"to":[11,4.2,16],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"x","origin":[8,4.2,8]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"texture":"#texture","tintindex":0},
@@ -30,6 +32,7 @@
 			"from":[5,12.2,0],
 			"to":[13,12.2,8],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"x","origin":[8,12.2,8]},
 			"faces":{
 				"up":{"uv":[0,16,16,0],"texture":"#texture","tintindex":0},
@@ -40,6 +43,7 @@
 			"from":[3,8.2,0],
 			"to":[11,8.2,8],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"x","origin":[8,8.2,8]},
 			"faces":{
 				"up":{"uv":[16,16,0,0],"texture":"#texture","tintindex":0},
@@ -50,6 +54,7 @@
 			"from":[5,4.2,0],
 			"to":[13,4.2,8],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"x","origin":[8,4.2,8]},
 			"faces":{
 				"up":{"uv":[0,16,16,0],"texture":"#texture","tintindex":0},
@@ -60,6 +65,7 @@
 			"from":[3,12.2,8],
 			"to":[11,12.2,16],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"x","origin":[8,12.2,8]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"texture":"#texture","tintindex":0},
@@ -70,6 +76,7 @@
 			"from":[5,16.2,8],
 			"to":[13,16.2,16],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"x","origin":[8,16.2,8]},
 			"faces":{
 				"up":{"uv":[16,0,0,16],"texture":"#texture","tintindex":0},
@@ -80,6 +87,7 @@
 			"from":[3,16.2,0],
 			"to":[11,16.2,8],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"x","origin":[8,16.2,8]},
 			"faces":{
 				"up":{"uv":[16,16,0,0],"texture":"#texture","tintindex":0},
@@ -90,6 +98,7 @@
 			"from":[8,10.2,3],
 			"to":[16,10.2,11],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"z","origin":[8,10.2,8]},
 			"faces":{
 				"up":{"uv":[16,0,0,16],"rotation":270,"texture":"#texture","tintindex":0},
@@ -100,6 +109,7 @@
 			"from":[8,6.2,5],
 			"to":[16,6.2,13],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"z","origin":[8,6.2,8]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"rotation":270,"texture":"#texture","tintindex":0},
@@ -110,6 +120,7 @@
 			"from":[8,2.2,3],
 			"to":[16,2.2,11],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"z","origin":[8,2.2,8]},
 			"faces":{
 				"up":{"uv":[16,0,0,16],"rotation":270,"texture":"#texture","tintindex":0},
@@ -120,6 +131,7 @@
 			"from":[0,10.2,5],
 			"to":[8,10.2,13],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"z","origin":[8,10.2,8]},
 			"faces":{
 				"up":{"uv":[16,0,0,16],"rotation":90,"texture":"#texture","tintindex":0},
@@ -130,6 +142,7 @@
 			"from":[0,6.2,3],
 			"to":[8,6.2,11],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"z","origin":[8,6.2,8]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"rotation":90,"texture":"#texture","tintindex":0},
@@ -140,6 +153,7 @@
 			"from":[0,2.2,5],
 			"to":[8,2.2,13],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"z","origin":[8,2.2,8]},
 			"faces":{
 				"up":{"uv":[16,0,0,16],"rotation":90,"texture":"#texture","tintindex":0},
@@ -150,6 +164,7 @@
 			"from":[8,14.2,5],
 			"to":[16,14.2,13],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":-22.5,"axis":"z","origin":[8,14.2,8]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"rotation":270,"texture":"#texture","tintindex":0},
@@ -160,6 +175,7 @@
 			"from":[0,14.2,3],
 			"to":[8,14.2,11],
 			"shade":false,
+			"shade_direction_override":"up",
 			"rotation":{"angle":22.5,"axis":"z","origin":[8,14.2,8]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"rotation":90,"texture":"#texture","tintindex":0},

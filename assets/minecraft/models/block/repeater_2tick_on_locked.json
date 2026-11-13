@@ -85,6 +85,7 @@
 			"from":[7,4,2],
 			"to":[9,7,4],
 			"shade":false,
+			"shade_direction_override":"up",
 			"light_emission":7,
 			"faces":{
 				"north":{"uv":[7,6,9,9],"texture":"#lit"},
@@ -98,6 +99,7 @@
 			"from":[9.5,4.5,1.5],
 			"to":[6.5,7.5,4.5],
 			"shade":false,
+			"shade_direction_override":"up",
 			"light_emission":7,
 			"faces":{
 				"north":{"uv":[6,5,7,6],"texture":"#lit"},
